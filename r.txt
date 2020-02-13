@@ -1,0 +1,4910 @@
+{
+    "ability": 65,
+    "ability_b": 0,
+    "ability_hidden": 34,
+    "abilitya": {
+        "abi_id": 65,
+        "brief_description": "ＨＰ减少的时候，草属性的招式威力会提高。",
+        "name": "茂盛",
+        "name_en": "Overgrow"
+    },
+    "abilityb": "null",
+    "abilityc": {
+        "abi_id": 34,
+        "brief_description": "晴朗天气时，速度会提高。",
+        "name": "叶绿素",
+        "name_en": "Chlorophyll"
+    },
+    "akala_id": 0,
+    "akala_id_sm": 0,
+    "alola_id": 0,
+    "alola_id_sm": 0,
+    "base_exp": 64,
+    "base_stat": [
+        45,
+        49,
+        49,
+        65,
+        65,
+        45
+    ],
+    "bs_atk": 49,
+    "bs_def": 49,
+    "bs_hp": 45,
+    "bs_spatk": 65,
+    "bs_spd": 45,
+    "bs_spdef": 65,
+    "capture_rate": 45,
+    "category": "种子",
+    "color": 4,
+    "description_moon": "",
+    "description_shield": "在出生后的一段时间内，它会吸收背上种子里储存着的营养成长。",
+    "description_sun": "",
+    "description_sword": "它的身影。曾有一段时期，人们认为它已经灭绝了。",
+    "description_um": "",
+    "description_us": "",
+    "devolution": {
+        "name": "妙蛙种子",
+        "nat_id": 1
+    },
+    "effort_value": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "eft_value_defeated": "000100",
+    "egg_cycle": 21,
+    "egg_group": 1,
+    "egg_group_b": 7,
+    "encounter_table": [],
+    "encounter_table_sw": [],
+    "ev_atk": 0,
+    "ev_def": 0,
+    "ev_hp": 0,
+    "ev_spatk": 1,
+    "ev_spd": 0,
+    "ev_spdef": 0,
+    "evolve_chain": [
+        {
+            "approach": {
+                "0": 2,
+                "1": 16,
+                "10": "",
+                "11": "",
+                "12": "",
+                "13": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": "",
+                "8": "",
+                "9": "",
+                "name": "妙蛙草",
+                "text": "16级时进化而成。"
+            },
+            "chain": [
+                {
+                    "approach": {
+                        "0": 3,
+                        "1": 32,
+                        "10": "",
+                        "11": "",
+                        "12": "",
+                        "13": "",
+                        "2": "",
+                        "3": "",
+                        "4": "",
+                        "5": "",
+                        "6": "",
+                        "7": "",
+                        "8": "",
+                        "9": "",
+                        "name": "妙蛙花",
+                        "text": "32级时进化而成。"
+                    },
+                    "chain": []
+                }
+            ]
+        }
+    ],
+    "exp_type": 4,
+    "form": 0,
+    "forme": [],
+    "galar_form": 0,
+    "galar_id": 0,
+    "gender_rate": 31,
+    "gender_ratio": [
+        87.5,
+        12.5
+    ],
+    "happiness_initial": 70,
+    "has_female_sprite": 0,
+    "has_gigamax": 0,
+    "height": 0.7,
+    "hold_item_common": "null",
+    "hold_item_rare": "null",
+    "initial_id": 1,
+    "internal_id": 1,
+    "max_exp": "1,059,860",
+    "melemele_id": 0,
+    "melemele_id_sm": 0,
+    "moves": {
+        "1": {
+            "1": [
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "让对手听可爱的叫声，引开注意力使其疏忽，从而降低对手的攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 1,
+                    "move_id": 45,
+                    "name": "叫声",
+                    "power": 0,
+                    "pp": 40,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体撞向对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 1,
+                    "move_id": 33,
+                    "name": "撞击",
+                    "power": 40,
+                    "pp": 35,
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "植入寄生种子后，将在每回合一点一点吸取对手的ＨＰ，从而用来回复自己的ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 7,
+                    "move_id": 73,
+                    "name": "寄生种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 13,
+                    "move_id": 22,
+                    "name": "藤鞭",
+                    "power": 45,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出毒粉，从而让对手陷入中毒状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 20,
+                    "move_id": 77,
+                    "name": "毒粉",
+                    "power": 0,
+                    "pp": 35,
+                    "type": 9
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "飞出叶片，切斩对手进行攻击。容易击中要害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 27,
+                    "move_id": 75,
+                    "name": "飞叶快刀",
+                    "power": 55,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "让身体一下子长大，从而提高攻击和特攻。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 34,
+                    "move_id": 74,
+                    "name": "生长",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出催眠粉，从而让对手陷入睡眠状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 41,
+                    "move_id": 79,
+                    "name": "催眠粉",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 48,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                }
+            ],
+            "2": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+                    "gen7_tm_id": 75,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 14,
+                    "name": "剑舞",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM003",
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。",
+                    "gen7_tm_id": 6,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 92,
+                    "name": "剧毒",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM006",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体压住对手进行攻击。有时会让对手陷入麻痹状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 34,
+                    "name": "泰山压顶",
+                    "power": 85,
+                    "pp": 15,
+                    "tm_id": "TM008",
+                    "type": 5
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "以惊人的气势撞向对手进行攻击。自己也会受到少许伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 36,
+                    "name": "猛撞",
+                    "power": 90,
+                    "pp": 20,
+                    "tm_id": "TM009",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "拼命地猛撞向对手进行攻击。自己也会受到不小的伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 38,
+                    "name": "舍身冲撞",
+                    "power": 120,
+                    "pp": 15,
+                    "tm_id": "TM010",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 99,
+                    "name": "愤怒",
+                    "power": 20,
+                    "pp": 20,
+                    "tm_id": "TM020",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 72,
+                    "name": "超级吸取",
+                    "power": 40,
+                    "pp": 15,
+                    "tm_id": "TM021",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "tm_id": "TM022",
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "可以将对手最后使用的招式，在战斗内变成自己的招式。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 102,
+                    "name": "模仿",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM031",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "通过快速移动来制造分身，扰乱对手，从而提高闪避率。",
+                    "gen7_tm_id": 32,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 104,
+                    "name": "影子分身",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM032",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "利用神奇的墙壁，在５回合内减弱从对手那里受到的物理攻击的伤害。",
+                    "gen7_tm_id": 33,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 115,
+                    "name": "反射壁",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM033",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 0,
+                    "move_id": 117,
+                    "name": "忍耐",
+                    "power": 1,
+                    "pp": 10,
+                    "tm_id": "TM034",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "连续睡上２回合。回复自己的全部ＨＰ以及治愈所有异常状态。",
+                    "gen7_tm_id": 44,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 156,
+                    "name": "睡觉",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM044",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "削减少许自己的ＨＰ，制造分身。分身将成为自己的替身。",
+                    "gen7_tm_id": 90,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 164,
+                    "name": "替身",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM050",
+                    "type": 5
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "用镰刀或爪子等切斩对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 0,
+                    "move_id": 15,
+                    "name": "居合斩",
+                    "power": 50,
+                    "pp": 30,
+                    "tm_id": "HM000",
+                    "type": 5
+                }
+            ]
+        },
+        "1.1": {
+            "1": [
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "让对手听可爱的叫声，引开注意力使其疏忽，从而降低对手的攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 1,
+                    "move_id": 45,
+                    "name": "叫声",
+                    "power": 0,
+                    "pp": 40,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体撞向对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 1,
+                    "move_id": 33,
+                    "name": "撞击",
+                    "power": 40,
+                    "pp": 35,
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "植入寄生种子后，将在每回合一点一点吸取对手的ＨＰ，从而用来回复自己的ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 7,
+                    "move_id": 73,
+                    "name": "寄生种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 13,
+                    "move_id": 22,
+                    "name": "藤鞭",
+                    "power": 45,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出毒粉，从而让对手陷入中毒状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 20,
+                    "move_id": 77,
+                    "name": "毒粉",
+                    "power": 0,
+                    "pp": 35,
+                    "type": 9
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "飞出叶片，切斩对手进行攻击。容易击中要害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 27,
+                    "move_id": 75,
+                    "name": "飞叶快刀",
+                    "power": 55,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "让身体一下子长大，从而提高攻击和特攻。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 34,
+                    "move_id": 74,
+                    "name": "生长",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出催眠粉，从而让对手陷入睡眠状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 41,
+                    "move_id": 79,
+                    "name": "催眠粉",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 48,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                }
+            ],
+            "2": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+                    "gen7_tm_id": 75,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 14,
+                    "name": "剑舞",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM003",
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。",
+                    "gen7_tm_id": 6,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 92,
+                    "name": "剧毒",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM006",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体压住对手进行攻击。有时会让对手陷入麻痹状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 34,
+                    "name": "泰山压顶",
+                    "power": 85,
+                    "pp": 15,
+                    "tm_id": "TM008",
+                    "type": 5
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "以惊人的气势撞向对手进行攻击。自己也会受到少许伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 36,
+                    "name": "猛撞",
+                    "power": 90,
+                    "pp": 20,
+                    "tm_id": "TM009",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "拼命地猛撞向对手进行攻击。自己也会受到不小的伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 38,
+                    "name": "舍身冲撞",
+                    "power": 120,
+                    "pp": 15,
+                    "tm_id": "TM010",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 99,
+                    "name": "愤怒",
+                    "power": 20,
+                    "pp": 20,
+                    "tm_id": "TM020",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 72,
+                    "name": "超级吸取",
+                    "power": 40,
+                    "pp": 15,
+                    "tm_id": "TM021",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "tm_id": "TM022",
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "可以将对手最后使用的招式，在战斗内变成自己的招式。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 102,
+                    "name": "模仿",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM031",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "通过快速移动来制造分身，扰乱对手，从而提高闪避率。",
+                    "gen7_tm_id": 32,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 104,
+                    "name": "影子分身",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM032",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "利用神奇的墙壁，在５回合内减弱从对手那里受到的物理攻击的伤害。",
+                    "gen7_tm_id": 33,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 115,
+                    "name": "反射壁",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM033",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 0,
+                    "move_id": 117,
+                    "name": "忍耐",
+                    "power": 1,
+                    "pp": 10,
+                    "tm_id": "TM034",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "连续睡上２回合。回复自己的全部ＨＰ以及治愈所有异常状态。",
+                    "gen7_tm_id": 44,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 156,
+                    "name": "睡觉",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM044",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "削减少许自己的ＨＰ，制造分身。分身将成为自己的替身。",
+                    "gen7_tm_id": 90,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 164,
+                    "name": "替身",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM050",
+                    "type": 5
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "用镰刀或爪子等切斩对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 0,
+                    "move_id": 15,
+                    "name": "居合斩",
+                    "power": 50,
+                    "pp": 30,
+                    "tm_id": "HM000",
+                    "type": 5
+                }
+            ]
+        },
+        "7": {
+            "1": [
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体撞向对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 1,
+                    "move_id": 33,
+                    "name": "撞击",
+                    "power": 40,
+                    "pp": 35,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "让对手听可爱的叫声，引开注意力使其疏忽，从而降低对手的攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 3,
+                    "move_id": 45,
+                    "name": "叫声",
+                    "power": 0,
+                    "pp": 40,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 7,
+                    "move_id": 22,
+                    "name": "藤鞭",
+                    "power": 45,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 9,
+                    "move_id": 22,
+                    "name": "藤鞭",
+                    "power": 45,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出催眠粉，从而让对手陷入睡眠状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 13,
+                    "move_id": 79,
+                    "name": "催眠粉",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出毒粉，从而让对手陷入中毒状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 13,
+                    "move_id": 77,
+                    "name": "毒粉",
+                    "power": 0,
+                    "pp": 35,
+                    "type": 9
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "以惊人的气势撞向对手进行攻击。自己也会受到少许伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 15,
+                    "move_id": 36,
+                    "name": "猛撞",
+                    "power": 90,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "飞出叶片，切斩对手进行攻击。容易击中要害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 19,
+                    "move_id": 75,
+                    "name": "飞叶快刀",
+                    "power": 55,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "用香气大幅降低对手的闪避率。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 21,
+                    "move_id": 230,
+                    "name": "甜甜香气",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "让身体一下子长大，从而提高攻击和特攻。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 25,
+                    "move_id": 74,
+                    "name": "生长",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "拼命地猛撞向对手进行攻击。自己也会受到不小的伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 27,
+                    "move_id": 38,
+                    "name": "舍身冲撞",
+                    "power": 120,
+                    "pp": 15,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "种植心神不宁的种子。使对手不能入眠，并将特性变成不眠。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 31,
+                    "move_id": 388,
+                    "name": "烦恼种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 33,
+                    "move_id": 235,
+                    "name": "光合作用",
+                    "power": 0,
+                    "pp": 5,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "将外壳坚硬的大种子，从上方砸下攻击对手。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 37,
+                    "move_id": 402,
+                    "name": "种子炸弹",
+                    "power": 80,
+                    "pp": 15,
+                    "type": 3
+                }
+            ],
+            "2": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激励自己，从而提高攻击和特攻。",
+                    "gen7_tm_id": 1,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 526,
+                    "name": "自我激励",
+                    "power": 0,
+                    "pp": 30,
+                    "tm_id": "TM001",
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。",
+                    "gen7_tm_id": 6,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 92,
+                    "name": "剧毒",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM006",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "将特殊的毒液泼向对手。对处于中毒状态的对手，威力会变成２倍。",
+                    "gen7_tm_id": 9,
+                    "gigamax_power": 85,
+                    "learn_level": 0,
+                    "move_id": 474,
+                    "name": "毒液冲击",
+                    "power": 65,
+                    "pp": 10,
+                    "tm_id": "TM009",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": 10,
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 237,
+                    "name": "觉醒力量",
+                    "power": 60,
+                    "pp": 15,
+                    "tm_id": "TM010",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内让日照变得强烈，从而提高火属性的招式威力。水属性的招式威力则降低。",
+                    "gen7_tm_id": 11,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 241,
+                    "name": "大晴天",
+                    "power": 0,
+                    "pp": 5,
+                    "tm_id": "TM011",
+                    "type": 1
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "利用神奇的墙壁，在５回合内减弱从对手那里受到的特殊攻击的伤害。",
+                    "gen7_tm_id": 16,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 113,
+                    "name": "光墙",
+                    "power": 0,
+                    "pp": 30,
+                    "tm_id": "TM016",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "完全抵挡对手的攻击。连续使出则容易失败。",
+                    "gen7_tm_id": 17,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 182,
+                    "name": "守住",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM017",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内被神奇的力量守护，从而不会陷入异常状态。",
+                    "gen7_tm_id": 20,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 219,
+                    "name": "神秘守护",
+                    "power": 0,
+                    "pp": 25,
+                    "tm_id": "TM020",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": 21,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 218,
+                    "name": "迁怒",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TM021",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "tm_id": "TM022",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": 27,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 216,
+                    "name": "报恩",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TM027",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "通过快速移动来制造分身，扰乱对手，从而提高闪避率。",
+                    "gen7_tm_id": 32,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 104,
+                    "name": "影子分身",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM032",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+                    "gen7_tm_id": 36,
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 188,
+                    "name": "污泥炸弹",
+                    "power": 90,
+                    "pp": 10,
+                    "tm_id": "TM036",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "当自己处于中毒、麻痹、灼伤状态时，向对手使出此招式的话，威力会变成２倍。",
+                    "gen7_tm_id": 42,
+                    "gigamax_power": 120,
+                    "learn_level": 0,
+                    "move_id": 263,
+                    "name": "硬撑",
+                    "power": 70,
+                    "pp": 20,
+                    "tm_id": "TM042",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "连续睡上２回合。回复自己的全部ＨＰ以及治愈所有异常状态。",
+                    "gen7_tm_id": 44,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 156,
+                    "name": "睡觉",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM044",
+                    "type": 14
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "♂诱惑♀或♀诱惑♂，让对手着迷。对手将很难使出招式。",
+                    "gen7_tm_id": 45,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 213,
+                    "name": "迷人",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM045",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用歌声攻击对手。同伴还可以接着使出轮唱招式，威力也会提高。",
+                    "gen7_tm_id": 48,
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 496,
+                    "name": "轮唱",
+                    "power": 60,
+                    "pp": 15,
+                    "tm_id": "TM048",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用回声攻击对手。如果每回合都有宝可梦接着使用该招式，威力就会提高。",
+                    "gen7_tm_id": 49,
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 497,
+                    "name": "回声",
+                    "power": 40,
+                    "pp": 15,
+                    "tm_id": "TM049",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "发射从自然收集的生命力量。有时会降低对手的特防。",
+                    "gen7_tm_id": 53,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 412,
+                    "name": "能量球",
+                    "power": 90,
+                    "pp": 10,
+                    "tm_id": "TM053",
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+                    "gen7_tm_id": 75,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 14,
+                    "name": "剑舞",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM075",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用草缠住并绊倒对手。对手越重，威力越大。",
+                    "gen7_tm_id": 86,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 447,
+                    "name": "打草结",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TM086",
+                    "type": 3
+                },
+                {
+                    "accuracy": 85,
+                    "class": 0,
+                    "description": "激怒对手，使其混乱。因为愤怒，对手的攻击会大幅提高。",
+                    "gen7_tm_id": 87,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 207,
+                    "name": "虚张声势",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM087",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "从自己已学会的招式中任意使出１个。只能在自己睡觉时使用。",
+                    "gen7_tm_id": 88,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 214,
+                    "name": "梦话",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM088",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "削减少许自己的ＨＰ，制造分身。分身将成为自己的替身。",
+                    "gen7_tm_id": 90,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 164,
+                    "name": "替身",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM090",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "用自然之力进行攻击。根据所使用场所的不同，使出的招式也会有所变化。",
+                    "gen7_tm_id": 96,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 267,
+                    "name": "自然之力",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM096",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "和对手进行密语，使其失去集中力，从而降低对手的特攻。",
+                    "gen7_tm_id": 100,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 590,
+                    "name": "密语",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM100",
+                    "type": 5
+                }
+            ],
+            "3": [
+                {
+                    "accuracy": 90,
+                    "class": 2,
+                    "description": "用大树摔打对手进行攻击。下一回合自己将无法动弹。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 150,
+                    "learn_level": 0,
+                    "move_id": 338,
+                    "name": "疯狂植物",
+                    "power": 150,
+                    "pp": 5,
+                    "type": 3
+                }
+            ],
+            "4": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "将头脑清空，瞬间忘记某事，从而大幅提高自己的特防。",
+                    "from": {
+                        "143": [
+                            1,
+                            "卡比兽"
+                        ],
+                        "80": [
+                            1,
+                            "呆壳兽"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 133,
+                    "name": "瞬间失忆",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 14
+                },
+                {
+                    "accuracy": 90,
+                    "class": 2,
+                    "description": "用尖尖的叶片向对手卷起风暴。使用之后因为反作用力自己的特攻会大幅降低。",
+                    "from": {
+                        "103": [
+                            1,
+                            "椰蛋树"
+                        ],
+                        "103.1": [
+                            1,
+                            "椰蛋树-阿罗拉的样子"
+                        ],
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "253": [
+                            1,
+                            "森林蜥蜴"
+                        ],
+                        "254": [
+                            1,
+                            "蜥蜴王"
+                        ],
+                        "275": [
+                            1,
+                            "狡猾天狗"
+                        ],
+                        "357": [
+                            1,
+                            "热带龙"
+                        ],
+                        "387": [
+                            1,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            1,
+                            "树林龟"
+                        ],
+                        "389": [
+                            1,
+                            "土台龟"
+                        ],
+                        "495": [
+                            1,
+                            "藤藤蛇"
+                        ],
+                        "496": [
+                            1,
+                            "青藤蛇"
+                        ],
+                        "497": [
+                            1,
+                            "君主蛇"
+                        ],
+                        "71": [
+                            1,
+                            "大食花"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 437,
+                    "name": "飞叶风暴",
+                    "power": 130,
+                    "pp": 5,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+                    "from": {
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "187": [
+                            1,
+                            "毽子草"
+                        ],
+                        "188": [
+                            1,
+                            "毽子花"
+                        ],
+                        "189": [
+                            1,
+                            "毽子棉"
+                        ],
+                        "191": [
+                            1,
+                            "向日种子"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "252": [
+                            1,
+                            "木守宫"
+                        ],
+                        "270": [
+                            1,
+                            "莲叶童子"
+                        ],
+                        "285": [
+                            1,
+                            "蘑蘑菇"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "387": [
+                            1,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            1,
+                            "树林龟"
+                        ],
+                        "389": [
+                            1,
+                            "土台龟"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "46": [
+                            1,
+                            "派拉斯"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "47": [
+                            1,
+                            "派拉斯特"
+                        ],
+                        "495": [
+                            1,
+                            "藤藤蛇"
+                        ],
+                        "496": [
+                            1,
+                            "青藤蛇"
+                        ],
+                        "497": [
+                            1,
+                            "君主蛇"
+                        ],
+                        "546": [
+                            1,
+                            "木棉球"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "590": [
+                            1,
+                            "哎呀球菇"
+                        ],
+                        "591": [
+                            1,
+                            "败露球菇"
+                        ],
+                        "755": [
+                            1,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            1,
+                            "灯罩夜菇"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 202,
+                    "name": "终极吸取",
+                    "power": 75,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内变成青草场地。地面上的宝可梦每回合都能回复。草属性的招式威力还会提高。",
+                    "from": {
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "764": [
+                            1,
+                            "花疗环环"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 580,
+                    "name": "青草场地",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "可爱地凝视，诱使对手疏忽大意，从而大幅降低对手的攻击。",
+                    "from": {
+                        "546": [
+                            1,
+                            "木棉球"
+                        ],
+                        "697": [
+                            1,
+                            "怪颚龙"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 204,
+                    "name": "撒娇",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 18
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "在２～３回合内，散落花瓣攻击对手。之后自己会陷入混乱。",
+                    "from": {
+                        "154": [
+                            1,
+                            "大竺葵"
+                        ],
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "3": [
+                            1,
+                            "妙蛙花"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "421": [
+                            1,
+                            "樱花儿-阴天形态"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "45": [
+                            1,
+                            "霸王花"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "764": [
+                            1,
+                            "花疗环环"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 80,
+                    "name": "花瓣舞",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在大地上扎根，每回合回复自己的ＨＰ。因为扎根了，所以不能替换宝可梦。",
+                    "from": {
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "191": [
+                            1,
+                            "向日种子"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "331": [
+                            1,
+                            "刺球仙人掌"
+                        ],
+                        "332": [
+                            1,
+                            "梦歌仙人掌"
+                        ],
+                        "455": [
+                            1,
+                            "尖牙笼"
+                        ],
+                        "459": [
+                            1,
+                            "雪笠怪"
+                        ],
+                        "460": [
+                            1,
+                            "暴雪王"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "590": [
+                            1,
+                            "哎呀球菇"
+                        ],
+                        "591": [
+                            1,
+                            "败露球菇"
+                        ],
+                        "597": [
+                            1,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ],
+                        "709": [
+                            1,
+                            "朽木妖"
+                        ],
+                        "754": [
+                            1,
+                            "兰螳花"
+                        ],
+                        "755": [
+                            1,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            1,
+                            "灯罩夜菇"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 275,
+                    "name": "扎根",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "第１回合把头缩进去，从而提高防御。第２回合攻击对手。",
+                    "from": {
+                        "7": [
+                            1,
+                            "杰尼龟"
+                        ],
+                        "713": [
+                            1,
+                            "冰岩怪"
+                        ],
+                        "8": [
+                            1,
+                            "卡咪龟"
+                        ],
+                        "9": [
+                            1,
+                            "水箭龟"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 130,
+                    "name": "火箭头锤",
+                    "power": 130,
+                    "pp": 10,
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 2,
+                    "description": "散落可以追踪对手的神奇叶片。攻击必定会命中。",
+                    "from": {
+                        "152": [
+                            1,
+                            "菊草叶"
+                        ],
+                        "153": [
+                            1,
+                            "月桂叶"
+                        ],
+                        "154": [
+                            1,
+                            "大竺葵"
+                        ],
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "357": [
+                            1,
+                            "热带龙"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "420": [
+                            1,
+                            "樱花宝"
+                        ],
+                        "421": [
+                            1,
+                            "樱花儿-阴天形态"
+                        ],
+                        "764": [
+                            1,
+                            "花疗环环"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 345,
+                    "name": "魔法叶",
+                    "power": 60,
+                    "pp": 20,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "使用该招式的宝可梦，其属性是幽灵属性或其他属性时，效果会不一样。",
+                    "from": {
+                        "199": [
+                            1,
+                            "呆呆王"
+                        ],
+                        "387": [
+                            1,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            1,
+                            "树林龟"
+                        ],
+                        "389": [
+                            1,
+                            "土台龟"
+                        ],
+                        "597": [
+                            1,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ],
+                        "709": [
+                            1,
+                            "朽木妖"
+                        ],
+                        "712": [
+                            1,
+                            "冰宝"
+                        ],
+                        "713": [
+                            1,
+                            "冰岩怪"
+                        ],
+                        "80": [
+                            1,
+                            "呆壳兽"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 174,
+                    "name": "诅咒",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 16
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "激烈地挥舞青藤或触手摔打对手进行攻击。",
+                    "from": {
+                        "108": [
+                            1,
+                            "大舌头"
+                        ],
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "455": [
+                            1,
+                            "尖牙笼"
+                        ],
+                        "463": [
+                            1,
+                            "大舌舔"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 438,
+                    "name": "强力鞭打",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "即使受到攻击，也至少会留下１ＨＰ。连续使出则容易失败。",
+                    "from": {
+                        "410": [
+                            1,
+                            "盾甲龙"
+                        ],
+                        "411": [
+                            1,
+                            "护城龙"
+                        ],
+                        "776": [
+                            1,
+                            "爆焰龟兽"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 203,
+                    "name": "挺住",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+                    "from": {
+                        "2": [
+                            4,
+                            "妙蛙草"
+                        ],
+                        "258": [
+                            4,
+                            "水跃鱼"
+                        ],
+                        "259": [
+                            4,
+                            "沼跃鱼"
+                        ],
+                        "260": [
+                            4,
+                            "巨沼怪"
+                        ],
+                        "3": [
+                            4,
+                            "妙蛙花"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 85,
+                    "learn_level": 0,
+                    "move_id": 124,
+                    "name": "污泥攻击",
+                    "power": 65,
+                    "pp": 20,
+                    "type": 9
+                },
+                {
+                    "accuracy": 55,
+                    "class": 0,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "from": {
+                        "191": [
+                            1,
+                            "向日种子"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "459": [
+                            1,
+                            "雪笠怪"
+                        ],
+                        "460": [
+                            1,
+                            "暴雪王"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 320,
+                    "name": "草笛",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "用自然之力进行攻击。根据所使用场所的不同，使出的招式也会有所变化。",
+                    "from": {
+                        "102": [
+                            2,
+                            "蛋蛋"
+                        ],
+                        "103": [
+                            2,
+                            "椰蛋树"
+                        ],
+                        "103.1": [
+                            2,
+                            "椰蛋树-阿罗拉的样子"
+                        ],
+                        "114": [
+                            2,
+                            "蔓藤怪"
+                        ],
+                        "152": [
+                            2,
+                            "菊草叶"
+                        ],
+                        "153": [
+                            2,
+                            "月桂叶"
+                        ],
+                        "154": [
+                            2,
+                            "大竺葵"
+                        ],
+                        "182": [
+                            2,
+                            "美丽花"
+                        ],
+                        "191": [
+                            2,
+                            "向日种子"
+                        ],
+                        "192": [
+                            2,
+                            "向日花怪"
+                        ],
+                        "2": [
+                            2,
+                            "妙蛙草"
+                        ],
+                        "252": [
+                            2,
+                            "木守宫"
+                        ],
+                        "253": [
+                            2,
+                            "森林蜥蜴"
+                        ],
+                        "254": [
+                            2,
+                            "蜥蜴王"
+                        ],
+                        "270": [
+                            1,
+                            "莲叶童子"
+                        ],
+                        "271": [
+                            1,
+                            "莲帽小童"
+                        ],
+                        "272": [
+                            1,
+                            "乐天河童"
+                        ],
+                        "273": [
+                            1,
+                            "橡实果"
+                        ],
+                        "274": [
+                            1,
+                            "长鼻叶"
+                        ],
+                        "275": [
+                            2,
+                            "狡猾天狗"
+                        ],
+                        "3": [
+                            2,
+                            "妙蛙花"
+                        ],
+                        "315": [
+                            2,
+                            "毒蔷薇"
+                        ],
+                        "331": [
+                            2,
+                            "刺球仙人掌"
+                        ],
+                        "332": [
+                            2,
+                            "梦歌仙人掌"
+                        ],
+                        "357": [
+                            2,
+                            "热带龙"
+                        ],
+                        "387": [
+                            2,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            2,
+                            "树林龟"
+                        ],
+                        "389": [
+                            2,
+                            "土台龟"
+                        ],
+                        "407": [
+                            2,
+                            "罗丝雷朵"
+                        ],
+                        "420": [
+                            2,
+                            "樱花宝"
+                        ],
+                        "421": [
+                            2,
+                            "樱花儿-阴天形态"
+                        ],
+                        "43": [
+                            2,
+                            "走路草"
+                        ],
+                        "44": [
+                            2,
+                            "臭臭花"
+                        ],
+                        "45": [
+                            2,
+                            "霸王花"
+                        ],
+                        "455": [
+                            2,
+                            "尖牙笼"
+                        ],
+                        "46": [
+                            2,
+                            "派拉斯"
+                        ],
+                        "465": [
+                            2,
+                            "巨蔓藤"
+                        ],
+                        "47": [
+                            2,
+                            "派拉斯特"
+                        ],
+                        "495": [
+                            2,
+                            "藤藤蛇"
+                        ],
+                        "496": [
+                            2,
+                            "青藤蛇"
+                        ],
+                        "497": [
+                            2,
+                            "君主蛇"
+                        ],
+                        "546": [
+                            2,
+                            "木棉球"
+                        ],
+                        "547": [
+                            2,
+                            "风妖精"
+                        ],
+                        "556": [
+                            2,
+                            "沙铃仙人掌"
+                        ],
+                        "590": [
+                            2,
+                            "哎呀球菇"
+                        ],
+                        "591": [
+                            2,
+                            "败露球菇"
+                        ],
+                        "597": [
+                            2,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            2,
+                            "坚果哑铃"
+                        ],
+                        "69": [
+                            2,
+                            "喇叭芽"
+                        ],
+                        "698": [
+                            1,
+                            "冰雪龙"
+                        ],
+                        "699": [
+                            1,
+                            "冰雪巨龙"
+                        ],
+                        "70": [
+                            2,
+                            "口呆花"
+                        ],
+                        "709": [
+                            2,
+                            "朽木妖"
+                        ],
+                        "71": [
+                            2,
+                            "大食花"
+                        ],
+                        "754": [
+                            2,
+                            "兰螳花"
+                        ],
+                        "755": [
+                            2,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            2,
+                            "灯罩夜菇"
+                        ],
+                        "764": [
+                            2,
+                            "花疗环环"
+                        ],
+                        "780": [
+                            2,
+                            "老翁龙"
+                        ]
+                    },
+                    "gen7_tm_id": 96,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 267,
+                    "name": "自然之力",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                }
+            ]
+        },
+        "7.1": {
+            "1": [
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体撞向对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 1,
+                    "move_id": 33,
+                    "name": "撞击",
+                    "power": 40,
+                    "pp": 35,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "让对手听可爱的叫声，引开注意力使其疏忽，从而降低对手的攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 3,
+                    "move_id": 45,
+                    "name": "叫声",
+                    "power": 0,
+                    "pp": 40,
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "植入寄生种子后，将在每回合一点一点吸取对手的ＨＰ，从而用来回复自己的ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 7,
+                    "move_id": 73,
+                    "name": "寄生种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 9,
+                    "move_id": 22,
+                    "name": "藤鞭",
+                    "power": 45,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出催眠粉，从而让对手陷入睡眠状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 13,
+                    "move_id": 79,
+                    "name": "催眠粉",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出毒粉，从而让对手陷入中毒状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 13,
+                    "move_id": 77,
+                    "name": "毒粉",
+                    "power": 0,
+                    "pp": 35,
+                    "type": 9
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "以惊人的气势撞向对手进行攻击。自己也会受到少许伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 15,
+                    "move_id": 36,
+                    "name": "猛撞",
+                    "power": 90,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "飞出叶片，切斩对手进行攻击。容易击中要害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 19,
+                    "move_id": 75,
+                    "name": "飞叶快刀",
+                    "power": 55,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "用香气大幅降低对手的闪避率。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 21,
+                    "move_id": 230,
+                    "name": "甜甜香气",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "让身体一下子长大，从而提高攻击和特攻。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 25,
+                    "move_id": 74,
+                    "name": "生长",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "拼命地猛撞向对手进行攻击。自己也会受到不小的伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 27,
+                    "move_id": 38,
+                    "name": "舍身冲撞",
+                    "power": 120,
+                    "pp": 15,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "种植心神不宁的种子。使对手不能入眠，并将特性变成不眠。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 31,
+                    "move_id": 388,
+                    "name": "烦恼种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 33,
+                    "move_id": 235,
+                    "name": "光合作用",
+                    "power": 0,
+                    "pp": 5,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "将外壳坚硬的大种子，从上方砸下攻击对手。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 37,
+                    "move_id": 402,
+                    "name": "种子炸弹",
+                    "power": 80,
+                    "pp": 15,
+                    "type": 3
+                }
+            ],
+            "2": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激励自己，从而提高攻击和特攻。",
+                    "gen7_tm_id": 1,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 526,
+                    "name": "自我激励",
+                    "power": 0,
+                    "pp": 30,
+                    "tm_id": "TM001",
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。",
+                    "gen7_tm_id": 6,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 92,
+                    "name": "剧毒",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM006",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "将特殊的毒液泼向对手。对处于中毒状态的对手，威力会变成２倍。",
+                    "gen7_tm_id": 9,
+                    "gigamax_power": 85,
+                    "learn_level": 0,
+                    "move_id": 474,
+                    "name": "毒液冲击",
+                    "power": 65,
+                    "pp": 10,
+                    "tm_id": "TM009",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": 10,
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 237,
+                    "name": "觉醒力量",
+                    "power": 60,
+                    "pp": 15,
+                    "tm_id": "TM010",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内让日照变得强烈，从而提高火属性的招式威力。水属性的招式威力则降低。",
+                    "gen7_tm_id": 11,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 241,
+                    "name": "大晴天",
+                    "power": 0,
+                    "pp": 5,
+                    "tm_id": "TM011",
+                    "type": 1
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "利用神奇的墙壁，在５回合内减弱从对手那里受到的特殊攻击的伤害。",
+                    "gen7_tm_id": 16,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 113,
+                    "name": "光墙",
+                    "power": 0,
+                    "pp": 30,
+                    "tm_id": "TM016",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "完全抵挡对手的攻击。连续使出则容易失败。",
+                    "gen7_tm_id": 17,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 182,
+                    "name": "守住",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM017",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内被神奇的力量守护，从而不会陷入异常状态。",
+                    "gen7_tm_id": 20,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 219,
+                    "name": "神秘守护",
+                    "power": 0,
+                    "pp": 25,
+                    "tm_id": "TM020",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": 21,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 218,
+                    "name": "迁怒",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TM021",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "tm_id": "TM022",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "gen7_tm_id": 27,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 216,
+                    "name": "报恩",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TM027",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "通过快速移动来制造分身，扰乱对手，从而提高闪避率。",
+                    "gen7_tm_id": 32,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 104,
+                    "name": "影子分身",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM032",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+                    "gen7_tm_id": 36,
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 188,
+                    "name": "污泥炸弹",
+                    "power": 90,
+                    "pp": 10,
+                    "tm_id": "TM036",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "当自己处于中毒、麻痹、灼伤状态时，向对手使出此招式的话，威力会变成２倍。",
+                    "gen7_tm_id": 42,
+                    "gigamax_power": 120,
+                    "learn_level": 0,
+                    "move_id": 263,
+                    "name": "硬撑",
+                    "power": 70,
+                    "pp": 20,
+                    "tm_id": "TM042",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "连续睡上２回合。回复自己的全部ＨＰ以及治愈所有异常状态。",
+                    "gen7_tm_id": 44,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 156,
+                    "name": "睡觉",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM044",
+                    "type": 14
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "♂诱惑♀或♀诱惑♂，让对手着迷。对手将很难使出招式。",
+                    "gen7_tm_id": 45,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 213,
+                    "name": "迷人",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM045",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用歌声攻击对手。同伴还可以接着使出轮唱招式，威力也会提高。",
+                    "gen7_tm_id": 48,
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 496,
+                    "name": "轮唱",
+                    "power": 60,
+                    "pp": 15,
+                    "tm_id": "TM048",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用回声攻击对手。如果每回合都有宝可梦接着使用该招式，威力就会提高。",
+                    "gen7_tm_id": 49,
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 497,
+                    "name": "回声",
+                    "power": 40,
+                    "pp": 15,
+                    "tm_id": "TM049",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "发射从自然收集的生命力量。有时会降低对手的特防。",
+                    "gen7_tm_id": 53,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 412,
+                    "name": "能量球",
+                    "power": 90,
+                    "pp": 10,
+                    "tm_id": "TM053",
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+                    "gen7_tm_id": 75,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 14,
+                    "name": "剑舞",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM075",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用草缠住并绊倒对手。对手越重，威力越大。",
+                    "gen7_tm_id": 86,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 447,
+                    "name": "打草结",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TM086",
+                    "type": 3
+                },
+                {
+                    "accuracy": 85,
+                    "class": 0,
+                    "description": "激怒对手，使其混乱。因为愤怒，对手的攻击会大幅提高。",
+                    "gen7_tm_id": 87,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 207,
+                    "name": "虚张声势",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM087",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "从自己已学会的招式中任意使出１个。只能在自己睡觉时使用。",
+                    "gen7_tm_id": 88,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 214,
+                    "name": "梦话",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM088",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "削减少许自己的ＨＰ，制造分身。分身将成为自己的替身。",
+                    "gen7_tm_id": 90,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 164,
+                    "name": "替身",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM090",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "用自然之力进行攻击。根据所使用场所的不同，使出的招式也会有所变化。",
+                    "gen7_tm_id": 96,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 267,
+                    "name": "自然之力",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM096",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "和对手进行密语，使其失去集中力，从而降低对手的特攻。",
+                    "gen7_tm_id": 100,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 590,
+                    "name": "密语",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM100",
+                    "type": 5
+                }
+            ],
+            "3": [
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "使用长长的身体或藤蔓等，在４～５回合内绑紧对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 20,
+                    "name": "绑紧",
+                    "power": 15,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "拍落对手的持有物，直到战斗结束都不能使用。对手携带道具时会增加伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 120,
+                    "learn_level": 0,
+                    "move_id": 282,
+                    "name": "拍落",
+                    "power": 65,
+                    "pp": 20,
+                    "type": 15
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 235,
+                    "name": "光合作用",
+                    "power": 0,
+                    "pp": 5,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "将外壳坚硬的大种子，从上方砸下攻击对手。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 402,
+                    "name": "种子炸弹",
+                    "power": 80,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 202,
+                    "name": "终极吸取",
+                    "power": 75,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "种植心神不宁的种子。使对手不能入眠，并将特性变成不眠。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 388,
+                    "name": "烦恼种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "在自己睡觉时，发出噪音进行攻击。有时会使对手畏缩。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 0,
+                    "move_id": 173,
+                    "name": "打鼾",
+                    "power": 50,
+                    "pp": 15,
+                    "type": 5
+                }
+            ],
+            "4": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内变成青草场地。地面上的宝可梦每回合都能回复。草属性的招式威力还会提高。",
+                    "from": {
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "764": [
+                            1,
+                            "花疗环环"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 580,
+                    "name": "青草场地",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "可爱地凝视，诱使对手疏忽大意，从而大幅降低对手的攻击。",
+                    "from": {
+                        "546": [
+                            1,
+                            "木棉球"
+                        ],
+                        "697": [
+                            1,
+                            "怪颚龙"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 204,
+                    "name": "撒娇",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 18
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "在２～３回合内，散落花瓣攻击对手。之后自己会陷入混乱。",
+                    "from": {
+                        "154": [
+                            1,
+                            "大竺葵"
+                        ],
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "3": [
+                            1,
+                            "妙蛙花"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "421": [
+                            1,
+                            "樱花儿-阴天形态"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "45": [
+                            1,
+                            "霸王花"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "764": [
+                            1,
+                            "花疗环环"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 80,
+                    "name": "花瓣舞",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在大地上扎根，每回合回复自己的ＨＰ。因为扎根了，所以不能替换宝可梦。",
+                    "from": {
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "191": [
+                            1,
+                            "向日种子"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "331": [
+                            1,
+                            "刺球仙人掌"
+                        ],
+                        "332": [
+                            1,
+                            "梦歌仙人掌"
+                        ],
+                        "455": [
+                            1,
+                            "尖牙笼"
+                        ],
+                        "459": [
+                            1,
+                            "雪笠怪"
+                        ],
+                        "460": [
+                            1,
+                            "暴雪王"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "590": [
+                            1,
+                            "哎呀球菇"
+                        ],
+                        "591": [
+                            1,
+                            "败露球菇"
+                        ],
+                        "597": [
+                            1,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ],
+                        "709": [
+                            1,
+                            "朽木妖"
+                        ],
+                        "754": [
+                            1,
+                            "兰螳花"
+                        ],
+                        "755": [
+                            1,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            1,
+                            "灯罩夜菇"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 275,
+                    "name": "扎根",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "第１回合把头缩进去，从而提高防御。第２回合攻击对手。",
+                    "from": {
+                        "7": [
+                            1,
+                            "杰尼龟"
+                        ],
+                        "713": [
+                            1,
+                            "冰岩怪"
+                        ],
+                        "8": [
+                            1,
+                            "卡咪龟"
+                        ],
+                        "9": [
+                            1,
+                            "水箭龟"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 130,
+                    "name": "火箭头锤",
+                    "power": 130,
+                    "pp": 10,
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 2,
+                    "description": "散落可以追踪对手的神奇叶片。攻击必定会命中。",
+                    "from": {
+                        "152": [
+                            1,
+                            "菊草叶"
+                        ],
+                        "153": [
+                            1,
+                            "月桂叶"
+                        ],
+                        "154": [
+                            1,
+                            "大竺葵"
+                        ],
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "357": [
+                            1,
+                            "热带龙"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "420": [
+                            1,
+                            "樱花宝"
+                        ],
+                        "421": [
+                            1,
+                            "樱花儿-阴天形态"
+                        ],
+                        "764": [
+                            1,
+                            "花疗环环"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 345,
+                    "name": "魔法叶",
+                    "power": 60,
+                    "pp": 20,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "使用该招式的宝可梦，其属性是幽灵属性或其他属性时，效果会不一样。",
+                    "from": {
+                        "199": [
+                            1,
+                            "呆呆王"
+                        ],
+                        "387": [
+                            1,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            1,
+                            "树林龟"
+                        ],
+                        "389": [
+                            1,
+                            "土台龟"
+                        ],
+                        "597": [
+                            1,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ],
+                        "709": [
+                            1,
+                            "朽木妖"
+                        ],
+                        "712": [
+                            1,
+                            "冰宝"
+                        ],
+                        "713": [
+                            1,
+                            "冰岩怪"
+                        ],
+                        "80": [
+                            1,
+                            "呆壳兽"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 174,
+                    "name": "诅咒",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 16
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "激烈地挥舞青藤或触手摔打对手进行攻击。",
+                    "from": {
+                        "108": [
+                            1,
+                            "大舌头"
+                        ],
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "455": [
+                            1,
+                            "尖牙笼"
+                        ],
+                        "463": [
+                            1,
+                            "大舌舔"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 438,
+                    "name": "强力鞭打",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "即使受到攻击，也至少会留下１ＨＰ。连续使出则容易失败。",
+                    "from": {
+                        "410": [
+                            1,
+                            "盾甲龙"
+                        ],
+                        "411": [
+                            1,
+                            "护城龙"
+                        ],
+                        "776": [
+                            1,
+                            "爆焰龟兽"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 203,
+                    "name": "挺住",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+                    "from": {
+                        "2": [
+                            4,
+                            "妙蛙草"
+                        ],
+                        "258": [
+                            4,
+                            "水跃鱼"
+                        ],
+                        "259": [
+                            4,
+                            "沼跃鱼"
+                        ],
+                        "260": [
+                            4,
+                            "巨沼怪"
+                        ],
+                        "3": [
+                            4,
+                            "妙蛙花"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 85,
+                    "learn_level": 0,
+                    "move_id": 124,
+                    "name": "污泥攻击",
+                    "power": 65,
+                    "pp": 20,
+                    "type": 9
+                },
+                {
+                    "accuracy": 55,
+                    "class": 0,
+                    "description": "无法使用这个招式。虽然忘记之后就再也想不起来了，但还是建议忘记这个招式。",
+                    "from": {
+                        "191": [
+                            1,
+                            "向日种子"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "459": [
+                            1,
+                            "雪笠怪"
+                        ],
+                        "460": [
+                            1,
+                            "暴雪王"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 320,
+                    "name": "草笛",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "将头脑清空，瞬间忘记某事，从而大幅提高自己的特防。",
+                    "from": {
+                        "143": [
+                            1,
+                            "卡比兽"
+                        ],
+                        "80": [
+                            1,
+                            "呆壳兽"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 133,
+                    "name": "瞬间失忆",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 14
+                },
+                {
+                    "accuracy": 90,
+                    "class": 2,
+                    "description": "用尖尖的叶片向对手卷起风暴。使用之后因为反作用力自己的特攻会大幅降低。",
+                    "from": {
+                        "103": [
+                            1,
+                            "椰蛋树"
+                        ],
+                        "103.1": [
+                            1,
+                            "椰蛋树-阿罗拉的样子"
+                        ],
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "253": [
+                            1,
+                            "森林蜥蜴"
+                        ],
+                        "254": [
+                            1,
+                            "蜥蜴王"
+                        ],
+                        "275": [
+                            1,
+                            "狡猾天狗"
+                        ],
+                        "357": [
+                            1,
+                            "热带龙"
+                        ],
+                        "387": [
+                            1,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            1,
+                            "树林龟"
+                        ],
+                        "389": [
+                            1,
+                            "土台龟"
+                        ],
+                        "495": [
+                            1,
+                            "藤藤蛇"
+                        ],
+                        "496": [
+                            1,
+                            "青藤蛇"
+                        ],
+                        "497": [
+                            1,
+                            "君主蛇"
+                        ],
+                        "71": [
+                            1,
+                            "大食花"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 437,
+                    "name": "飞叶风暴",
+                    "power": 130,
+                    "pp": 5,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+                    "from": {
+                        "114": [
+                            1,
+                            "蔓藤怪"
+                        ],
+                        "187": [
+                            1,
+                            "毽子草"
+                        ],
+                        "188": [
+                            1,
+                            "毽子花"
+                        ],
+                        "189": [
+                            1,
+                            "毽子棉"
+                        ],
+                        "191": [
+                            1,
+                            "向日种子"
+                        ],
+                        "192": [
+                            1,
+                            "向日花怪"
+                        ],
+                        "252": [
+                            1,
+                            "木守宫"
+                        ],
+                        "270": [
+                            1,
+                            "莲叶童子"
+                        ],
+                        "285": [
+                            1,
+                            "蘑蘑菇"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "387": [
+                            1,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            1,
+                            "树林龟"
+                        ],
+                        "389": [
+                            1,
+                            "土台龟"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "46": [
+                            1,
+                            "派拉斯"
+                        ],
+                        "465": [
+                            1,
+                            "巨蔓藤"
+                        ],
+                        "47": [
+                            1,
+                            "派拉斯特"
+                        ],
+                        "495": [
+                            1,
+                            "藤藤蛇"
+                        ],
+                        "496": [
+                            1,
+                            "青藤蛇"
+                        ],
+                        "497": [
+                            1,
+                            "君主蛇"
+                        ],
+                        "546": [
+                            1,
+                            "木棉球"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "590": [
+                            1,
+                            "哎呀球菇"
+                        ],
+                        "591": [
+                            1,
+                            "败露球菇"
+                        ],
+                        "755": [
+                            1,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            1,
+                            "灯罩夜菇"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 202,
+                    "name": "终极吸取",
+                    "power": 75,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "用自然之力进行攻击。根据所使用场所的不同，使出的招式也会有所变化。",
+                    "from": {
+                        "102": [
+                            2,
+                            "蛋蛋"
+                        ],
+                        "103": [
+                            2,
+                            "椰蛋树"
+                        ],
+                        "103.1": [
+                            2,
+                            "椰蛋树-阿罗拉的样子"
+                        ],
+                        "114": [
+                            2,
+                            "蔓藤怪"
+                        ],
+                        "152": [
+                            2,
+                            "菊草叶"
+                        ],
+                        "153": [
+                            2,
+                            "月桂叶"
+                        ],
+                        "154": [
+                            2,
+                            "大竺葵"
+                        ],
+                        "182": [
+                            2,
+                            "美丽花"
+                        ],
+                        "191": [
+                            2,
+                            "向日种子"
+                        ],
+                        "192": [
+                            2,
+                            "向日花怪"
+                        ],
+                        "2": [
+                            2,
+                            "妙蛙草"
+                        ],
+                        "252": [
+                            2,
+                            "木守宫"
+                        ],
+                        "253": [
+                            2,
+                            "森林蜥蜴"
+                        ],
+                        "254": [
+                            2,
+                            "蜥蜴王"
+                        ],
+                        "270": [
+                            1,
+                            "莲叶童子"
+                        ],
+                        "271": [
+                            1,
+                            "莲帽小童"
+                        ],
+                        "272": [
+                            1,
+                            "乐天河童"
+                        ],
+                        "273": [
+                            1,
+                            "橡实果"
+                        ],
+                        "274": [
+                            1,
+                            "长鼻叶"
+                        ],
+                        "275": [
+                            2,
+                            "狡猾天狗"
+                        ],
+                        "3": [
+                            2,
+                            "妙蛙花"
+                        ],
+                        "315": [
+                            2,
+                            "毒蔷薇"
+                        ],
+                        "331": [
+                            2,
+                            "刺球仙人掌"
+                        ],
+                        "332": [
+                            2,
+                            "梦歌仙人掌"
+                        ],
+                        "357": [
+                            2,
+                            "热带龙"
+                        ],
+                        "387": [
+                            2,
+                            "草苗龟"
+                        ],
+                        "388": [
+                            2,
+                            "树林龟"
+                        ],
+                        "389": [
+                            2,
+                            "土台龟"
+                        ],
+                        "407": [
+                            2,
+                            "罗丝雷朵"
+                        ],
+                        "420": [
+                            2,
+                            "樱花宝"
+                        ],
+                        "421": [
+                            2,
+                            "樱花儿-阴天形态"
+                        ],
+                        "43": [
+                            2,
+                            "走路草"
+                        ],
+                        "44": [
+                            2,
+                            "臭臭花"
+                        ],
+                        "45": [
+                            2,
+                            "霸王花"
+                        ],
+                        "455": [
+                            2,
+                            "尖牙笼"
+                        ],
+                        "46": [
+                            2,
+                            "派拉斯"
+                        ],
+                        "465": [
+                            2,
+                            "巨蔓藤"
+                        ],
+                        "47": [
+                            2,
+                            "派拉斯特"
+                        ],
+                        "495": [
+                            2,
+                            "藤藤蛇"
+                        ],
+                        "496": [
+                            2,
+                            "青藤蛇"
+                        ],
+                        "497": [
+                            2,
+                            "君主蛇"
+                        ],
+                        "546": [
+                            2,
+                            "木棉球"
+                        ],
+                        "547": [
+                            2,
+                            "风妖精"
+                        ],
+                        "556": [
+                            2,
+                            "沙铃仙人掌"
+                        ],
+                        "590": [
+                            2,
+                            "哎呀球菇"
+                        ],
+                        "591": [
+                            2,
+                            "败露球菇"
+                        ],
+                        "597": [
+                            2,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            2,
+                            "坚果哑铃"
+                        ],
+                        "69": [
+                            2,
+                            "喇叭芽"
+                        ],
+                        "698": [
+                            1,
+                            "冰雪龙"
+                        ],
+                        "699": [
+                            1,
+                            "冰雪巨龙"
+                        ],
+                        "70": [
+                            2,
+                            "口呆花"
+                        ],
+                        "709": [
+                            2,
+                            "朽木妖"
+                        ],
+                        "71": [
+                            2,
+                            "大食花"
+                        ],
+                        "754": [
+                            2,
+                            "兰螳花"
+                        ],
+                        "755": [
+                            2,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            2,
+                            "灯罩夜菇"
+                        ],
+                        "764": [
+                            2,
+                            "花疗环环"
+                        ],
+                        "780": [
+                            2,
+                            "老翁龙"
+                        ]
+                    },
+                    "gen7_tm_id": 96,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 267,
+                    "name": "自然之力",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                }
+            ]
+        },
+        "8": {
+            "1": [
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体撞向对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 90,
+                    "learn_level": 1,
+                    "move_id": 33,
+                    "name": "撞击",
+                    "power": 40,
+                    "pp": 35,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "让对手听可爱的叫声，引开注意力使其疏忽，从而降低对手的攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 1,
+                    "move_id": 45,
+                    "name": "叫声",
+                    "power": 0,
+                    "pp": 40,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 3,
+                    "move_id": 22,
+                    "name": "藤鞭",
+                    "power": 45,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "让身体一下子长大，从而提高攻击和特攻。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 6,
+                    "move_id": 74,
+                    "name": "生长",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "植入寄生种子后，将在每回合一点一点吸取对手的ＨＰ，从而用来回复自己的ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 9,
+                    "move_id": 73,
+                    "name": "寄生种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 95,
+                    "class": 1,
+                    "description": "飞出叶片，切斩对手进行攻击。容易击中要害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 12,
+                    "move_id": 75,
+                    "name": "飞叶快刀",
+                    "power": 55,
+                    "pp": 25,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出催眠粉，从而让对手陷入睡眠状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 15,
+                    "move_id": 79,
+                    "name": "催眠粉",
+                    "power": 0,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 75,
+                    "class": 0,
+                    "description": "撒出毒粉，从而让对手陷入中毒状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 15,
+                    "move_id": 77,
+                    "name": "毒粉",
+                    "power": 0,
+                    "pp": 35,
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "将外壳坚硬的大种子，从上方砸下攻击对手。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 18,
+                    "move_id": 402,
+                    "name": "种子炸弹",
+                    "power": 80,
+                    "pp": 15,
+                    "type": 3
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "以惊人的气势撞向对手进行攻击。自己也会受到少许伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 21,
+                    "move_id": 36,
+                    "name": "猛撞",
+                    "power": 90,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "用香气大幅降低对手的闪避率。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 24,
+                    "move_id": 230,
+                    "name": "甜甜香气",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 27,
+                    "move_id": 235,
+                    "name": "光合作用",
+                    "power": 0,
+                    "pp": 5,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "种植心神不宁的种子。使对手不能入眠，并将特性变成不眠。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 30,
+                    "move_id": 388,
+                    "name": "烦恼种子",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "拼命地猛撞向对手进行攻击。自己也会受到不小的伤害。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 33,
+                    "move_id": 38,
+                    "name": "舍身冲撞",
+                    "power": 120,
+                    "pp": 15,
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 36,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                }
+            ],
+            "2": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+                    "gen7_tm_id": 75,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 14,
+                    "name": "剑舞",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TR000",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "用整个身体压住对手进行攻击。有时会让对手陷入麻痹状态。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 34,
+                    "name": "泰山压顶",
+                    "power": 85,
+                    "pp": 15,
+                    "tm_id": "TR001",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "将头脑清空，瞬间忘记某事，从而大幅提高自己的特防。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 133,
+                    "name": "瞬间失忆",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TR017",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "削减少许自己的ＨＰ，制造分身。分身将成为自己的替身。",
+                    "gen7_tm_id": 90,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 164,
+                    "name": "替身",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TR020",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+                    "gen7_tm_id": 36,
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 188,
+                    "name": "污泥炸弹",
+                    "power": 90,
+                    "pp": 10,
+                    "tm_id": "TR022",
+                    "type": 9
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "即使受到攻击，也至少会留下１ＨＰ。连续使出则容易失败。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 203,
+                    "name": "挺住",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TR026",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "从自己已学会的招式中任意使出１个。只能在自己睡觉时使用。",
+                    "gen7_tm_id": 88,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 214,
+                    "name": "梦话",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TR027",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "将外壳坚硬的大种子，从上方砸下攻击对手。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 402,
+                    "name": "种子炸弹",
+                    "power": 80,
+                    "pp": 15,
+                    "tm_id": "TR059",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "发射从自然收集的生命力量。有时会降低对手的特防。",
+                    "gen7_tm_id": 53,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 412,
+                    "name": "能量球",
+                    "power": 90,
+                    "pp": 10,
+                    "tm_id": "TR065",
+                    "type": 3
+                },
+                {
+                    "accuracy": 90,
+                    "class": 2,
+                    "description": "用尖尖的叶片向对手卷起风暴。使用之后因为反作用力自己的特攻会大幅降低。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 437,
+                    "name": "飞叶风暴",
+                    "power": 130,
+                    "pp": 5,
+                    "tm_id": "TR071",
+                    "type": 3
+                },
+                {
+                    "accuracy": 85,
+                    "class": 1,
+                    "description": "激烈地挥舞青藤或触手摔打对手进行攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 438,
+                    "name": "强力鞭打",
+                    "power": 120,
+                    "pp": 10,
+                    "tm_id": "TR072",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用草缠住并绊倒对手。对手越重，威力越大。",
+                    "gen7_tm_id": 86,
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 447,
+                    "name": "打草结",
+                    "power": 1,
+                    "pp": 20,
+                    "tm_id": "TR077",
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "激励自己，从而提高攻击和特攻。",
+                    "gen7_tm_id": 1,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 526,
+                    "name": "自我激励",
+                    "power": 0,
+                    "pp": 30,
+                    "tm_id": "TR085",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 2,
+                    "description": "散落可以追踪对手的神奇叶片。攻击必定会命中。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 345,
+                    "name": "魔法叶",
+                    "power": 60,
+                    "pp": 20,
+                    "tm_id": "TM010",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+                    "gen7_tm_id": 22,
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 76,
+                    "name": "日光束",
+                    "power": 120,
+                    "pp": 10,
+                    "tm_id": "TM011",
+                    "type": 3
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "利用神奇的墙壁，在５回合内减弱从对手那里受到的特殊攻击的伤害。",
+                    "gen7_tm_id": 16,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 113,
+                    "name": "光墙",
+                    "power": 0,
+                    "pp": 30,
+                    "tm_id": "TM017",
+                    "type": 14
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内被神奇的力量守护，从而不会陷入异常状态。",
+                    "gen7_tm_id": 20,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 219,
+                    "name": "神秘守护",
+                    "power": 0,
+                    "pp": 25,
+                    "tm_id": "TM019",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "连续睡上２回合。回复自己的全部ＨＰ以及治愈所有异常状态。",
+                    "gen7_tm_id": 44,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 156,
+                    "name": "睡觉",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM021",
+                    "type": 14
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "在自己睡觉时，发出噪音进行攻击。有时会使对手畏缩。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 100,
+                    "learn_level": 0,
+                    "move_id": 173,
+                    "name": "打鼾",
+                    "power": 50,
+                    "pp": 15,
+                    "tm_id": "TM024",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "完全抵挡对手的攻击。连续使出则容易失败。",
+                    "gen7_tm_id": 17,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 182,
+                    "name": "守住",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM025",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 202,
+                    "name": "终极吸取",
+                    "power": 75,
+                    "pp": 10,
+                    "tm_id": "TM028",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "可爱地凝视，诱使对手疏忽大意，从而大幅降低对手的攻击。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 204,
+                    "name": "撒娇",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM029",
+                    "type": 18
+                },
+                {
+                    "accuracy": 100,
+                    "class": 0,
+                    "description": "♂诱惑♀或♀诱惑♂，让对手着迷。对手将很难使出招式。",
+                    "gen7_tm_id": 45,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 213,
+                    "name": "迷人",
+                    "power": 0,
+                    "pp": 15,
+                    "tm_id": "TM031",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内让日照变得强烈，从而提高火属性的招式威力。水属性的招式威力则降低。",
+                    "gen7_tm_id": 11,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 241,
+                    "name": "大晴天",
+                    "power": 0,
+                    "pp": 5,
+                    "tm_id": "TM034",
+                    "type": 1
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "当自己处于中毒、麻痹、灼伤状态时，向对手使出此招式的话，威力会变成２倍。",
+                    "gen7_tm_id": 42,
+                    "gigamax_power": 120,
+                    "learn_level": 0,
+                    "move_id": 263,
+                    "name": "硬撑",
+                    "power": 70,
+                    "pp": 20,
+                    "tm_id": "TM039",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "帮助伙伴。被帮助的宝可梦，其招式威力变得比平时大。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 270,
+                    "name": "帮助",
+                    "power": 0,
+                    "pp": 20,
+                    "tm_id": "TM041",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "根据使用时的天气，招式属性和威力会改变。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 311,
+                    "name": "气象球",
+                    "power": 50,
+                    "pp": 10,
+                    "tm_id": "TM046",
+                    "type": 5
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "向对手猛烈地发射种子进行攻击。连续攻击２～５次。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 130,
+                    "learn_level": 0,
+                    "move_id": 331,
+                    "name": "种子机关枪",
+                    "power": 25,
+                    "pp": 30,
+                    "tm_id": "TM050",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "将特殊的毒液泼向对手。对处于中毒状态的对手，威力会变成２倍。",
+                    "gen7_tm_id": 9,
+                    "gigamax_power": 85,
+                    "learn_level": 0,
+                    "move_id": 474,
+                    "name": "毒液冲击",
+                    "power": 65,
+                    "pp": 10,
+                    "tm_id": "TM074",
+                    "type": 9
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "用歌声攻击对手。同伴还可以接着使出轮唱招式，威力也会提高。",
+                    "gen7_tm_id": 48,
+                    "gigamax_power": 110,
+                    "learn_level": 0,
+                    "move_id": 496,
+                    "name": "轮唱",
+                    "power": 60,
+                    "pp": 15,
+                    "tm_id": "TM076",
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在５回合内变成青草场地。地面上的宝可梦每回合都能回复。草属性的招式威力还会提高。",
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 580,
+                    "name": "青草场地",
+                    "power": 0,
+                    "pp": 10,
+                    "tm_id": "TM088",
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "对手的ＨＰ至少会留下１ＨＰ，如此般手下留情地攻击。",
+                    "gen7_tm_id": 54,
+                    "gigamax_power": 90,
+                    "learn_level": 0,
+                    "move_id": 206,
+                    "name": "点到为止",
+                    "power": 40,
+                    "pp": 40,
+                    "tm_id": "TM094",
+                    "type": 5
+                }
+            ],
+            "4": [
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "使用该招式的宝可梦，其属性是幽灵属性或其他属性时，效果会不一样。",
+                    "from": {
+                        "597": [
+                            1,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ],
+                        "709": [
+                            1,
+                            "朽木妖"
+                        ],
+                        "712": [
+                            1,
+                            "冰宝"
+                        ],
+                        "713": [
+                            1,
+                            "冰岩怪"
+                        ],
+                        "842": [
+                            1,
+                            "丰蜜龙"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 174,
+                    "name": "诅咒",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 16
+                },
+                {
+                    "accuracy": 100,
+                    "class": 1,
+                    "description": "第１回合把头缩进去，从而提高防御。第２回合攻击对手。",
+                    "from": {
+                        "7": [
+                            1,
+                            "杰尼龟"
+                        ],
+                        "713": [
+                            1,
+                            "冰岩怪"
+                        ],
+                        "8": [
+                            1,
+                            "卡咪龟"
+                        ],
+                        "9": [
+                            1,
+                            "水箭龟"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 130,
+                    "name": "火箭头锤",
+                    "power": 130,
+                    "pp": 10,
+                    "type": 5
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "在大地上扎根，每回合回复自己的ＨＰ。因为扎根了，所以不能替换宝可梦。",
+                    "from": {
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "459": [
+                            1,
+                            "雪笠怪"
+                        ],
+                        "460": [
+                            1,
+                            "暴雪王"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ],
+                        "597": [
+                            1,
+                            "种子铁球"
+                        ],
+                        "598": [
+                            1,
+                            "坚果哑铃"
+                        ],
+                        "709": [
+                            1,
+                            "朽木妖"
+                        ],
+                        "755": [
+                            1,
+                            "睡睡菇‎‎"
+                        ],
+                        "756": [
+                            1,
+                            "灯罩夜菇"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 275,
+                    "name": "扎根",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 3
+                },
+                {
+                    "accuracy": 100,
+                    "class": 2,
+                    "description": "在２～３回合内，散落花瓣攻击对手。之后自己会陷入混乱。",
+                    "from": {
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "3": [
+                            1,
+                            "妙蛙花"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "421": [
+                            1,
+                            "樱花儿-阴天形态"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "45": [
+                            1,
+                            "霸王花"
+                        ],
+                        "556": [
+                            1,
+                            "沙铃仙人掌"
+                        ]
+                    },
+                    "gen7_tm_id": "-1",
+                    "gigamax_power": 140,
+                    "learn_level": 0,
+                    "move_id": 80,
+                    "name": "花瓣舞",
+                    "power": 120,
+                    "pp": 10,
+                    "type": 3
+                },
+                {
+                    "accuracy": 90,
+                    "class": 0,
+                    "description": "让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。",
+                    "from": {
+                        "182": [
+                            1,
+                            "美丽花"
+                        ],
+                        "315": [
+                            1,
+                            "毒蔷薇"
+                        ],
+                        "407": [
+                            1,
+                            "罗丝雷朵"
+                        ],
+                        "43": [
+                            1,
+                            "走路草"
+                        ],
+                        "44": [
+                            1,
+                            "臭臭花"
+                        ],
+                        "45": [
+                            1,
+                            "霸王花"
+                        ],
+                        "757": [
+                            1,
+                            "夜盗火蜥"
+                        ]
+                    },
+                    "gen7_tm_id": 6,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 92,
+                    "name": "剧毒",
+                    "power": 0,
+                    "pp": 10,
+                    "type": 9
+                },
+                {
+                    "accuracy": 101,
+                    "class": 0,
+                    "description": "用自然之力进行攻击。根据所使用场所的不同，使出的招式也会有所变化。",
+                    "from": {
+                        "270": [
+                            1,
+                            "莲叶童子"
+                        ],
+                        "271": [
+                            1,
+                            "莲帽小童"
+                        ],
+                        "272": [
+                            1,
+                            "乐天河童"
+                        ],
+                        "273": [
+                            1,
+                            "橡实果"
+                        ],
+                        "274": [
+                            1,
+                            "长鼻叶"
+                        ],
+                        "275": [
+                            1,
+                            "狡猾天狗"
+                        ]
+                    },
+                    "gen7_tm_id": 96,
+                    "gigamax_power": 0,
+                    "learn_level": 0,
+                    "move_id": 267,
+                    "name": "自然之力",
+                    "power": 0,
+                    "pp": 20,
+                    "type": 5
+                }
+            ]
+        }
+    },
+    "name": "妙蛙种子",
+    "name_de": "Bisasam",
+    "name_en": "Bulbasaur",
+    "name_es": "Bulbasaur",
+    "name_fr": "Bulbizarre",
+    "name_it": "Bulbasaur",
+    "name_jp": "フシギダネ",
+    "name_kr": "이상해씨",
+    "name_tc": "妙蛙種子",
+    "name_zh": "妙蛙种子",
+    "name_zh_check": "妙蛙种子",
+    "nat_id": 1,
+    "neighbours": {
+        "next": {
+            "id": 2,
+            "name": "妙蛙草"
+        },
+        "prev": {
+            "id": 890,
+            "name": "无极汰那"
+        }
+    },
+    "poni_id": 0,
+    "poni_id_sm": 0,
+    "special_obtain_approach": {
+        "7": "",
+        "8": ""
+    },
+    "type": 3,
+    "type_b": 9,
+    "type_chart": [
+        [
+            0,
+            2,
+            0.5,
+            0.25,
+            0.5,
+            1,
+            0.5,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0.5
+        ],
+        [],
+        [],
+        []
+    ],
+    "ulaula_id": 0,
+    "ulaula_id_sm": 0,
+    "weight": 6.9
+}
