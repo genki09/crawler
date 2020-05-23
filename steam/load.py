@@ -96,7 +96,7 @@ def input_guard_number(_data_):
 
 # 判断是否登录成功
 def if_login_successful(login_with_guard_html):
-    if login_with_guard_html != None:
+    if login_with_guard_html is not None:
         if (login_with_guard_html.get('success') == True) and (login_with_guard_html.get('login_complete') == True):
             sign_dict['guard_fail_sign'] = 0
             print('\nsuccessfully login')
@@ -105,11 +105,11 @@ def if_login_successful(login_with_guard_html):
 # 登陆
 def login():
     # 账号密码错误，重新输入账号密码
-    while (bool(sign_dict['account_incorrect_sign'])):
+    while bool(sign_dict['account_incorrect_sign']):
         data = get_login_rsakey()
         data2 = login_request(data)
         # 令牌输入错误，重新输入令牌
-        while (bool(sign_dict['guard_fail_sign'])):
+        while bool(sign_dict['guard_fail_sign']):
             html_data = input_guard_number(data2)
             if_login_successful(html_data)
 
@@ -202,7 +202,7 @@ def get_app_info(url):
     if bool(et.xpath('//*[@id="game_highlights"]/div[1]/div/div[4]/div/div[2]/a/text()')):
         pass
     else:
-        data = {'sessionid': 'e313b9be4c02b40aed87c756', 'ageDay': '1', 'ageMonth': 'January', 'ageYear': '2000'}    # 'sessionid': 'e313b9be4c02b40aed87c756'
+        data = {'sessionid': 'e313b9be4c02b40aed87c756', 'ageDay': '1', 'ageMonth': 'January', 'ageYear': '2000'}
         r = requests.post(r.url, data=data, headers=game_headers)
         r = requests.get(url, headers=game_headers)
         et = etree.HTML(r.text)
@@ -253,8 +253,10 @@ if __name__ == '__main__':
                 flag = True
 
         print('{},{},{},{},{},{},{},{},{}'.format(i, game_dict[i]['hours_forever'], game_dict[i]['last_played'],
-                                                  game_dict[i]['store_url'],game_dict[i]['tap'], game_dict[i]['assess_app_percent'],
-                                                  game_dict[i]['assess_app'],game_dict[i]['developers'], game_dict[i]['subtitles']))
+                                                  game_dict[i]['store_url'], game_dict[i]['tap'],
+                                                  game_dict[i]['assess_app_percent'],
+                                                  game_dict[i]['assess_app'], game_dict[i]['developers'],
+                                                  game_dict[i]['subtitles']))
 
         # print(i, game_dict[i])
     # print(game_dict)
