@@ -169,8 +169,6 @@ def write_chart(cityE):
             print('{},{},{},{},{},{}'.format(lines_list[i][0], lines_list[i][1], lines_list[i][2],
                                          lines_list[i][3], lines_list[i][4], lines_list[i][5]))
 
-
-
     sys.stdout = origin
     f.close()  # 最终结果已以标准输出方式存入文件中，关闭文件，交换标准输入流
 
