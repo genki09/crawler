@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<title>Bay of Biscay - The U-boat War in Maps - uboat.net</title>
+	<link rel="stylesheet" href="/media/layout/2014_06/main2017-10.css" type="text/css" />
+	<link rel="stylesheet" href="/media/layout/2014_06/print.css" type="text/css" media="print" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="The U-boat War in World War Two (Kriegsmarine, 1939-1945) and World War One (Kaiserliche Marine, 1914-1918) and the Allied efforts to counter the threat. Over 40.000 pages on the officers, the boats, technology and the Allied efforts to counter the U-boat threat." />
+    <meta name="keywords" content="U-boat, submarine, boats, technology, XXI, VIIC, XIC, II, XIV, XXIII, Uboote, Unterseeboote,  aircraft, escorts, Kriegsmarine, German navy, U-boote, destroyers, corvettes, frigates, battleships, aircraft carriers, trawlers." />    <link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script></head>
+<body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1034416-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+<div id="container">
+	<!-- Wrapper for the outer table -->		
+				
+    <div id="banner">
+    <!-- Header area starts -->
+        <h1 class="ph">uboat.net</h1>
+
+        &nbsp;
+
+		<!-- The main menu -->
+		<div id="navcontainer">
+			<ul id="navlist">
+				<li><a href="/" title="Front page">Home</a></li>
+				
+<li><a href="/boats.htm" title="The Boats">The U-boats</a></li>
+<li><a href="/men/" title="The Men">The Men</a></li>
+<li><a href="/allies/" title="Allied efforts to fight the U-boats">The Allies</a></li>
+<li><a href="/maps/" title="Maps">Maps</a></li>
+<li><a href="/forums/" title="Join our Forums">Forums</a></li>
+<li><a href="/articles/" title="Articles">Articles</a></li>
+<li><a href="/gallery/" title="Galleries">Gallery</a></li>
+<li><a href="/books/" title="Over 2200 books">Books</a></li>
+<li><a href="/special/movies/" title="Naval Warfare Movies">Movies</a></li>
+<li><a href="/wwi/" title="World War One">WWI</a></li>																
+			</ul>
+		</div>
+		<!-- The main menu ends -->
+
+
+            <span id="breadcrumbs">
+                <a href="/">Front page</a> - <a href="/boats.htm">The U-boats</a> - <a href="/maps/"><strong>The War in Maps</strong></a>            </span>
+
+		
+		</div>
+		<!-- End of banner/header area -->
+		
+
+		<div id="sidebar-a">
+				
+
+
+<div id="submenu">
+<h4><a href="/boats.htm">The U-boats</a></h4>
+<ul id="submenulist">
+<li><a href="/boats/">List of all U-boats</a>
+<ul>
+<li><a href="/ops/successful_boats.htm">Most successful</a></li></ul></li>
+<li><a href="/boats/patrols/">U-boat Patrols</a></li>
+<li><a href="/types/">U-boat Types</a></li>
+<li><a href="/ops/">Operations</a>
+<ul>
+<li><a href="/ops/convoys/">Convoy battles</a></li>
+<li><a href="/ops/top_patrols.htm">Successful patrols</a></li>
+<li><a href="/ops/wolfpacks/">Wolfpacks</a></li>
+<li><a href="/maps/">Maps</a></li>
+<li><a href="/ops/combat_strength.html">Combat strength</a></li></ul>
+</li>
+<li><a href="/fates/">U-boat Fates</a><ul>
+<li><a href="/fates/losses/">Losses by year</a></li>
+<li><a href="/fates/scuttled.htm">Scuttled boats</a></li>
+<li><a href="/fates/surrendered.htm">Surrenders</a></li>
+<li><a href="/fates/discovered.html">Discovered boats</a></li>
+<li><a href="/fates/dive/">Dive sites</a></li>
+<li><a href="/fates/revised.html">Revised fates</a></li>
+</ul>
+</li>
+<li><a href="/flotillas/">Flotillas</a><ul>
+<li><a href="/flotillas/bases/">U-boat bases</a></li></ul></li>
+<li><a href="/technical/shipyards/">Shipyards</a></li>
+<li><a href="/technical/">Technologies</a></li>
+<li><a href="/special/emblems/">U-boat Emblems</a></li>
+</ul>
+</div>
+
+<div class="item_box center">
+<h4>Events on this day</h4>
+<p><a href="/today.html">What happened on<br>18 July?</a></p>
+</div>
+
+<div class="item_box center">
+<h4>Commander file</h4><p class="caption"><a href="/men/commanders/229.html"><img src="/media/men/commanders/ebersbach_hans-joachim.jpg" class="width80" alt="" /><br>Hans-Joachim Ebersbach</a><br>(<a href="/boats/u975.htm">U-975</a>)</p><p>- <a href="/men/commanders/">More officers</a></p>
+</div>
+
+<div class="item_box center">
+<h4>U-boat of the day</h4><a href="/boats/u568.htm">U-568</a> - 5 patrols<br>3 ships sunk (7,873 tons)
+</div>
+
+<div class="item_box">
+<h4>U-boat Finder</h4>
+<form action="/boats/finder.php" method="post">
+<input size="8" name="find_boat"  class="search-field" />&nbsp;&nbsp;
+<input type="submit" value="Search" class="input" />
+</form>
+</div><p><br>Follow us on Twitter<br><a href="http://twitter.com/uboatnet" class="noborder"><img src="/media/layout/images/twitter_newbird_18.gif" alt="Twitter" /></a> <a href="http://twitter.com/uboatnet">@uboatnet</a></p>					
+			<br>
+		</div>
+	<!-- End of sidebar -->
+		
+
+	<div id="content">
+	<!-- Beginning of main content DIV -->
+
+    
+
+<div id="ga_contentTop728" align="center">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ContentTop, 728x90, created 11/6/10 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-1101670507446460"
+         data-ad-slot="9674187468"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+
+
+
+
+<div align="center">
+	<p><a href="/maps/"><img src="/media/layout/images/header_maps.gif" width="550" height="70" alt="The U-boat war in Maps" /></a></p>
+	<h1>The Bay of Biscay</h1>
+</div>
+
+<p>This body of water was known as the <strong>Valley of Death</strong> among U-boat men from 1943 onwards. At that time the RAF had gained total air supremacy all over the bay and was sinking U-boats only few hours from their bunkers. The failure of the <strong>Luftwaffe</strong> to protect the area is baffling.</p>
+
+
+
+
+<div align="center">
+<h2>German U-boats lost in the Bay of Biscay</h2>
+<p>Positions within 43.00N, 12.00W and 48.20N, 01.00W</p>
+
+
+<style media="screen" type="text/css">
+        #map {width:600px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map').setView([46.20, -6.50], 6)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/green_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.05, -11.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u26.htm">U-26</a></strong> (Kptlt. <a href="/men/commanders/1078.html">Heinz Scheringer</a>). Scuttled 1 July 1940 south-west of Ireland, in position 48.03N, 11.30W, after heavy damage suffered by depth charges from the British corvette <a href=\"/allies/warships/ship/4761.html\">HMS Gladiolus</a> and bombs from an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (10 Sqn RAAF/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/green_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.10, -4.85], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u51.htm">U-51</a></strong> (Kptlt. <a href="/men/commanders/626.html">Dietrich Knorr</a>). Sunk on 20 August 1940 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of St. Nazaire, in position 47.06N, 04.51W, by a torpedo from the British submarine <a href=\"/allies/warships/ship/3416.html\">HMS Cachalot</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.08, -2.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u206.htm">U-206</a></strong> (Kptlt. <a href="/men/commanders/900.html">Herbert Opitz</a>). <a href=\"/fates/missing.htm\">Missing</a> since 29 November 1941 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a>. Possibly sunk on or about 30 November south-west of St. Nazaire, in approx. position 47.05N, 02.40W, by an air-laid mine in the British minefield <em>Beech</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -6.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u502.htm">U-502</a></strong> (Kptlt. <a href="/men/rosenstiel.htm">Jürgen von Rosenstiel</a>). Sunk on 6 July 1942 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of La Rochelle, in position 46.10N, 06.40W, by depth charges from a British <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> aircraft (172 Sqn RAF/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.00, -4.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u578.htm">U-578</a></strong> (FrgKpt. <a href="/men/commanders/984.html">Ernst-August Rehwinkel</a>). <a href=\"/fates/missing.htm\">Missing</a> since 6 August 1942 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a>. No explanation exists for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.70, -11.12], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u705.htm">U-705</a></strong> (Kptlt. <a href="/men/commanders/513.html">Karl-Horst Horn</a>). Sunk on 3 September 1942 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">Cape Ortegal</a>, Spain, in position 46.42N, 11.07W, by depth charges from a British <a href=\"/allies/aircraft/whitley.htm\">Whitley</a> aircraft (77 Sqn RAF/P).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.00, -5.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u165.htm">U-165</a></strong> (FrgKpt. <a href="/men/commanders/500.html">Eberhard Hoffmann</a>). Sunk on 27 September 1942 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of Lorient, in position 47.00N, 05.30W, by depth charges from a Czech <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> aircraft (311 Sqn RAF/Q).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.65, -3.57], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u171.htm">U-171</a></strong> (Kptlt. <a href="/men/commanders/923.html">Günther Pfeffer</a>). Sunk at 1345hrs on 9 October 1942 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of Lorient, in position 47.39N, 03.34W, by an air-laid mine in the British minefield <em>Artichokes</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.00, -4.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u519.htm">U-519</a></strong> (Kptlt. <a href="/men/commanders/257.html">Günter Eppen</a>). <a href=\"/fates/missing.htm\">Missing</a> in the Bay of Biscay since 31 January 1943. There is no explanation for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.05, -5.93], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u268.htm">U-268</a></strong> (Oblt. <a href="/men/commanders/480.html">Ernst Heydemann</a>). Sunk on 19 February 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of St. Nazaire, in position 47.03N, 05.56W, by depth charges from a British <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> aircraft (172 Sqn RAF/B).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.00, -9.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u665.htm">U-665</a></strong> (Oblt. (R) <a href="/men/commanders/432.html">Hans-Jürgen Haupt</a>). <a href=\"/fates/missing.htm\">Missing</a> since 22 March 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of La Pallice. There is no explanation for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.50, -3.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u376.htm">U-376</a></strong> (Kptlt. <a href="/men/commanders/788.html">Friedrich-Karl Marks</a>). <a href=\"/fates/missing.htm\">Missing</a> since 7 April 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a>. No explanation exists for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.70, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u526.htm">U-526</a></strong> (Kptlt. <a href="/men/commanders/830.html">Hans Möglich</a>). Sunk at 1036hrs on 14 April 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> off Trois Pierre near Lorient, in position 47.41,5N, 03.22,5W, by a British air-laid mine.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.13, -9.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u332.htm">U-332</a></strong> (Oblt. <a href="/men/commanders/523.html">Eberhard Hüttemann</a>). Sunk on 29 April 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north of Cape Finisterre, Spain, in position 45.08N, 09.33W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/D).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.80, -8.97], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u465.htm">U-465</a></strong> (Kptlt. <a href="/men/commanders/1372.html">Heinz Wolf</a>). Sunk on 2 May 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of Cape Ortegal, Spain, in position 44.48N, 08.58W, by depth charges from an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (461 Sqn RAAF/M).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.83, -10.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u663.htm">U-663</a></strong> (KrvKpt. <a href="/men/commanders/1094.html">Heinrich Schmid</a>). Sank on 8 May 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of Brest, in approx. position 46.50N, 10.00W, after being badly damaged by depth charges from an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (10 Sqn RAAF/W) in position 47.06N, 10.58W on 7 May.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.47, -10.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u266.htm">U-266</a></strong> (Kptlt. <a href="/men/commanders/556.html">Ralf von Jessen</a>). Sunk on 15 May 1943 in the North Atlantic north-west of Spain, in position 45.28N, 10.20W, by depth charges from a British <a href=\"/allies/aircraft/halifax.htm\">Halifax</a> aircraft (58 Sqn RAF/M).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.95, -11.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u463.htm">U-463</a></strong> (KrvKpt. <a href="/men/commanders/1373.html">Leo Wolfbauer</a>). Sunk on 16 May 1943 in the Bay of Biscay in position 45.57N, 11.40W by depth charges from a British Handley Page Halifax aircraft (Sqdn. 58/R). ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.58, -10.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u563.htm">U-563</a></strong> (Oblt. <a href="/men/commanders/105.html">Gustav Borchardt</a>). Sunk on 31 May 1943 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">Cape Ortegal</a>, Spain, in position 46.35N, 10.40W, by depth charges from a British <a href=\"/allies/aircraft/halifax.htm\">Halifax</a> (58 Sqn RAF/R), a British <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> (228 Sqn RAF/X) and an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (10 Sqn RAAF/E).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.28, -10.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u564.htm">U-564</a></strong> (Oblt. <a href="/men/commanders/280.html">Hans Fiedler</a>). Sunk at 1730hrs on 14 June 1943 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">Cape Ortegal</a>, Spain, in position 44.17N, 10.25W, by depth charges from a British <a href=\"/allies/aircraft/whitley.htm\">Whitley</a> aircraft (10 OTU RAF/G).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.00, -11.98], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u449.htm">U-449</a></strong> (Oblt. <a href="/men/commanders/901.html">Hermann Otto</a>). Sunk at 1600hrs on 24 June 1943 in the North Atlantic, north-west of Cape Ortegal, Spain, in position 45.00N, 11.59W, by depth charges from the British sloops <a href=\"/allies/warships/ship/3921.html\">HMS Wren</a>, <a href=\"/allies/warships/ship/3920.html\">HMS Woodpecker</a>, <a href=\"/allies/warships/ship/3932.html\">HMS Kite</a> and <a href=\"/allies/warships/ship/3918.html\">HMS Wild Goose</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.03, -11.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u126.htm">U-126</a></strong> (Oblt. <a href="/men/commanders/605.html">Siegfried Kietz</a>). Sunk on 3 July 1943 in the North Atlantic north-west of Cape Ortegal, Spain, in position 46.02N, 11.23W, by depth charges from a British <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> aircraft (172 Sqn RAF/R).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.18, -8.75], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u628.htm">U-628</a></strong> (Kptlt. <a href="/men/commanders/428.html">Heinrich Hasenschar</a>). Sunk on 3 July 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of Cape Ortegal, Spain, in position 44.11N, 08.45W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/J).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([43.63, -9.22], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u535.htm">U-535</a></strong> (Kptlt. <a href="/men/commanders/246.html">Helmut Ellmenreich</a>). Sunk on 5 July 1943 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">La Coruña, Spain</a>, in position 43.38N, 09.13W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (53 Sqn RAF/G).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([43.62, -8.98], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u514.htm">U-514</a></strong> (Kptlt. <a href="/men/commanders/20.html">Hans-Jürgen Auffermann</a>). Sunk on 8 July 1943 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">La Coruña, Spain</a>, in position 43.37N, 08.59W, by rockets from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/R).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.03, -9.23], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u607.htm">U-607</a></strong> (Oblt. <a href="/men/commanders/555.html">Wolf Jeschonnek</a>). Sunk at 0800hrs on 13 July 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of Cape Ortegal, Spain, in position 45.02N, 09.14W, by depth charges from a British <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (228 Sqn RAF/N).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.17, -9.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u558.htm">U-558</a></strong> (Kptlt. <a href="/men/krech.htm">Günther Krech</a>). Sunk on 20 July 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of Cape Ortegal, Spain, in position 45.10N, 09.42W, by depth charges from a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> (19th A/S Sqn USAAF/F) and a British <a href=\"/allies/aircraft/halifax.htm\">Halifax</a> aircraft (58 Sqn RAF/E).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.88, -10.63], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u459.htm">U-459</a></strong> (KrvKpt. <a href="/men/commanders/1351.html">Georg von Wilamowitz-Möllendorf</a>). The boat was scuttled on July 24 1943 after being attacked by two British Wellington aircraft (Sqdn. 172/Q & 547/V) north-west of Corunna, Spain, in position 45.53N, 10.38W.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.88, -9.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u404.htm">U-404</a></strong> (Oblt. <a href="/men/commanders/1109.html">Adolf Schönberg</a>). Sunk on 28 July 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of Cape Ortegal, Spain, in position 45.53N, 09.25W, by depth charges from two US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (4th A/S Sqn USAAF/Y & N) and a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft  (224 Sqn RAF/W).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.70, -11.05], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u614.htm">U-614</a></strong> (Kptlt. <a href="/men/commanders/1242.html">Wolfgang Sträter</a>). Sunk on 29 July 1943 in the North Atlantic north-west of Cape Ortegal, Spain, in position 46.42N, 11.03W, by depth charges from a British <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> aircraft (172 Sqn RAF/G).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.55, -10.80], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u461.htm">U-461</a></strong> (KrvKpt. <a href="/men/commanders/1234.html">Wolf-Harro Stiebler</a>). Sunk on July 30 1943 in the <a href=/maps/biscay.htm>Bay of Biscay</a> north-west of Cape Ortegal, Spain in position 45.33N, 10.48W, by Australian Sunderland aircraft (U/461 Sqn.).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.55, -10.97], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u462.htm">U-462</a></strong> (<a href="/men/commanders/1310.html">Bruno Vowe</a>). Sunk on 30 July 1943  by a British Handley Page Halifax aircraft (Sqdn 502/S) and gunfire from the British sloops <a href=/allies/warships/ship/3921.html>HMS Wren</a>, <a href=/allies/warships/ship/3932.html>HMS Kite</a>, <a href=/allies/warships/ship/3920.html>HMS Woodpecker</a>, <a href=/allies/warships/ship/3918.html>HMS Wild Goose</a> and <a href=/allies/warships/ship/3919.html>HMS Woodcock</a> in the <a href=/maps/biscay.htm>Bay of Biscay</a> at 45.33N, 10.58W.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.55, -10.93], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u504.htm">U-504</a></strong> (KrvKpt. <a href="/men/commanders/765.html">Wilhelm Luis</a>). Sunk at 1543hrs on 30 July 1943 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">Cape Ortegal</a>, Spain, in position 45.33N, 10.56W, by depth charges from the British sloops <a href=\"/allies/warships/ship/3932.html\">HMS Kite</a>, <a href=\"/allies/warships/ship/3920.html\">HMS Woodpecker</a>, <a href=\"/allies/warships/ship/3921.html\">HMS Wren</a> and <a href=\"/allies/warships/ship/3918.html\">HMS Wild Goose</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.60, -10.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u454.htm">U-454</a></strong> (Kptlt. <a href="/men/commanders/398.html">Burckhard Hackländer</a>). Sunk at 1400hrs on 1 August 1943 in the North Atlantic north-west of Cape Ortegal, Spain, in position 45.36N, 10.23W, by depth charges from an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (10 Sqn RAAF/B).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.58, -11.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u106.htm">U-106</a></strong> (Oblt. <a href="/men/commanders/186.html">Wolf-Dietrich Damerow</a>). Sunk on 2 August 1943 in the North Atlantic north-west of Cape Ortegal, Spain, in position 46.35N, 11.55W, by depth charges from a British and an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (228 Sqn RAF/N & 461 Sqn RAAF/M).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.25, -10.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u706.htm">U-706</a></strong> (KrvKpt. <a href="/men/commanders/1406.html">Alexander von Zitzewitz</a>). Sunk on 2 August 1943 in the North Atlantic north-west of <a href=\"/maps/biscay.htm\">Cape Ortegal</a>, Spain, in position 46.15N, 10.25W, by depth charges from a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (4th A/S Sqn USAAF/T) and a Canadian Hampden aicraft (415 Sqn RCAF/A).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.05, -8.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u134.htm">U-134</a></strong> (Kptlt. <a href="/men/commanders/134.html">Hans-Günther Brosin</a>). Sunk on 27 August 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north of Cape Ortegal, in position 44.03N, 08.05W, by depth charges from the British frigate <a href=\"/allies/warships/ship/90.html\">HMS Rother</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.55, -3.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u669.htm">U-669</a></strong> (Oblt. (R) <a href="/men/commanders/632.html">Kurt Köhl</a>). <a href=\"/fates/missing.htm\">Missing</a> since 30 August 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of La Rochelle.<p>Possibly sank in a diving accident during a deep dive trial in approx. position 45.33N, 03.50W on 30 August 1943.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([43.77, -7.63], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u966.htm">U-966</a></strong> (Oblt. <a href="/men/commanders/1371.html">Eckehard Wolf</a>). Scuttled on 10 November 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> off Porto de Bares, Spain, in position 43.46,8N, 07.38W, after being badly damaged by depth charges from a British <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> (612 Sqn RAF/B), two US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> (VB-103 USN/E & VB-110 USN/E) and a Czech <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (311 Sqn RAF/D).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.00, -7.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u508.htm">U-508</a></strong> (Kptlt. <a href="/men/staats.htm">Georg Staats</a>). Sunk on 12 November 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north of Cape Ortegal, Spain, in position 46.00N, 07.30W, by depth charges from a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (VB-103 USN/C). ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.75, -9.63], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u391.htm">U-391</a></strong> (Oblt. <a href="/men/commanders/221.html">Gert Dültgen</a>). Sunk on 13 December 1943 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of Cape Ortegal, Spain, in position 45.45N, 09.38W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (53 Sqn RAF/B).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.78, -10.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u426.htm">U-426</a></strong> (Kptlt. <a href="/men/commanders/985.html">Christian Reich</a>). Sunk on 8 January 1944 in the North Atlantic north-west of Cape Ortegal, Spain, in position 46.47N, 10.42W, by depth charges from an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (10 Sqn RAAF/U).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.67, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u263.htm">U-263</a></strong> (KrvKpt. <a href="/men/commanders/885.html">Kurt Nölke</a>). Sank on 20 January 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of La Rochelle, France, in approx. position 45.40N, 03.00W, in an accident after a deep dive trial.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.55, -6.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u364.htm">U-364</a></strong> (Oblt. <a href="/men/commanders/1049.html">Paul-Heinrich Sass</a>). Sunk on 29 January 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of Bordeaux, in position 45.33N, 06.05W, by depth charges from a  British <a href=\"/allies/aircraft/halifax.htm\">Halifax</a> aircraft (502 Sqn RAF/U).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.83, -2.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u976.htm">U-976</a></strong> (Oblt. <a href="/men/commanders/1274.html">Raimund Tiesler</a>). Sunk on 25 March 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of St. Nazaire, in position 46.50N, 02.41,5W, by gunfire from two British <a href=\"/allies/aircraft/mosquito.htm\">Mosquito</a> aircraft (248 Sqn RAF/L & I).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.00, -4.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u193.htm">U-193</a></strong> (Oblt. (R) <a href="/men/commanders/1.html">Dr. Ulrich Abel</a>). <a href=\"/fates/missing.htm\">Missing</a> since 24 April 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a>. No explanation exists for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.07, -9.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u846.htm">U-846</a></strong> (Oblt. (R) <a href="/men/commanders/429.html">Berthold Hashagen</a>). Sunk on 4 May 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north of Cape Ortegal, Spain, in position 46.04N, 09.20W, by depth charges from a Canadian <a href=\"/allies/aircraft/wellington.htm\">Wellington</a> aircraft (407 Sqn RCAF/M).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.22, -8.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u955.htm">U-955</a></strong> (Oblt. (R) <a href="/men/commanders/28.html">Hans-Heinrich Baden</a>). Sunk on 7 June 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north of Cape Ortegal, Spain, in position 45.13N, 08.30W, by depth charges from a British <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (201 Sqn RAF/S).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.17, -5.52], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u373.htm">U-373</a></strong> (Oblt. <a href="/men/commanders/715.html">Detlef von Lehsten</a>). Sunk on 8 June 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of Brest, in position 48.10N, 05.31W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/G).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.25, -4.17], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u970.htm">U-970</a></strong> (Kptlt. <a href="/men/commanders/600.html">Hans-Heinrich Ketels</a>). Sunk at 0135hrs on 8 June 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of Bordeaux, France, in position 45.15N, 04.10W, by depth charges from a British <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (228 Sqn RAF/R).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.10, -6.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u243.htm">U-243</a></strong> (Kptlt. <a href="/men/commanders/771.html">Hans Märtens</a>). Sunk on 8 July 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of St. Nazaire, in position 47.06N, 06.40W, by depth charges from an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (10 Sqn RAAF/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.52, -5.48], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1222.htm">U-1222</a></strong> (Kptlt. <a href="/men/commanders/81.html">Heinz Bielfeld</a>). Sunk 11 July 1944 in the <a href=/maps/biscay.htm>Bay of Biscay</a> west of La Rochelle, in position 46.31N, 05.29W, by depth charges from a British Sunderland aircraft (Sqdn 201/P). ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.32, -4.27], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u736.htm">U-736</a></strong> (Oblt. (R) <a href="/men/commanders/982.html">Reinhard Reff</a>). Sunk on 6 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of Lorient, France, in position 47.19N, 04.16W, by depth charges from the British frigate <a href=\"/allies/warships/ship/229.html\">HMS Loch Killin</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.50, -3.13], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u608.htm">U-608</a></strong> (Oblt. <a href="/men/commanders/991.html">Wolfgang Reisener</a>). Sunk on 10 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of La Rochelle, in position 46.30N, 03.08W, by depth charges from the British sloop <a href=\"/allies/warships/ship/3921.html\">HMS Wren</a> and a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (53 Sqn RAF/C).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.27, -2.75], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u385.htm">U-385</a></strong> (Kptlt. <a href="/men/commanders/1297.html">Hans-Guido Valentiner</a>). Sunk on 11 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> north-west of La Rochelle, in position 46.16N, 02.45W, by depth charges from the British sloop <a href=\"/allies/warships/ship/3948.html\">HMS Starling</a> and an Australian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (461 Sqn RAAF/P).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.15, -1.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u981.htm">U-981</a></strong> (Oblt. <a href="/men/commanders/591.html">Günther Keller</a>). Sunk on 12 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> off La Rochelle, in position 46.09N, 01.35W, by an air-laid mine in the British field <em>Cinnamon</em> and depth charges from a British <a href=\"/allies/aircraft/halifax.htm\">Halifax</a> aircraft (502 Sqn RAF/F).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.32, -2.93], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u270.htm">U-270</a></strong> (Oblt. <a href="/men/commanders/1122.html">Heinrich Schreiber</a>). Decommissioned on 25 June 1944 at Lorient and laid up in U-boat pen, later repaired and returned to service in August 1944. <p>Sunk at 0010hrs on 13 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of La Rochelle, in position 46.19N, 02.56W, by depth charges from an Australian Sunderland aircraft (461 Sqn RAAF/A).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.37, -4.65], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u618.htm">U-618</a></strong> (Oblt. <a href="/men/commanders/270.html">Erich Faust</a>). Sunk on 14 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of Lorient, in position 47.22N, 04.39W, by depth charges from the British frigates <a href=\"/allies/warships/ship/5641.html\">HMS Duckworth</a> and <a href=\"/allies/warships/ship/5638.html\">HMS Essington</a> and from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (53 Sqn RAF/G).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.77, -3.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u107.htm">U-107</a></strong> (Ltn. <a href="/men/commanders/328.html">Karl-Heinz Fritz</a>). Sunk on 18 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of St. Nazaire, in position 46.46N, 03.49W, by depth charges from a British <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (201 Sqn RAF/W).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([45.87, -2.60], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u621.htm">U-621</a></strong> (Oblt. <a href="/men/stuckmann.htm">Hermann Stuckmann</a>). Sunk on 18 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of La Rochelle, in position 45.52N, 02.36W, by depth charges from the Canadian destroyers <a href=\"/allies/warships/ship/5417.html\">HMCS Ottawa</a>, <a href=\"/allies/warships/ship/5623.html\">HMCS Kootenay</a> and <a href=\"/allies/warships/ship/5418.html\">HMCS Chaudiere</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.73, -3.37], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u129.htm">U-129</a></strong> (). Decommissioned in August 1944 at Lorient and scuttled south-west of U-boat pen <em>Keroman I</em> on 18 August 1944. Wreck captured by US forces in May 1945 and handed over to France. Raised and broken up in 1946.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.73, -3.37], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u123.htm">U-123</a></strong> (). Decommissioned on 17 June 1944 at Lorient and laid up in box K3 of the U-boat pen. Scuttled there on 19 August 1944. Wreck captured by US forces in May 1945 and handed over to France.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.00, -2.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u180.htm">U-180</a></strong> (Oblt. <a href="/men/commanders/1007.html">Rolf Riesen</a>). Missing since 23 Aug 1944 in the <a href=/maps/biscay.htm>Bay of Biscay</a> west of Bordeaux, France in approximate position 44.00N, 02.00W. <p>Her loss to mines as listed in many sources is not very likely.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.35, -5.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u445.htm">U-445</a></strong> (Oblt. <a href="/men/commanders/291.html">Rupprecht Fishler, Graf von Treuberg</a>). Sunk on 24 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> south-west of Brest, France, in position 47.21N, 05.50W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5669.html\">HMS Louis</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.23], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u766.htm">U-766</a></strong> (Oblt. (R) <a href="/men/commanders/1353.html">Hans-Dietrich Wilke</a>). Decommissioned on 24 August 1944 at La Pallice and laid up in the U-boat pen as the boat was unseaworthy due to battle damage.<p>Captured by French forces in May 1945.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.10, -1.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u667.htm">U-667</a></strong> (Kptlt. <a href="/men/commanders/698.html">Karl-Heinz Lange</a>). Sunk on 26 August 1944 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of La Rochelle, in position 46.06,4N, 01.35,3W, by an air-laid mine in the British field <em>Cinnamon</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.58, -10.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u878.htm">U-878</a></strong> (Kptlt. <a href="/men/commanders/1014.html">Johannes Rodig</a>). Sunk 10 April 1945 in the <a href=/maps/biscay.htm>Bay of Biscay</a> west of St Nazaire, France  in position 47.35N, 10.33W, by depth charges from the British destroyer <a href=/allies/warships/ship/5457.html>HMS Vanquisher</a> and the British corvette <a href=/allies/warships/ship/66.html>HMS Tintagel Castle</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.20, -5.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1107.htm">U-1107</a></strong> (Kptlt. <a href="/men/commanders/910.html">Fritz Parduhn</a>). Sunk on 30 April 1945 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of Brest, in position 48.12N, 05.42W, by a homing torpedo from a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (VP-103 USN/K).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.85, -6.77], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u326.htm">U-326</a></strong> (Kptlt. <a href="/men/commanders/794.html">Peter Matthes</a>). Sunk on 30 April 1945 in the <a href=\"/maps/biscay.htm\">Bay of Biscay</a> west of Brest in position 47.51N, 06.46W by retro bombs from a US <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (VP-63 USN/R).');
+
+//route = ''
+
+//Print out the convoy route
+
+var routeCoordinates = [
+	        [40.45, -73.50],
+	        [40.30, -71.51],
+	        [43.00, -64.04],
+	        [44.39, -63.34],
+	        [44.39, -58.00],
+	        [45.00, -52.00],
+	        [47.00, -49.00],
+	        [54.00, -45.34],
+	        [59.00, -40.00],
+	        [61.00, -30.00],
+	        [60.00, -15.00],
+	        [58.00, -10.00],
+	        [55.53, -6.59],
+	        [55.18, -5.59],
+	        [54.56, -5.18],
+	        [54.00, -5.07],
+	        [53.46, -3.13] // Liverpool
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/green_Marker.png"> 1940.
+<img src="/media/maps/googlemarkers/red_Marker.png"> 1941.
+<img src="/media/maps/googlemarkers/blue_Marker.png"> 1942.
+<img src="/media/maps/googlemarkers/orange_Marker.png"> 1943.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.
+<img src="/media/maps/googlemarkers/yellow_Marker.png"> 1945.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p>
+</div>
+
+<p>This map shows <strong>69</strong> U-boats lost at sea, a significant portion of the overall U-boat losses. Here the <a href="/types/u-flak.htm">Flak-boats</a> were experimented with in an attempt to fend of the allied aircraft. One of the means to combat the ever-present aircraft in this area was the <a href="piening-route.htm">Piening-Route</a> of 1943.</p><div align="center"><h3>Selected media links</h3><table><tr><td class="width130" align="center"><p><a href="/books/item/2444"><img src="/media/books/covers/english/1473896053.jpg"  width="100" alt="" /><br>U-Boats Beyond Biscay</a><br>Bernard Edwards (2017)</p><div class="left"><br> <img src="/media/images/flags/small/flag_usa-s.gif" alt="" /> <a href="/about/scripts/amazon_com.php?book=1473896053&path=/maps/biscay.htm">amazon.com</a> <br>($ 13.84)</div><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1473896053&path=/maps/biscay.htm">amazon.co.uk</a> <br>(£ 12.15)</div></td><td class="width130" align="center"><p><a href="/books/item/388"><img src="/media/books/covers/english/black_may_1943.gif"  width="100" alt="" /><br>Black May</a><br>Gannon, Michael (1998)</p></td><td class="width130" align="center"><p><a href="/books/item/1648"><img src="/media/books/covers/english/raaf-flying-boats-at-war.jpg"  width="100" alt="" /><br>RAAF Flying Boats at War</a><br>Leach, Joe (1999)</p></td><td class="width130" align="center"><p><a href="/books/item/421"><img src="/media/books/covers/english/bloody-biscay.jpg"  width="100" alt="" /><br>Bloody Biscay</a><br>Goss, Chris (1997)</p></td></tr></table></div>
+
+<br>
+<div align="center">
+	<h3><a href="/maps/">The Maps</a></h3>
+</div>
+
+
+<!--<p>
+	<br>
+</p>-->
+
+<p><br></p>
+
+</div>
+<!-- This closes the main content DIV (text area of pages) -->
+
+
+		<div id="footer">
+		
+            <div id="footer_navcontainer">
+                <ul id="footer_navlist">
+                    <li><a href="/" title="Front page">Front page</a></li>
+                    <li><a href="/about/" title="About uboat.net">About</a></li>
+                    <li><a href="/about/contact.htm" title="Contact us">Contact us</a></li>
+                    <li><a href="/special/faq.htm" title="Frequently Asked Questions">FAQ</a></li>
+                    <li><a href="/glossary.htm" title="Glossary pages">Glossary</a></li>
+                    <li><a href="/new.htm" title="What's new at uboat.net">What's new</a></li>
+                </ul>
+            </div>
+
+            <div id="footer_copyright">
+                &nbsp;&copy; 1995 - 2020 Gu&eth;mundur Helgason            </div>
+
+		</div>
+		<!-- End of footer -->
+
+</div>
+<!-- End of container DIV -->
+
+</body></html>
+

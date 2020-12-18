@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<title>The English Channel - The U-boat War in Maps - uboat.net</title>
+	<link rel="stylesheet" href="/media/layout/2014_06/main2017-10.css" type="text/css" />
+	<link rel="stylesheet" href="/media/layout/2014_06/print.css" type="text/css" media="print" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="The U-boat War in World War Two (Kriegsmarine, 1939-1945) and World War One (Kaiserliche Marine, 1914-1918) and the Allied efforts to counter the threat. Over 40.000 pages on the officers, the boats, technology and the Allied efforts to counter the U-boat threat." />
+    <meta name="keywords" content="U-boat, submarine, boats, technology, XXI, VIIC, XIC, II, XIV, XXIII, Uboote, Unterseeboote,  aircraft, escorts, Kriegsmarine, German navy, U-boote, destroyers, corvettes, frigates, battleships, aircraft carriers, trawlers." />    <link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script></head>
+<body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1034416-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+<div id="container">
+	<!-- Wrapper for the outer table -->		
+				
+    <div id="banner">
+    <!-- Header area starts -->
+        <h1 class="ph">uboat.net</h1>
+
+        &nbsp;
+
+		<!-- The main menu -->
+		<div id="navcontainer">
+			<ul id="navlist">
+				<li><a href="/" title="Front page">Home</a></li>
+				
+<li><a href="/boats.htm" title="The Boats">The U-boats</a></li>
+<li><a href="/men/" title="The Men">The Men</a></li>
+<li><a href="/allies/" title="Allied efforts to fight the U-boats">The Allies</a></li>
+<li><a href="/maps/" title="Maps">Maps</a></li>
+<li><a href="/forums/" title="Join our Forums">Forums</a></li>
+<li><a href="/articles/" title="Articles">Articles</a></li>
+<li><a href="/gallery/" title="Galleries">Gallery</a></li>
+<li><a href="/books/" title="Over 2200 books">Books</a></li>
+<li><a href="/special/movies/" title="Naval Warfare Movies">Movies</a></li>
+<li><a href="/wwi/" title="World War One">WWI</a></li>																
+			</ul>
+		</div>
+		<!-- The main menu ends -->
+
+
+            <span id="breadcrumbs">
+                <a href="/">Front page</a> - <a href="/boats.htm">The U-boats</a> - <a href="/maps/"><strong>The War in Maps</strong></a>            </span>
+
+		
+		</div>
+		<!-- End of banner/header area -->
+		
+
+		<div id="sidebar-a">
+				
+
+
+<div id="submenu">
+<h4><a href="/boats.htm">The U-boats</a></h4>
+<ul id="submenulist">
+<li><a href="/boats/">List of all U-boats</a>
+<ul>
+<li><a href="/ops/successful_boats.htm">Most successful</a></li></ul></li>
+<li><a href="/boats/patrols/">U-boat Patrols</a></li>
+<li><a href="/types/">U-boat Types</a></li>
+<li><a href="/ops/">Operations</a>
+<ul>
+<li><a href="/ops/convoys/">Convoy battles</a></li>
+<li><a href="/ops/top_patrols.htm">Successful patrols</a></li>
+<li><a href="/ops/wolfpacks/">Wolfpacks</a></li>
+<li><a href="/maps/">Maps</a></li>
+<li><a href="/ops/combat_strength.html">Combat strength</a></li></ul>
+</li>
+<li><a href="/fates/">U-boat Fates</a><ul>
+<li><a href="/fates/losses/">Losses by year</a></li>
+<li><a href="/fates/scuttled.htm">Scuttled boats</a></li>
+<li><a href="/fates/surrendered.htm">Surrenders</a></li>
+<li><a href="/fates/discovered.html">Discovered boats</a></li>
+<li><a href="/fates/dive/">Dive sites</a></li>
+<li><a href="/fates/revised.html">Revised fates</a></li>
+</ul>
+</li>
+<li><a href="/flotillas/">Flotillas</a><ul>
+<li><a href="/flotillas/bases/">U-boat bases</a></li></ul></li>
+<li><a href="/technical/shipyards/">Shipyards</a></li>
+<li><a href="/technical/">Technologies</a></li>
+<li><a href="/special/emblems/">U-boat Emblems</a></li>
+</ul>
+</div>
+
+<div class="item_box center">
+<h4>Events on this day</h4>
+<p><a href="/today.html">What happened on<br>18 July?</a></p>
+</div>
+
+<div class="item_box center">
+<h4>Commander file</h4><p class="caption"><a href="/men/commanders/24.html"><img src="/media/men/commanders/baberg_kurt.jpg" class="width80" alt="" /><br>Kurt Baberg</a><br>(<a href="/boats/u30.htm">U-30</a>, <a href="/boats/u618.htm">U-618</a>, <a href="/boats/u827.htm">U-827</a>)</p><p>- <a href="/men/commanders/">More officers</a></p>
+</div>
+
+<div class="item_box center">
+<h4>U-boat of the day</h4><a href="/boats/u568.htm">U-568</a> - 5 patrols<br>3 ships sunk (7,873 tons)
+</div>
+
+<div class="item_box">
+<h4>U-boat Finder</h4>
+<form action="/boats/finder.php" method="post">
+<input size="8" name="find_boat"  class="search-field" />&nbsp;&nbsp;
+<input type="submit" value="Search" class="input" />
+</form>
+</div><p><br>Follow us on Twitter<br><a href="http://twitter.com/uboatnet" class="noborder"><img src="/media/layout/images/twitter_newbird_18.gif" alt="Twitter" /></a> <a href="http://twitter.com/uboatnet">@uboatnet</a></p>					
+			<br>
+		</div>
+	<!-- End of sidebar -->
+		
+
+	<div id="content">
+	<!-- Beginning of main content DIV -->
+
+    
+
+<div id="ga_contentTop728" align="center">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ContentTop, 728x90, created 11/6/10 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-1101670507446460"
+         data-ad-slot="9674187468"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+
+
+
+
+<div align="center">
+	<p><a href="/maps/"><img src="/media/layout/images/header_maps.gif" width="550" height="70" alt="The U-boat war in Maps" /></a></p>
+	<h1>The English Channel</h1>
+</div>
+
+
+<p>The first U-boat lost in the Channel were the <a href="/boats/u12.htm">U-12</a>, <a href="/boats/u16.htm">U-16</a> and <a href="/boats/u40.htm">U-40</a> in 1939. From then on U-boats avoided the Channel for the most part due to fear of large allied minefields there.</p>
+
+<p>The last boats to be sunk here were 
+<a href="/boats/u1063.htm">U-1063</a>, <a href="/boats/u1195.htm">U-1195</a>,
+<a href="/boats/u275.htm">U-275</a> and <a href="/boats/u772.htm">U-772</a> in Dec 44 - April 1945.</p>
+
+
+
+
+
+
+<div align="center">
+<h2>U-boats lost in the English Channel</h2>
+
+
+<style media="screen" type="text/css">
+        #map {width:600px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map').setView([50.0, -1.0], 7)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/purple_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.17, 1.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u12.htm">U-12</a></strong> (Kptlt. <a href="/men/commanders/1026.html">Dietrich von der Ropp</a>). Sunk on or about 8 October 1939 in the <a href=\"/maps/channel.htm\">English Channel</a> near Dover, in approximate position 51.10N, 01.30E, by a mine.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/purple_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.12, 1.80], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u40.htm">U-40</a></strong> (Kptlt. <a href="/men/commanders/44.html">Wolfgang Barten</a>). Sunk on 13 October 1939 in the <a href=\"/maps/channel.htm\">English Channel</a> east of Dover, in position 51.07,5N, 01.48E, by a mine in the British minefield <em>C3</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/purple_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.15, 1.47], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u16.htm">U-16</a></strong> (Kptlt. <a href="/men/commanders/1329.html">Horst Wellner</a>). Scuttled 25 October 1939 in the <a href=\"/maps/channel.htm\">English Channel</a> east of Dover, in position 51.09N, 01.28E, following heavy damage by a British mine.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.57, -5.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u629.htm">U-629</a></strong> (Oblt. <a href="/men/commanders/152.html">Hans-Helmuth Bugs</a>). Sunk on 7 June 1944 in the Celtic Sea north-west of Ushant, in position 48.34N, 05.23W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (53 Sqn RAF/L).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.52, -5.18], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u821.htm">U-821</a></strong> (Oblt. <a href="/men/commanders/619.html">Ulrich Knackfuß</a>). Sunk at 1145hrs on 10 June 1944 in the Bay of Biscay west of Brest, in position 48.31N, 05.11W, by depth charges and strafing from a British Liberator (206 Sqn RAF/K) and four British Mosquito aircraft (248 Sqn RAF/S, T, V & W).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.05, -3.22], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u767.htm">U-767</a></strong> (Oblt. (R) <a href="/men/commanders/188.html">Walter Dankleff</a>). Sunk on 18 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Guernsey, in position 49.03N, 03.13W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4384.html\">HMS Fame</a>, <a href=\"/allies/warships/ship/4420.html\">HMS Inconstant</a> and <a href=\"/allies/warships/ship/4407.html\">HMS Havelock</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.02, -2.98], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u988.htm">U-988</a></strong> (Oblt. <a href="/men/commanders/207.html">Erich Dobberstein</a>). Sunk on 22 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> north-west of Cherbourg, in position 50.01,3N, 02.59,7W, by depth charges from a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (VB-110 USN/K).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.02, -5.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u971.htm">U-971</a></strong> (Oblt. <a href="/men/commanders/1397.html">Walter Zeplien</a>). Sunk on 24 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Land\'s End, in position 49.01N, 05.35W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4430.html\">HMS Eskimo</a>, the Canadian Destroyer <a href=\"/allies/warships/ship/4441.html\">HMCS Haida</a> and a Czech <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (311 Sqn RAF/O).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.93, -2.77], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u269.htm">U-269</a></strong> (Oblt. <a href="/men/commanders/1288.html">Georg Uhl</a>). Sunk on 25 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-east of Torquay, in position 49.56N, 02.46W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5484.html\">HMS Bickerton</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.62, -3.68], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u441.htm">U-441</a></strong> (Kptlt. <a href="/men/commanders/423.html">Klaus Hartmann</a>). Sunk on 30 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> west of Guernsey, in position 49.37N, 03.41W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/L) and the British frigates <a href=\"/allies/warships/ship/5638.html\">HMS Essington</a>, <a href=\"/allies/warships/ship/5641.html\">HMS Duckworth</a>, <a href=\"/allies/warships/ship/5471.html\">HMS Domett</a> and <a href=\"/allies/warships/ship/5473.html\">HMS Cooke</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.15, -0.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1191.htm">U-1191</a></strong> (Oblt. <a href="/men/commanders/379.html">Peter Grau</a>). Sunk on 3 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Brighton, in position 50.09N, 00.15W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4486.html\">HMS Onslaught</a> and <a href=\"/allies/warships/ship/4487.html\">HMS Oribi</a>, the British escort destroyers <a href=\"/allies/warships/ship/4695.html\">HMS Brissenden</a>, <a href=\"/allies/warships/ship/4693.html\">HMS Wensleydale</a>, <a href=\"/allies/warships/ship/4691.html\">HMS Talybont</a> and the British frigate <a href=\"/allies/warships/ship/5649.html\">HMS Seymour</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.87, -0.80], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u390.htm">U-390</a></strong> (Oblt. (R) <a href="/men/commanders/346.html">Heinz Geissler</a>). Sunk at 1500hrs on 5 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a>, Seine Bay, in position 49.52N, 00.48W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4276.html\">HMS Wanderer</a> and the British frigate <a href=\"/allies/warships/ship/126.html\">HMS Tavy</a>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.53, -0.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u678.htm">U-678</a></strong> (). Sunk on 6 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Brighton, in position 50.32N, 00.23W, by depth charges from the Canadian destroyers <a href=\"/allies/warships/ship/5417.html\">HMCS Ottawa</a> and <a href=\"/allies/warships/ship/5623.html\">HMCS Kootenay</a> and the British corvette <a href=\"/allies/warships/ship/5585.html\">HMS Statice</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.05, -2.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u672.htm">U-672</a></strong> (Oblt. <a href="/men/commanders/710.html">Ulf Lawaetz</a>). Scuttled on 18 July 1944, in the <a href=\"/maps/channel.htm\">English Channel</a> north of Guernsey, in position 50.03N, 02.30W, after being badly damaged by depth charges from the British frigate <a href=\"/allies/warships/ship/5644.html\">HMS Balfour</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.45, -0.22], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u212.htm">U-212</a></strong> (Kptlt. <a href="/men/commanders/1307.html">Helmut Vogler</a>). Sunk on 21 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Brighton, in position 50.27N, 00.13W, by depth charges from the British frigates <a href=\"/allies/warships/ship/5655.html\">HMS Curzon</a> and <a href=\"/allies/warships/ship/5658.html\">HMS Ekins</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.97, -3.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u214.htm">U-214</a></strong> (Oblt. <a href="/men/commanders/175.html">Gerhard Conrad</a>). Sunk on 26 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Start Point, in position 49.58N, 03.30W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5473.html\">HMS Cooke</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.07, -0.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u984.htm">U-984</a></strong> (Oblt. <a href="/men/sieder.htm">Heinz Sieder</a>). Sunk on or about 2 August 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Brighton, in position 50.03.732N, 00.32.398W, by unknown cause.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.38, 0.10], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u671.htm">U-671</a></strong> (Kptlt. <a href="/men/commanders/436.html">Wolfgang Hegewald</a>). Sunk at 0230hrs on 4 August 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Newhaven, in position 50.23N, 00.06E, by depth charges from the British frigate <a href=\"/allies/warships/ship/5678.html\">HMS Stayner</a> and the British escort destroyer <a href=\"/allies/warships/ship/4693.html\">HMS Wensleydale</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.03, -0.60], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u741.htm">U-741</a></strong> (Oblt. <a href="/men/commanders/907.html">Gerhard Palmgren</a>). Sunk on 15 August 1944 in the <a href=/maps/channel.htm>English Channel</a> south-west of Brighton, in position 50.02N, 00.36W, by depth charges from the British corvette <a href=\"/allies/warships/ship/4799.html\">HMS Orchis</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.35, -0.02], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u413.htm">U-413</a></strong> (Oblt. <a href="/men/commanders/1044.html">Dietrich Sachse</a>). Sunk on 20 August 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Brighton, in position 50.21N, 00.01W, by depth charges from the British escort destroyer <a href=\"/allies/warships/ship/4693.html\">HMS Wensleydale</a> and the British destroyers <a href=\"/allies/warships/ship/4228.html\">HMS Forester</a> and <a href=\"/allies/warships/ship/4263.html\">HMS Vidette</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.90, -5.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u247.htm">U-247</a></strong> (Oblt. <a href="/men/commanders/793.html">Gerhard Matschulat</a>). Sunk on 1 September 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> near Lands End, in position 49.54N, 05.49W, by depth charges from the Canadian frigates <a href=\"/allies/warships/ship/172.html\">HMCS Saint John</a> and <a href=\"/allies/warships/ship/160.html\">HMCS Swansea</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.05, -2.02], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1200.htm">U-1200</a></strong> (Oblt. <a href="/men/commanders/778.html">Hinrich Mangels</a>). Sunk on or about 12 November 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-east of Start Point, in position 50.02,7N, 02.01W, by unknown cause.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.55, -5.18], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u400.htm">U-400</a></strong> (Kptlt. <a href="/men/commanders/179.html">Horst Creutz</a>). Sunk after 14 December 1944 in the Celtic Sea north-west of Newquay, in position 50.33,16N, 05.11,37W, by a mine in the British field <em>HW A3</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.95, -5.78], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1209.htm">U-1209</a></strong> (Oblt. <a href="/men/commanders/522.html">Ewald Hülsenbeck</a>). Scuttled on 18 December 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> east of the Isles of Scilly, in position 49.57N, 05.47W, after running aground on Wolf Rock.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.42, -2.43], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u322.htm">U-322</a></strong> (Oblt. <a href="/men/commanders/1384.html">Gerhard Wysk</a>). Sunk on 29 December 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Weymouth, in position 50.24,9N, 02.26,3W, by depth charges from the Canadian corvette <a href=\"/allies/warships/ship/865.html\">HMCS Calgary</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.85, -5.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u650.htm">U-650</a></strong> (<a href="/men/commanders/1408.html">Rudolf Zorn</a>). Sunk after 7 January 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Penzance, in position 49.51N, 05.30W, by Hedgehog depth charges from an unidentified Allied vessel.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.95, -5.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1199.htm">U-1199</a></strong> (Kptlt. <a href="/men/commanders/887.html">Rolf Nollmann</a>). Sunk on 21 January 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Land\'s End, in position 49.57N, 05.42W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4412.html\">HMS Icarus</a> and the British corvette <a href=\"/allies/warships/ship/4791.html\">HMS Mignonette</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.37, -1.73], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u480.htm">U-480</a></strong> (Oblt. <a href="/men/foerster.htm">Hans-Joachim Förster</a>). Sunk on or after 29 January 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Portsmouth, in position 50.22N, 01.44W, by a mine in the British field <em>Brazier D2</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.90, -4.75], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u927.htm">U-927</a></strong> (Kptlt. <a href="/men/commanders/231.html">Jürgen Ebert</a>). Sunk on 24 February 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south-east of Falmouth, in position 49.54N, 04.45W, by depth charges from a British <a href=\"/allies/aircraft/warwick.htm\">Warwick</a> aircraft (179 Sqn RAF/K).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.93, -5.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1018.htm">U-1018</a></strong> (Kptlt. <a href="/men/commanders/157.html">Walter Burmeister</a>). Sunk on 27 February 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Lizard Point, in position 49.56N, 05.20W, by depth charges from the British frigate <a href=\"/allies/warships/ship/230.html\">HMS Loch Fada</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.77, -5.78], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1279.htm">U-1279</a></strong> (Oblt. (R) <a href="/men/commanders/269.html">Hans Falke</a>). Sunk on 27 February 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> east of the Scilly Isles, in position 49.46N, 05.47W, by depth charges from the British frigates <a href=\"/allies/warships/ship/282.html\">HMS Labuan</a>, <a href=\"/allies/warships/ship/230.html\">HMS Loch Fada</a>, the British sloop <a href=\"/allies/warships/ship/3918.html\">HMS Wild Goose</a> and a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (VPB-112 USN/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.60, 0.07], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u275.htm">U-275</a></strong> (Oblt. <a href="/men/commanders/1324.html">Helmuth Wehrkamp</a>). Sunk on 10 March 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Newhaven, in position 50.36N, 00.04E, by a mine in the British field <em>Brazier E</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.67, -5.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1021.htm">U-1021</a></strong> (Oblt. <a href="/men/commanders/508.html">William Holpert</a>). Sunk on 14 March 1945 in the Celtic Sea north of Newquay, in position 50.39,8N, 05.05,1W, by a mine in the British minefield <em>HY A1</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.93, -5.37], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u399.htm">U-399</a></strong> (Oblt. (R) <a href="/men/commanders/154.html">Heinz Buhse</a>). Sunk on 26 March 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> near Land\'s End, in position 49.56N, 05.22W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5641.html\">HMS Duckworth</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.97, -5.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1169.htm">U-1169</a></strong> (Oblt. (R) <a href="/men/commanders/368.html">Heinz Goldbeck</a>). Sunk on 29 March 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Lizard Point, in position 49.58N, 05.25W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5641.html\">HMS Duckworth</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.55, -0.93], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1195.htm">U-1195</a></strong> (Kptlt. <a href="/men/commanders/176.html">Ernst Cordes</a>). Sunk on 6 April 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Spithead Roads, in position 50.33N, 00.56W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4268.html\">HMS Watchman</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.13, -3.88], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1063.htm">U-1063</a></strong> (<a href="/men/commanders/1230.html">Karl-Heinz Stephan</a>). Sunk on 15 April 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> west of Land\'s End, in position 50.08.54N, 03.53.24W, by depth charges from the British frigate <a href=\"/allies/warships/ship/229.html\">HMS Loch Killin</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.80, -5.20], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u325.htm">U-325</a></strong> (Oblt. <a href="/men/commanders/213.html">Erwin Dohrn</a>). Sunk on or after 30 April 1945 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Lizard Point, in position 49.48N, 05.12W, by a mine in the British minefield <em>Artizan B3, part 1</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.58, -2.43], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u249.htm">U-249</a></strong> (<a href="/men/commanders/631.html">Uwe Kock</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 10 May 1945 at Portland, UK  (Waller & Niestlé, 2010).<p>Commissioned as research vessel <strong>N 85</strong> in the Royal Navy on 29 May 1945, later transferred to Loch Ryan, Scotland.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.58, -2.43], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1023.htm">U-1023</a></strong> (Kptlt. <a href="/men/schroeteler.htm">Heinrich-Andreas Schroeteler</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 10 May 1945 in Weymouth, UK (Waller & Niestlé, 2010).<p>Used for exhibition tour on the west coast of Britain with the pennant <strong>N 83</strong>, afterwards transferred to Lisahally via Loch Ryan.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.58, -2.43], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u776.htm">U-776</a></strong> (Kptlt. <a href="/men/commanders/790.html">Lothar Martin</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Portland, UK on 16 May 1945.<p>Became the British submarine <strong>N 65</strong>, used for tests and an exhibition tour on the British east coast until transferred to Loch Ryan, Scotland.</p>');
+
+//route = ''
+
+//Print out the convoy route
+
+var routeCoordinates = [
+	        [40.45, -73.50],
+	        [40.30, -71.51],
+	        [43.00, -64.04],
+	        [44.39, -63.34],
+	        [44.39, -58.00],
+	        [45.00, -52.00],
+	        [47.00, -49.00],
+	        [54.00, -45.34],
+	        [59.00, -40.00],
+	        [61.00, -30.00],
+	        [60.00, -15.00],
+	        [58.00, -10.00],
+	        [55.53, -6.59],
+	        [55.18, -5.59],
+	        [54.56, -5.18],
+	        [54.00, -5.07],
+	        [53.46, -3.13] // Liverpool
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p><img src="/media/maps/googlemarkers/purple_Marker.png"> 1939.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.
+<img src="/media/maps/googlemarkers/yellow_Marker.png"> 1945.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p>
+</div>
+
+<p>This map shows <strong>41</strong> of 45 U-boat losses in or near the English Channel during WWII. The exact position where the English Channel ends and the <a href="/maps/biscay.htm">Bay of Biscay</a> starts is a matter of some guesswork.</p>
+<p><strong>Missing from this map</strong><br>
+<a href="/boats/u683.htm">U-683</a> (Kptlt.  <a href="/men/commanders/590.html"> G&uuml;nter Keller</a>) and <a href="/boats/u1055.htm">U-1055</a> (Oblt.  <a href="/men/commanders/822.html"> Rudolf Meyer</a>) are listed as missing in or near the English Channel. <a href="/boats/u12.htm">U-12</a> (Kptlt.  <a href="/men/commanders/1026.html"> Dietrich von der Ropp</a>) was sunk by a mine near Dover in an unknown position on 8 Oct 1939. These boats are included in the figure of lost boats.</p>
+
+
+
+<div align="center">
+<h2>U-boats lost in June - Aug 1944 against D-Day landings</h2>
+
+
+<style media="screen" type="text/css">
+        #map_overlord {width:700px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map_overlord" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map_overlord').setView([49.70, -2.5], 7)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.57, -5.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u629.htm">U-629</a></strong> (Oblt. <a href="/men/commanders/152.html">Hans-Helmuth Bugs</a>). Sunk on 7 June 1944 in the Celtic Sea north-west of Ushant, in position 48.34N, 05.23W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (53 Sqn RAF/L).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([48.52, -5.18], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u821.htm">U-821</a></strong> (Oblt. <a href="/men/commanders/619.html">Ulrich Knackfuß</a>). Sunk at 1145hrs on 10 June 1944 in the Bay of Biscay west of Brest, in position 48.31N, 05.11W, by depth charges and strafing from a British Liberator (206 Sqn RAF/K) and four British Mosquito aircraft (248 Sqn RAF/S, T, V & W).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.05, -3.22], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u767.htm">U-767</a></strong> (Oblt. (R) <a href="/men/commanders/188.html">Walter Dankleff</a>). Sunk on 18 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Guernsey, in position 49.03N, 03.13W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4384.html\">HMS Fame</a>, <a href=\"/allies/warships/ship/4420.html\">HMS Inconstant</a> and <a href=\"/allies/warships/ship/4407.html\">HMS Havelock</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.02, -2.98], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u988.htm">U-988</a></strong> (Oblt. <a href="/men/commanders/207.html">Erich Dobberstein</a>). Sunk on 22 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> north-west of Cherbourg, in position 50.01,3N, 02.59,7W, by depth charges from a US <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (VB-110 USN/K).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.02, -5.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u971.htm">U-971</a></strong> (Oblt. <a href="/men/commanders/1397.html">Walter Zeplien</a>). Sunk on 24 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Land\'s End, in position 49.01N, 05.35W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4430.html\">HMS Eskimo</a>, the Canadian Destroyer <a href=\"/allies/warships/ship/4441.html\">HMCS Haida</a> and a Czech <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (311 Sqn RAF/O).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.93, -2.77], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u269.htm">U-269</a></strong> (Oblt. <a href="/men/commanders/1288.html">Georg Uhl</a>). Sunk on 25 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-east of Torquay, in position 49.56N, 02.46W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5484.html\">HMS Bickerton</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.62, -3.68], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u441.htm">U-441</a></strong> (Kptlt. <a href="/men/commanders/423.html">Klaus Hartmann</a>). Sunk on 30 June 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> west of Guernsey, in position 49.37N, 03.41W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/L) and the British frigates <a href=\"/allies/warships/ship/5638.html\">HMS Essington</a>, <a href=\"/allies/warships/ship/5641.html\">HMS Duckworth</a>, <a href=\"/allies/warships/ship/5471.html\">HMS Domett</a> and <a href=\"/allies/warships/ship/5473.html\">HMS Cooke</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.15, -0.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1191.htm">U-1191</a></strong> (Oblt. <a href="/men/commanders/379.html">Peter Grau</a>). Sunk on 3 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Brighton, in position 50.09N, 00.15W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4486.html\">HMS Onslaught</a> and <a href=\"/allies/warships/ship/4487.html\">HMS Oribi</a>, the British escort destroyers <a href=\"/allies/warships/ship/4695.html\">HMS Brissenden</a>, <a href=\"/allies/warships/ship/4693.html\">HMS Wensleydale</a>, <a href=\"/allies/warships/ship/4691.html\">HMS Talybont</a> and the British frigate <a href=\"/allies/warships/ship/5649.html\">HMS Seymour</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.87, -0.80], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u390.htm">U-390</a></strong> (Oblt. (R) <a href="/men/commanders/346.html">Heinz Geissler</a>). Sunk at 1500hrs on 5 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a>, Seine Bay, in position 49.52N, 00.48W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4276.html\">HMS Wanderer</a> and the British frigate <a href=\"/allies/warships/ship/126.html\">HMS Tavy</a>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.53, -0.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u678.htm">U-678</a></strong> (). Sunk on 6 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Brighton, in position 50.32N, 00.23W, by depth charges from the Canadian destroyers <a href=\"/allies/warships/ship/5417.html\">HMCS Ottawa</a> and <a href=\"/allies/warships/ship/5623.html\">HMCS Kootenay</a> and the British corvette <a href=\"/allies/warships/ship/5585.html\">HMS Statice</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.05, -2.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u672.htm">U-672</a></strong> (Oblt. <a href="/men/commanders/710.html">Ulf Lawaetz</a>). Scuttled on 18 July 1944, in the <a href=\"/maps/channel.htm\">English Channel</a> north of Guernsey, in position 50.03N, 02.30W, after being badly damaged by depth charges from the British frigate <a href=\"/allies/warships/ship/5644.html\">HMS Balfour</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.45, -0.22], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u212.htm">U-212</a></strong> (Kptlt. <a href="/men/commanders/1307.html">Helmut Vogler</a>). Sunk on 21 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Brighton, in position 50.27N, 00.13W, by depth charges from the British frigates <a href=\"/allies/warships/ship/5655.html\">HMS Curzon</a> and <a href=\"/allies/warships/ship/5658.html\">HMS Ekins</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([49.97, -3.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u214.htm">U-214</a></strong> (Oblt. <a href="/men/commanders/175.html">Gerhard Conrad</a>). Sunk on 26 July 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Start Point, in position 49.58N, 03.30W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5473.html\">HMS Cooke</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.07, -0.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u984.htm">U-984</a></strong> (Oblt. <a href="/men/sieder.htm">Heinz Sieder</a>). Sunk on or about 2 August 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south-west of Brighton, in position 50.03.732N, 00.32.398W, by unknown cause.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.38, 0.10], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u671.htm">U-671</a></strong> (Kptlt. <a href="/men/commanders/436.html">Wolfgang Hegewald</a>). Sunk at 0230hrs on 4 August 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Newhaven, in position 50.23N, 00.06E, by depth charges from the British frigate <a href=\"/allies/warships/ship/5678.html\">HMS Stayner</a> and the British escort destroyer <a href=\"/allies/warships/ship/4693.html\">HMS Wensleydale</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.03, -0.60], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u741.htm">U-741</a></strong> (Oblt. <a href="/men/commanders/907.html">Gerhard Palmgren</a>). Sunk on 15 August 1944 in the <a href=/maps/channel.htm>English Channel</a> south-west of Brighton, in position 50.02N, 00.36W, by depth charges from the British corvette <a href=\"/allies/warships/ship/4799.html\">HMS Orchis</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.35, -0.02], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u413.htm">U-413</a></strong> (Oblt. <a href="/men/commanders/1044.html">Dietrich Sachse</a>). Sunk on 20 August 1944 in the <a href=\"/maps/channel.htm\">English Channel</a> south of Brighton, in position 50.21N, 00.01W, by depth charges from the British escort destroyer <a href=\"/allies/warships/ship/4693.html\">HMS Wensleydale</a> and the British destroyers <a href=\"/allies/warships/ship/4228.html\">HMS Forester</a> and <a href=\"/allies/warships/ship/4263.html\">HMS Vidette</a>.');
+
+//route = ''
+
+//Print out the convoy route
+
+var routeCoordinates = [
+	        [40.45, -73.50],
+	        [40.30, -71.51],
+	        [43.00, -64.04],
+	        [44.39, -63.34],
+	        [44.39, -58.00],
+	        [45.00, -52.00],
+	        [47.00, -49.00],
+	        [54.00, -45.34],
+	        [59.00, -40.00],
+	        [61.00, -30.00],
+	        [60.00, -15.00],
+	        [58.00, -10.00],
+	        [55.53, -6.59],
+	        [55.18, -5.59],
+	        [54.56, -5.18],
+	        [54.00, -5.07],
+	        [53.46, -3.13] // Liverpool
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p>
+</div>
+<p>From June 6 to the end of August 1944 <strong>18 U-boats were lost</strong> in the Channel when trying to attack the Allied landings at Normandy against overwhelming odds (over 1,200 Allied warships).</p><div align="center"><h3>Selected media links</h3><table><tr><td class="width130" align="center"><p><a href="/books/item/2459"><img src="/media/books/covers/english/1848848706.jpg"  width="100" alt="" /><br>HMS Rodney</a><br>Iain Ballantyne (2012)</p><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1848848706&path=/maps/channel.htm">amazon.co.uk</a> <br>(£ 16.99)</div></td><td class="width130" align="center"><p><a href="/books/item/2476"><img src="/media/books/covers/english/1844157148.jpg"  width="100" alt="" /><br>Donitz's Last Gamble</a><br>Lawrence Patterson (2008)</p><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1844157148&path=/maps/channel.htm">amazon.co.uk</a> <br>(£ 25.00)</div></td><td class="width130" align="center"><p><a href="/books/item/1092"><img src="/media/books/covers/english/neptunus_rex.jpg"  width="100" alt="" /><br>Neptunus Rex</a><br>Prados, Edward F. (1998)</p><div class="left"><br> <img src="/media/images/flags/small/flag_usa-s.gif" alt="" /> <a href="/about/scripts/amazon_com.php?book=089141648X&path=/maps/channel.htm">amazon.com</a> <br>($ 16.98)</div></td><td class="width130" align="center"><p><a href="/books/item/1998"><img src="/media/books/covers/english/the_invasion_before_normand.jpg"  width="100" alt="" /><br>The  Invasion Before Normandy</a><br>Hoyt, Edwin Palmer (1999)</p></td><td class="width130" align="center"><p><a href="/books/item/21"><img src="/media/books/covers/english/ss_leopoldville_disaster.jpg"  width="100" alt="" /><br>S.S. Leopoldville Disaster</a><br>Andrade, Allan (1999)</p></td></tr></table></div>
+
+<br>
+<div align="center">
+	<h3><a href="/maps/">The Maps</a></h3>
+</div>
+
+
+<!--<p>
+	<br>
+</p>-->
+
+<p><br></p>
+
+</div>
+<!-- This closes the main content DIV (text area of pages) -->
+
+
+		<div id="footer">
+		
+            <div id="footer_navcontainer">
+                <ul id="footer_navlist">
+                    <li><a href="/" title="Front page">Front page</a></li>
+                    <li><a href="/about/" title="About uboat.net">About</a></li>
+                    <li><a href="/about/contact.htm" title="Contact us">Contact us</a></li>
+                    <li><a href="/special/faq.htm" title="Frequently Asked Questions">FAQ</a></li>
+                    <li><a href="/glossary.htm" title="Glossary pages">Glossary</a></li>
+                    <li><a href="/new.htm" title="What's new at uboat.net">What's new</a></li>
+                </ul>
+            </div>
+
+            <div id="footer_copyright">
+                &nbsp;&copy; 1995 - 2020 Gu&eth;mundur Helgason            </div>
+
+		</div>
+		<!-- End of footer -->
+
+</div>
+<!-- End of container DIV -->
+
+</body></html>
+

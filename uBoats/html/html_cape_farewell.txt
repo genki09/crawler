@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<title>Cape Farewell - The U-boat War in Maps - uboat.net</title>
+	<link rel="stylesheet" href="/media/layout/2014_06/main2017-10.css" type="text/css" />
+	<link rel="stylesheet" href="/media/layout/2014_06/print.css" type="text/css" media="print" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="The U-boat War in World War Two (Kriegsmarine, 1939-1945) and World War One (Kaiserliche Marine, 1914-1918) and the Allied efforts to counter the threat. Over 40.000 pages on the officers, the boats, technology and the Allied efforts to counter the U-boat threat." />
+    <meta name="keywords" content="U-boat, submarine, boats, technology, XXI, VIIC, XIC, II, XIV, XXIII, Uboote, Unterseeboote,  aircraft, escorts, Kriegsmarine, German navy, U-boote, destroyers, corvettes, frigates, battleships, aircraft carriers, trawlers." />    <link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script></head>
+<body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1034416-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+<div id="container">
+	<!-- Wrapper for the outer table -->		
+				
+    <div id="banner">
+    <!-- Header area starts -->
+        <h1 class="ph">uboat.net</h1>
+
+        &nbsp;
+
+		<!-- The main menu -->
+		<div id="navcontainer">
+			<ul id="navlist">
+				<li><a href="/" title="Front page">Home</a></li>
+				
+<li><a href="/boats.htm" title="The Boats">The U-boats</a></li>
+<li><a href="/men/" title="The Men">The Men</a></li>
+<li><a href="/allies/" title="Allied efforts to fight the U-boats">The Allies</a></li>
+<li><a href="/maps/" title="Maps">Maps</a></li>
+<li><a href="/forums/" title="Join our Forums">Forums</a></li>
+<li><a href="/articles/" title="Articles">Articles</a></li>
+<li><a href="/gallery/" title="Galleries">Gallery</a></li>
+<li><a href="/books/" title="Over 2200 books">Books</a></li>
+<li><a href="/special/movies/" title="Naval Warfare Movies">Movies</a></li>
+<li><a href="/wwi/" title="World War One">WWI</a></li>																
+			</ul>
+		</div>
+		<!-- The main menu ends -->
+
+
+            <span id="breadcrumbs">
+                <a href="/">Front page</a> - <a href="/boats.htm">The U-boats</a> - <a href="/maps/"><strong>The War in Maps</strong></a>            </span>
+
+		
+		</div>
+		<!-- End of banner/header area -->
+		
+
+		<div id="sidebar-a">
+				
+
+
+<div id="submenu">
+<h4><a href="/boats.htm">The U-boats</a></h4>
+<ul id="submenulist">
+<li><a href="/boats/">List of all U-boats</a>
+<ul>
+<li><a href="/ops/successful_boats.htm">Most successful</a></li></ul></li>
+<li><a href="/boats/patrols/">U-boat Patrols</a></li>
+<li><a href="/types/">U-boat Types</a></li>
+<li><a href="/ops/">Operations</a>
+<ul>
+<li><a href="/ops/convoys/">Convoy battles</a></li>
+<li><a href="/ops/top_patrols.htm">Successful patrols</a></li>
+<li><a href="/ops/wolfpacks/">Wolfpacks</a></li>
+<li><a href="/maps/">Maps</a></li>
+<li><a href="/ops/combat_strength.html">Combat strength</a></li></ul>
+</li>
+<li><a href="/fates/">U-boat Fates</a><ul>
+<li><a href="/fates/losses/">Losses by year</a></li>
+<li><a href="/fates/scuttled.htm">Scuttled boats</a></li>
+<li><a href="/fates/surrendered.htm">Surrenders</a></li>
+<li><a href="/fates/discovered.html">Discovered boats</a></li>
+<li><a href="/fates/dive/">Dive sites</a></li>
+<li><a href="/fates/revised.html">Revised fates</a></li>
+</ul>
+</li>
+<li><a href="/flotillas/">Flotillas</a><ul>
+<li><a href="/flotillas/bases/">U-boat bases</a></li></ul></li>
+<li><a href="/technical/shipyards/">Shipyards</a></li>
+<li><a href="/technical/">Technologies</a></li>
+<li><a href="/special/emblems/">U-boat Emblems</a></li>
+</ul>
+</div>
+
+<div class="item_box center">
+<h4>Events on this day</h4>
+<p><a href="/today.html">What happened on<br>18 July?</a></p>
+</div>
+
+<div class="item_box center">
+<h4>Commander file</h4><p class="caption"><a href="/men/commanders/227.html"><img src="/media/men/commanders/eberbach_heinz-eugen.jpg" class="width80" alt="" /><br>Heinz-Eugen Eberbach</a><br>(<a href="/boats/u967.htm">U-967</a>, <a href="/boats/u230.htm">U-230</a>)</p><p>- <a href="/men/commanders/">More officers</a></p>
+</div>
+
+<div class="item_box center">
+<h4>U-boat of the day</h4><a href="/boats/u568.htm">U-568</a> - 5 patrols<br>3 ships sunk (7,873 tons)
+</div>
+
+<div class="item_box">
+<h4>U-boat Finder</h4>
+<form action="/boats/finder.php" method="post">
+<input size="8" name="find_boat"  class="search-field" />&nbsp;&nbsp;
+<input type="submit" value="Search" class="input" />
+</form>
+</div><p><br>Follow us on Twitter<br><a href="http://twitter.com/uboatnet" class="noborder"><img src="/media/layout/images/twitter_newbird_18.gif" alt="Twitter" /></a> <a href="http://twitter.com/uboatnet">@uboatnet</a></p>					
+			<br>
+		</div>
+	<!-- End of sidebar -->
+		
+
+	<div id="content">
+	<!-- Beginning of main content DIV -->
+
+    
+
+<div id="ga_contentTop728" align="center">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ContentTop, 728x90, created 11/6/10 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-1101670507446460"
+         data-ad-slot="9674187468"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+
+
+
+
+<div align="center">
+	<p><a href="/maps/"><img src="/media/layout/images/header_maps.gif" width="550" height="70" alt="The U-boat war in Maps" /></a></p>
+
+	<h1>Cape Farewell</h1>
+</div>
+
+<p>This area saw some of the biggest <a href="/ops/convoys/battles.htm">convoy battles</a> of the U-boat war, several convoy routes passed right through this area, or just to the southwest of it.</p>
+
+<p>Of special fates here are <a href="/boats/u110.htm">U-110</a> that was captured in May 1941. Its capture was of immense value for
+the allies. The <a href="/boats/u254.htm">U-254</a> was rammed and sunk by its sister ship, <a href="/boats/u221.htm">U-221</a> (Trojer).</p>
+
+
+
+
+
+<div align="center">
+
+
+<style media="screen" type="text/css">
+        #map {width:600px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map').setView([58.00, -35.00], 4)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.58, -20.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u76.htm">U-76</a></strong> (Oblt. <a href="/men/commanders/494.html">Friedrich von Hippel</a>). Sunk on 5 April 1941 in the North Atlantic south of Iceland, in position 58.35N, 20.20W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/5441.html\">HMS Wolverine</a> and the British sloop <a href=\"/allies/warships/ship/3883.html\">HMS Scarborough</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.37, -33.20], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u110.htm">U-110</a></strong> (Kptlt. <a href="/men/lemp.htm">Fritz-Julius Lemp</a>). <a href=\"/articles/id/32\">Captured</a> on 9 May 1941 in the North Atlantic east of Cape Farewell, Greenland, after being badly damaged by depth charges from the British destroyers <a href=\"/allies/warships/ship/4359.html\">HMS Bulldog</a>, <a href=\"/allies/warships/ship/4322.html\">HMS Broadway</a> and the British corvette <a href=\"/allies/warships/ship/4714.html\">HMS Aubretia</a>. The boat was allowed to sink the day after to preserve the secret of her capture (see below).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.40, -29.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u556.htm">U-556</a></strong> (Kptlt. <a href="/men/wohlfarth.htm">Herbert Wohlfarth</a>). Sunk on 27 June 1941 in the North Atlantic south-west of Iceland, in position 60.24N, 29.00W, by depth charges from the British corvettes <a href=\"/allies/warships/ship/4811.html\">HMS Nasturtium</a>, <a href=\"/allies/warships/ship/4807.html\">HMS Celandine</a> and <a href=\"/allies/warships/ship/4761.html\">HMS Gladiolus</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([62.83, -37.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u501.htm">U-501</a></strong> (KrvKpt. <a href="/men/commanders/297.html">Hugo Förster</a>). Sunk at 2330hrs on 10 September 1941 in the <a href=\"/maps/cape_farewell.htm\">Denmark Strait</a> south of Angmagsalik, Greenland, in position 62.50N, 37.50W, by depth charges and ramming from the Canadian corvettes <a href=\"/allies/warships/ship/808.html\">HMCS Chambly</a> and <a href=\"/allies/warships/ship/828.html\">HMCS Moosejaw</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.98, -34.80], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u207.htm">U-207</a></strong> (Oblt. <a href="/men/commanders/817.html">Fritz Meyer</a>). Sunk on 11 September 1941 in the <a href=\"/maps/cape_farewell.htm\">Denmark Strait</a> south-east of Angmagssalik, Greenland, in position 63.59N, 34.48W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4175.html\">HMS Leamington</a> and <a href=\"/allies/warships/ship/5440.html\">HMS Veteran</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.40, -39.62], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u210.htm">U-210</a></strong> (KrvKpt. <a href="/men/commanders/721.html">Rudolf Lemcke</a>). Sunk on 6 August 1942 in the North Atlantic south of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 54.24N, 39.37W, by depth charges, gunfire and ramming from the Canadian destroyer <a href=\"/allies/warships/ship/4360.html\">HMCS Assiniboine</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.18, -30.95], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u379.htm">U-379</a></strong> (KrvKpt. <a href="/men/commanders/602.html">Paul-Hugo Kettner</a>). Sunk on 8 August 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 57.11N, 30.57W, by depth charges and ramming from the British corvette <a href=\"/allies/warships/ship/4752.html\">HMS Dianthus</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.68, -31.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u756.htm">U-756</a></strong> (Kptlt. <a href="/men/commanders/417.html">Klaus Harney</a>). Sunk on 1 September 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 57.41N, 31.30W, by depth charges from the Canadian corvette <a href=\"/allies/warships/ship/829.html\">HMCS Morden</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.87, -21.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u582.htm">U-582</a></strong> (KrvKpt. <a href="/men/commanders/1150.html">Werner Schulte</a>). Sunk on 5 October 1942 in the North Atlantic south-west of Iceland, in position 58.52N, 21.42W, by depth charges from a US <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (VP-73 USN/I).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.68, -22.97], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u619.htm">U-619</a></strong> (Oblt. <a href="/men/commanders/776.html">Kurt Makowski</a>). Sunk on 5 October 1942 in the North Atlantic south-west of Iceland, in position 58.41N, 22.58W, by four depth charges from a British <a href=\"/allies/aircraft/hudson.htm\">Hudson</a> aircraft (269 Sqn RAF/N).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([56.83, -28.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u597.htm">U-597</a></strong> (KrvKpt. <a href="/men/commanders/104.html">Eberhard Bopst</a>). Sunk on 12 October 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 56.50N, 28.05W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.70, -35.93], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u661.htm">U-661</a></strong> (Oblt. <a href="/men/commanders/733.html">Erich von Lilienfeld</a>). Sank on 15 October 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 53.42N, 35.56W, after being rammed by the British destroyer <a href=\"/allies/warships/ship/4265.html\">HMS Viscount</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.90, -29.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u353.htm">U-353</a></strong> (Oblt. <a href="/men/commanders/1017.html">Wolfgang Römer</a>). Sunk on 16 October 1942 in the North Atlantic west of Ireland, in position 53.54N, 29.30W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4384.html\">HMS Fame</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.23, -22.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u627.htm">U-627</a></strong> (Kptlt. <a href="/men/commanders/607.html">Robert Kindelbacher</a>). Sunk on 27 October 1942 in the North Atlantic south of Iceland, in position 59.14N, 22.49W, by depth charges from a British <a href=\"/allies/aircraft/b17.htm\">Fortress</a> aircraft (206 Sqn RAF/F).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.53, -46.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u658.htm">U-658</a></strong> (Kptlt. <a href="/men/commanders/1190.html">Hans Senkel</a>). Sunk on 30 October 1942 in the North Atlantic east of Newfoundland, in position 50.32N, 46.32W, by depth charges from a Canadian <a href=\"/allies/aircraft/hudson.htm\">Hudson</a> aircraft (145 Sqn RCAF/Y).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.63, -39.87], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u132.htm">U-132</a></strong> (Kptlt. <a href="/men/commanders/1306.html">Ernst Vogelsang</a>). Sunk on 4 November 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in approx. position 55.38N, 39.52W, when the British ammunition ship <a href=\"/allies/merchants/2373.html\">Hatimura</a> blew up in a huge explosion. U-132 had torpedoed this ship earlier and was probably waiting nearby for her to sink when caught in the lethal radius of the explosion.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.75, -33.03], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u254.htm">U-254</a></strong> (Kptlt. <a href="/men/commanders/359.html">Hans Gilardone</a>). Sank on 8 December 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 58.45N, 33.02W, after a collision with U-221.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.42, -35.32], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u611.htm">U-611</a></strong> (Kptlt. <a href="/men/commanders/539.html">Nikolaus von Jacobs</a>). Sunk on 8 December 1942 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 57.25N, 35.19W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/B).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([56.58, -22.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u265.htm">U-265</a></strong> (Oblt. <a href="/men/commanders/21.html">Leonhard Auffhammer</a>). Sunk on 3 February 1943 in the North Atlantic south of Iceland, in position 56.35N, 22.49W, by depth charges from a British <a href=\"/allies/aircraft/b17.htm\">Fortress</a> aircraft (220 Sqn RAF/N).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.20, -36.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u187.htm">U-187</a></strong> (Kptlt. <a href="/men/commanders/853.html">Ralph Münnich</a>). Sunk on 4 February 1943 in the North Atlantic east of Newfoundland, in position 50.12N, 36.35W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/5454.html\">HMS Vimy</a> and <a href=\"/allies/warships/ship/4319.html\">HMS Beverley</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.93, -28.18], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u609.htm">U-609</a></strong> (Kptlt. <a href="/men/commanders/1035.html">Klaus Rudloff</a>). Sunk at 2204hrs on 6 February 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farwell</a>, in position 54.56N, 28.11W, by depth charges from the Free French corvette <a href=\"/allies/warships/ship/7795.html\">Lobelia</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.70, -26.28], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u624.htm">U-624</a></strong> (Kptlt. <a href="/men/commanders/1201.html">Ulrich Graf von Soden-Fraunhofen</a>). Sunk on 7 February 1943 in the North Atlantic south-west of Iceland, in position 55.42N, 26.17W, by depth charges from a British <a href=\"/allies/aircraft/b17.htm\">Fortress</a> aircraft (220 Sqn RAF/J).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.75, -31.15], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u529.htm">U-529</a></strong> (Kptlt. <a href="/men/commanders/302.html">Georg-Werner Fraatz</a>). Sunk on 15 February 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 55.45N, 31.09W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/S).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.83, -40.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u201.htm">U-201</a></strong> (Oblt. <a href="/men/commanders/1028.html">Günther Rosenberg</a>). Sunk on 17 February 1943 in the North Atlantic east of Newfoundland, in position 50.50N, 40.50W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4265.html\">HMS Viscount</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.60, -41.12], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u69.htm">U-69</a></strong> (Kptlt. <a href="/men/commanders/374.html">Ulrich Gräf</a>). Sunk on 17 February 1943 in the North Atlantic east of Newfoundland, in position 50.36N, 41.07W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4387.html\">HMS Fame</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.35, -31.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u633.htm">U-633</a></strong> (Oblt. <a href="/men/commanders/842.html">Bernhard Müller</a>). Sunk on 8 March 1943 in the North Atlantic south-west of Iceland, in position 58.21N, 31.00W, by depth charges from the US Coast Guard cutter <a href=\"/allies/warships/ship/11074.html\">USCGC Spencer</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.58, -28.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u432.htm">U-432</a></strong> (Kptlt. <a href="/men/commanders/236.html">Hermann Eckhardt</a>). Sunk on 11 March 1943 in the North Atlantic west of Ireland, in position 51.35N, 28.20W, by depth charges and gunfire from the Free French corvette <a href=\"/allies/warships/ship/4703.html\">Aconit</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.23, -29.30], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u444.htm">U-444</a></strong> (Oblt. <a href="/men/commanders/702.html">Albert Langfeld</a>). Sunk on 11 March 1943 in the North Atlantic west of Ireland, in position 51.14N, 29.18W, by ramming and depth charges from the British destroyer <a href=\"/allies/warships/ship/4231.html\">HMS Harvester</a> and the Free French corvette <a href=\"/allies/warships/ship/4703.html\">Aconit</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.30, -26.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u384.htm">U-384</a></strong> (Oblt. <a href="/men/commanders/1029.html">Hans-Achim von Rosenberg-Gruszczynski</a>). Sunk at 1745hrs on 19 March 1943 in the North Atlantic west of Ireland, in position 54.18N, 26.15W, by depth charges from a British <a href=\"/allies/aircraft/b17.htm\">Fortress</a> aircraft (206 Sqn RAF/B).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.33, -31.87], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u635.htm">U-635</a></strong> (Oblt. <a href="/men/commanders/234.html">Heinz Eckelmann</a>). Sunk on 5 April 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 58.20N, 31.52W, by depth charges from a British Liberator aircraft (120 Sqn RAF/N).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.03, -28.70], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u632.htm">U-632</a></strong> (KrvKpt. <a href="/men/commanders/582.html">Hans Karpf</a>). Sunk on 6 April 1943 in the North Atlantic south-west of Iceland, in position 58.02N, 28.42W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (86 Sqn RAF/R).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([56.75, -34.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u191.htm">U-191</a></strong> (Kptlt. <a href="/men/commanders/281.html">Helmut Fiehn</a>). Sunk 23 April 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 56.45N, 34.25W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4408.html\">HMS Hesperus</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.83, -34.72], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u189.htm">U-189</a></strong> (KrvKpt. <a href="/men/commanders/685.html">Hellmut Kurrer</a>). Sunk on 23 April 1943 in the North Atlantic east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 59.50N, 34.43W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/V).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.08, -42.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u203.htm">U-203</a></strong> (Kptlt. <a href="/men/commanders/655.html">Hermann Kottmann</a>). Sunk on 25 April 1943 in the North Atlantic south of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 55.05N, 42.25W, by depth charges from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (811 Sqn FAA/L) of the British escort carrier <a href=\"/allies/warships/ship/3249.html\">HMS Biter</a> and by the British destroyer <a href=\"/allies/warships/ship/4493.html\">HMS Pathfinder</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.20, -44.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u638.htm">U-638</a></strong> (Kptlt. <a href="/men/commanders/1213.html">Oskar Staudinger</a>). Sunk on 5 May 1943 in the North Atlantic north-east of Newfoundland, in position 54.12N, 44.05W, by depth charges from the British corvette <a href=\"/allies/warships/ship/5555.html\">HMS Sunflower</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.50, -45.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u125.htm">U-125</a></strong> (Kptlt. <a href="/men/folkers.htm">Ulrich Folkers</a>). Sunk on 6 May 1943 in the North Atlantic north-east of Newfoundland, in position 52.30N, 45.20W, by ramming from the British destroyer <a href=\"/allies/warships/ship/4487.html\">HMS Oribi</a> and gunfire from the British corvette <a href=\"/allies/warships/ship/5568.html\">HMS Snowflake</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.10, -45.03], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u192.htm">U-192</a></strong> (Oblt. <a href="/men/commanders/412.html">Werner Happe</a>). Sunk on 6 May 1943 in the North Atlantic south of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 53.06N, 45.02W, by depth charges from the British corvette <a href=\"/allies/warships/ship/4784.html\">HMS Loosestrife</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.00, -45.17], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u438.htm">U-438</a></strong> (KrvKpt. <a href="/men/commanders/449.html">Heinrich Heinsohn</a>). Sunk on 6 May 1943 in the North Atlantic north-east of Newfoundland, in position 52.00N, 45.10W, by depth charges from the British sloop <a href=\"/allies/warships/ship/3911.html\">HMS Pelican</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.80, -45.30], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u531.htm">U-531</a></strong> (Kptlt. <a href="/men/commanders/865.html">Herbert Neckel</a>). Sunk on 6 May 1943 in the North Atlantic north-east of Newfoundland, in position 52.48N, 45.18W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4263.html\">HMS Vidette</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.52, -44.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u630.htm">U-630</a></strong> (Oblt. <a href="/men/commanders/1358.html">Werner Winkler</a>). Sunk on 6 May 1943 in the North Atlantic north-east of Newfoundland, in position 52.31N, 44.50W, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4263.html\">HMS Vidette</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.00, -38.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u209.htm">U-209</a></strong> (Kptlt. <a href="/men/commanders/133.html">Heinrich Brodda</a>). <a href=\"/fates/missing.htm\">Missing</a> since 6 May 1943 in the North Atlantic, in approx. position 52N, 38W.<p>Possibly lost on or about 7 May 1943 in a diving accident after being badly damaged on 4 May south of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 56.38N, 42.32W, by depth charges from a Canadian <a href=\"/allies/aircraft/catalina.htm\">Canso</a> aircraft (5 Sqn RCAF/W).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.50, -36.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u381.htm">U-381</a></strong> (Kptlt. <a href="/men/commanders/949.html">Wilhelm-Heinrich Graf von  Pückler und Limpurg</a>). <a href=\"/fates/missing.htm\">Missing</a> since 10 May 1943 in the North Atlantic south of Greenland. There is no explanation for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.53, -31.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u640.htm">U-640</a></strong> (Oblt. <a href="/men/commanders/864.html">Karl-Heinz Nagel</a>). Sunk on 14 May 1943 in the North Atlantic east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland in position 60.32N, 31.05W, by depth charges from a US <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (VP-84 USN/K).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.90, -42.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u657.htm">U-657</a></strong> (KrvKpt. <a href="/men/commanders/365.html">Heinrich Göllnitz</a>). Sunk on 17 May 1943 in the North Atlantic south of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 58.54N, 42.33W, by depth charges from the British frigate <a href=\"/allies/warships/ship/92.html\">HMS Swale</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, -24.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u273.htm">U-273</a></strong> (Oblt. <a href="/men/commanders/1031.html">Hermann Rossmann</a>). Sunk on 19 May 1943 in the North Atlantic south-west of Iceland, in position 59.25N, 24.33W, by depth charges from a British <a href=\"/allies/aircraft/hudson.htm\">Hudson</a> aircraft (269 Sqn RAF/M).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.90, -34.32], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u954.htm">U-954</a></strong> (Kptlt. <a href="/men/commanders/746.html">Odo Loewe</a>). Sunk on 19 May 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 54.54N, 34.19W, by depth charges from the British frigate <a href=\"/allies/warships/ship/101.html\">HMS Jed</a> and the British sloop <a href=\"/allies/warships/ship/46.html\">HMS Sennen</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.30, -27.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u258.htm">U-258</a></strong> (Kptlt. <a href="/men/commanders/772.html">Wilhelm von Mässenhausen</a>). Sunk on 20 May 1943 in the North Atlantic southeast of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 55.18N, 27.49W, by depth charges from a British  <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/P).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.67, -35.35], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u569.htm">U-569</a></strong> (Oblt. (R) <a href="/men/commanders/561.html">Hans Johannsen</a>). Scuttled on 22 May 1943 in the North Atlantic east of Newfoundland, in position 50.40N, 35.21W, after being badly damaged by depth charges from two <a href=\"/allies/aircraft/avenger.htm\">Avenger</a> aircraft (VC-9 USN/T-6 & T-7) of the US escort carrier <a href=\"/allies/warships/ship/2486.html\">USS Bogue</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([51.67, -29.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u752.htm">U-752</a></strong> (KrvKpt. <a href="/men/commanders/1134.html">Karl-Ernst Schroeter</a>). Sunk on 23 May 1943 in the North Atlantic, in position 51.40N, 29.49W, by rockets from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (819 Sqn FAA/G) of the British escort carrier <a href=\"/allies/warships/ship/5809.html\">HMS Archer</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.83, -37.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u304.htm">U-304</a></strong> (Oblt. <a href="/men/commanders/627.html">Heinz Koch</a>). Sunk on 28 May 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 54.50N, 37.20W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/E).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([56.20, -39.87], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u202.htm">U-202</a></strong> (Kptlt. <a href="/men/commanders/937.html">Günter Poser</a>). Sunk at 0030hrs on 2 June 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 56.12N, 39.52W, by depth charges and gunfire from the British sloop <a href=\"/allies/warships/ship/3948.html\">HMS Starling</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.27, -28.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u334.htm">U-334</a></strong> (Oblt. <a href="/men/commanders/239.html">Heinz Ehrich</a>). Sunk on 14 June 1943 in the North Atlantic south-west of Iceland, in position 58.16N, 28.20W, by depth charges from the British frigate <a href=\"/allies/warships/ship/101.html\">HMS Jed</a> and the British sloop <a href=\"/allies/warships/ship/3911.html\">HMS Pelican</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.60, -31.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u388.htm">U-388</a></strong> (Oblt. <a href="/men/commanders/1257.html">Peter Sues</a>). Sunk on 20 June 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 57.36N, 31.20W, by a <a href=\"/allies/technical/fido.htm\">Fido</a> homing torpedo from a US <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (VP-84 USN/P-1).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.00, -26.30], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u194.htm">U-194</a></strong> (Kptlt. <a href="/men/commanders/474.html">Hermann Hesse</a>). Sunk on 24 June 1943 in the North Atlantic south-west of Iceland, in position 59.00N, 26.18W, by a <a href=\"/allies/technical/fido.htm\">Fido</a> homing torpedo from a US <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (VP-84 USN/G).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.25, -25.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u200.htm">U-200</a></strong> (KrvKpt. <a href="/men/schonder.htm">Heinrich Schonder</a>). Sunk 24 June 1943 south-west of Iceland, in position 58.15N, 25.25W, by 2 depth charges from a British Liberator aircraft (Sqdn. 120/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.57, -25.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u341.htm">U-341</a></strong> (Oblt. <a href="/men/commanders/256.html">Dietrich Epp</a>). Sunk on 19 September 1943 in the North Atlantic south-west of Iceland, in position 58.34N, 25.30W, by depth charges from a Canadian <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft  (10 Sqn RCAF/A).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.00, -30.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u338.htm">U-338</a></strong> (Kptlt. <a href="/men/commanders/608.html">Manfred Kinzel</a>). <a href=\"/fates/missing.htm\">Missing</a> since 20 September 1943 in the North Atlantic. There is no explanation for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.60, -36.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u229.htm">U-229</a></strong> (Oblt. <a href="/men/commanders/1080.html">Robert Schetelig</a>). Sunk on 22 September 1943 in the North Atlantic south-east of <a href=/maps/cape_farewell.htm>Cape Farewell</a>, in position 54.36N, 36.25W, by depth charges, gunfire and ramming from the British destroyer <a href=\"/allies/warships/ship/4278.html\">HMS Keppel</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.67, -26.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u279.htm">U-279</a></strong> (Kptlt. <a href="/men/commanders/283.html">Otto Finke</a>). Sunk on 4 October 1943 in the North Atlantic south-west of Iceland, in position 60.40N, 26.30W, by depth charges from a US <a href=\"/allies/aircraft/ventura.htm\">Ventura</a> aircraft (VB-128 USN/B).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.85, -28.43], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u389.htm">U-389</a></strong> (Kptlt. <a href="/men/commanders/440.html">Siegfried Heilmann</a>). Sunk on 4 October 1943 in the North Atlantic south-west of Iceland, in position 60.51N, 28.26W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/X).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([62.72, -27.28], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u336.htm">U-336</a></strong> (Kptlt. <a href="/men/commanders/527.html">Hans Hunger</a>). Sunk on 5 October 1943 in the <a href=\"/maps/cape_farewell.htm\">Denmark Strait</a> south-west of Iceland, in position 62.43N, 27.17W, by rockets from a British <a href=\"/allies/aircraft/hudson.htm\">Hudson</a> aircraft (269 Sqn RAF/F).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([56.52, -27.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u419.htm">U-419</a></strong> (Oblt. <a href="/men/commanders/356.html">Dietrich Giersberg</a>). Sunk on 8 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 56.31N, 27.05W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (86 Sqn RAF/R).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.75, -24.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u610.htm">U-610</a></strong> (Kptlt. <a href="/men/commanders/319.html">Walter Freiherr von Freyberg-Eisenberg-Allmendingen</a>). Sunk on 8 October 1943 in the North Atlantic north-west of Ireland, in position 55.45N, 24.33W, by depth charges from a Canadian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (423 Sqn RCAF/J).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([56.23, -26.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u643.htm">U-643</a></strong> (Kptlt. <a href="/men/commanders/1206.html">Hans-Harald Speidel</a>). Sunk on 8 October 1943 in the North Atlantic south-west of Iceland, in position 56.14N, 26.55W, by depth charges from two British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (120 Sqn RAF/T & 86 Sqn RAF/Z).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.33, -29.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u470.htm">U-470</a></strong> (Oblt. <a href="/men/commanders/381.html">Günther-Paul Grave</a>). Sunk on 16 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 58.20N, 29.20W, by depth charges from three British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (59 Sqn RAF/C, 120 Sqn RAF/E & Z).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.50, -27.27], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u844.htm">U-844</a></strong> (Oblt. <a href="/men/commanders/833.html">Günther Möller</a>). Sunk on 16 October 1943 in the North Atlantic south-west of Iceland, in position 58.30N, 27.16W, by depth charges from two British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (59 Sqn RAF/S & 86 Sqn RAF/L).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.45, -28.28], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u964.htm">U-964</a></strong> (Oblt. <a href="/men/commanders/525.html">Emmo Hummerjohann</a>). Sunk on 16 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 57.27N, 28.17W, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (86 Sqn RAF/Y).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.63, -31.93], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u540.htm">U-540</a></strong> (Kptlt. <a href="/men/commanders/583.html">Lorenz Kasch</a>). Sunk on 17 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 58.38N, 31.56W, by depth charges from two British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (59 Sqn RAF/D & 120 Sqn RAF/H).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.22, -32.48], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u631.htm">U-631</a></strong> (Oblt. <a href="/men/commanders/670.html">Jürgen Krueger</a>). Sunk on 17 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 58.13N, 32.29W, by depth charges from the British corvette <a href=\"/allies/warships/ship/5555.html\">HMS Sunflower</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.95, -31.10], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u841.htm">U-841</a></strong> (Kptlt. <a href="/men/commanders/67.html">Werner Bender</a>). Sunk on 17 October 1943 in the North Atlantic east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, Greenland, in position 59.57N, 31.06W, by depth charges from the British frigate <a href=\"/allies/warships/ship/5635.html\">HMS Byard</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.23, -27.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u274.htm">U-274</a></strong> (Oblt. <a href="/men/commanders/563.html">Günther Jordan</a>). Sunk on 23 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a> in position 57.14N, 27.50W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4365.html\">HMS Duncan</a> and <a href=\"/allies/warships/ship/4263.html\">HMS Vidette</a> and a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (224 Sqn RAF/Z).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.47, -31.95], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u282.htm">U-282</a></strong> (Oblt. <a href="/men/commanders/845.html">Rudolf Müller</a>). Sunk on 29 October 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 55.28N, 31.57W, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4263.html\">HMS Vidette</a> and <a href=\"/allies/warships/ship/4365.html\">HMS Duncan</a> and the British corvette <a href=\"/allies/warships/ship/5555.html\">HMS Sunflower</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.07, -30.38], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u284.htm">U-284</a></strong> (Oblt. <a href="/men/commanders/1114.html">Günther Scholz</a>). Scuttled on 21 December 1943 in the North Atlantic south-east of <a href=\"/maps/cape_farewell.htm\">Cape Farewell</a>, in position 55.04N, 30.23W, after sustaining sea damage to both electric motors on 17 December.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.02, -22.62], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u744.htm">U-744</a></strong> (Oblt. <a href="/men/commanders/90.html">Heinz Blischke</a>). Sunk at 1830hrs on 6 March 1944 in the North Atlantic west of Ireland, in position 52.01N, 22.37W, by a torpedo from the British destroyer <a href=\"/allies/warships/ship/4412.html\">HMS Icarus</a>, after attempts to tow the boat to port failed. <p>U-744 was <a href=\"/articles/id/32\">captured</a> after being attacked for over 30 hours with depth charges from <a href=\"/allies/warships/ship/4412.html\">HMS Icarus</a>, the Canadian frigate <a href=\"/allies/warships/ship/158.html\">HMCS St. Catharines</a>, the Canadian corvettes <a href=\"/allies/warships/ship/852.html\">HMCS Fennel</a> and <a href=\"/allies/warships/ship/810.html\">HMCS Chilliwack</a>, the Canadian destroyers <a href=\"/allies/warships/ship/5418.html\">HMCS Chaudiere</a> and <a href=\"/allies/warships/ship/5420.html\">HMCS Gatineau</a> and the British corvette <a href=\"/allies/warships/ship/56.html\">HMS Kenilworth Castle</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.58, -20.32], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u625.htm">U-625</a></strong> (Oblt. <a href="/men/commanders/1243.html">Siegfried Straub</a>). Sunk on 10 March 1944 in the North Atlantic west of Ireland, in position 52.35N, 20.19W, by depth charges from a Canadian <a href=\"/allies/aircraft/sunderland.htm\">Sunderland</a> aircraft (422 Sqn RCAF/U).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.77, -24.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u653.htm">U-653</a></strong> (Oblt. <a href="/men/commanders/579.html">Hans-Albrecht Kandler</a>). Sunk on 15 March 1944 in the North Atlantic west of Ireland, in position 53.46N, 24.35W, by depth charges from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (825 Sqn FAA/A) of the British escort carrier <a href=\"/allies/warships/ship/3298.html\">HMS Vindex</a> and from the British sloops <a href=\"/allies/warships/ship/3948.html\">HMS Starling</a> and <a href=\"/allies/warships/ship/3918.html\">HMS Wild Goose</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.38, -29.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u342.htm">U-342</a></strong> (Oblt. <a href="/men/commanders/519.html">Albert Hossenfelder</a>). Sunk on 17 April 1944 in the North Atlantic south-west of Iceland, in position 60.23N, 29.20W, by depth charges from a Canadian <a href=\"/allies/aircraft/catalina.htm\">Canso</a> aircraft (162 Sqn RCAF/S).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([52.50, -28.47], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u765.htm">U-765</a></strong> (Oblt. (R) <a href="/men/commanders/1333.html">Werner Wendt</a>). Sunk on 6 May 1944 in the North Atlantic west of Ireland, in position 52.30N, 28.28W, by depth charges from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (825 Sqn FAA/V) of the British escort carrier <a href=\"/allies/warships/ship/3298.html\">HMS Vindex</a> and the British frigates <a href=\"/allies/warships/ship/5484.html\">HMS Bickerton</a>, <a href=\"/allies/warships/ship/5646.html\">HMS Bligh</a> and <a href=\"/allies/warships/ship/5640.html\">HMS Aylmer</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.50, -26.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u855.htm">U-855</a></strong> (Oblt. <a href="/men/commanders/898.html">Prosper Ohlsen</a>). <a href=\"/fates/missing.htm\">Missing</a> since 11 September 1944 in the North Atlantic south of Iceland, in approx. position 59.30N, 26.00W.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([57.50, -26.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u396.htm">U-396</a></strong> (Kptlt. <a href="/men/commanders/1195.html">Hilmar Siemon</a>). <a href=\"/fates/missing.htm\">Missing</a> since 11 April 1945 in the North Atlantic south of Iceland. No explanation exists for its loss.');
+
+//route = 'HX'
+
+//Print out the convoy route
+
+var routeCoordinates = [
+	        [40.45, -73.50],
+	        [40.30, -71.51],
+	        [43.00, -64.04],
+	        [44.39, -63.34],
+	        [44.39, -58.00],
+	        [45.00, -52.00],
+	        [47.00, -49.00],
+	        [54.00, -45.34],
+	        [59.00, -40.00],
+	        [61.00, -30.00],
+	        [60.00, -15.00],
+	        [58.00, -10.00],
+	        [55.53, -6.59],
+	        [55.18, -5.59],
+	        [54.56, -5.18],
+	        [54.00, -5.07],
+	        [53.46, -3.13] // Liverpool
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/red_Marker.png"> 1941.
+<img src="/media/maps/googlemarkers/blue_Marker.png"> 1942.
+<img src="/media/maps/googlemarkers/orange_Marker.png"> 1943.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.
+<img src="/media/maps/googlemarkers/yellow_Marker.png"> 1945.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p></div><p><strong>80</strong> German U-boats lost in the area during the war.</p><p>The approximate route of the North Atlantic convoys (HX, ON, SC, ...) is shown in red on the map. Since the Allies often re-routed the convoys away from awaiting German Wolfpacks the line is only a rough indicator.</p><div align="center"><h3>Selected media links</h3><table><tr><td class="width130" align="center"><p><a href="/books/item/2315"><img src="/media/books/covers/english/1935149040.jpg"  width="100" alt="" /><br>Bismarck</a><br>Zetterling, Niklas (2009)</p><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1935149040&path=/maps/cape_farewell.htm">amazon.co.uk</a> <br>(£ 35.00)</div></td><td class="width130" align="center"><p><a href="/books/item/1875"><img src="/media/books/covers/english/hood-bismarck-mearns-white.jpg"  width="100" alt="" /><br>Hood and Bismarck</a><br>Mearns, David and White, Rob (2001)</p><div class="left"><br> <img src="/media/images/flags/small/flag_usa-s.gif" alt="" /> <a href="/about/scripts/amazon_com.php?book=0752220357&path=/maps/cape_farewell.htm">amazon.com</a> <br>($ 30.44)</div></td><td class="width130" align="center"><p><a href="/books/item/985"><img src="/media/books/covers/english/bismarck_chase.jpg"  width="100" alt="" /><br>The  Bismarck Chase</a><br>Winklareth, Robert J. (1998)</p></td><td class="width130" align="center"><p><a href="/books/item/1955"><img src="/media/books/covers/english/sea_of_glory.jpg"  width="100" alt="" /><br>Sea of Glory</a><br>Wales, Ken (2001)</p></td></tr></table></div>
+
+<br>
+<div align="center">
+	<h3><a href="/maps/">The Maps</a></h3>
+</div>
+
+
+
+<!--<p>
+	<br>
+</p>-->
+
+<p><br></p>
+
+</div>
+<!-- This closes the main content DIV (text area of pages) -->
+
+
+		<div id="footer">
+		
+            <div id="footer_navcontainer">
+                <ul id="footer_navlist">
+                    <li><a href="/" title="Front page">Front page</a></li>
+                    <li><a href="/about/" title="About uboat.net">About</a></li>
+                    <li><a href="/about/contact.htm" title="Contact us">Contact us</a></li>
+                    <li><a href="/special/faq.htm" title="Frequently Asked Questions">FAQ</a></li>
+                    <li><a href="/glossary.htm" title="Glossary pages">Glossary</a></li>
+                    <li><a href="/new.htm" title="What's new at uboat.net">What's new</a></li>
+                </ul>
+            </div>
+
+            <div id="footer_copyright">
+                &nbsp;&copy; 1995 - 2020 Gu&eth;mundur Helgason            </div>
+
+		</div>
+		<!-- End of footer -->
+
+</div>
+<!-- End of container DIV -->
+
+</body></html>
+

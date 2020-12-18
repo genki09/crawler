@@ -1,0 +1,1475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<title>The Barents Sea - The U-boat War in Maps - uboat.net</title>
+	<link rel="stylesheet" href="/media/layout/2014_06/main2017-10.css" type="text/css" />
+	<link rel="stylesheet" href="/media/layout/2014_06/print.css" type="text/css" media="print" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="The U-boat War in World War Two (Kriegsmarine, 1939-1945) and World War One (Kaiserliche Marine, 1914-1918) and the Allied efforts to counter the threat. Over 40.000 pages on the officers, the boats, technology and the Allied efforts to counter the U-boat threat." />
+    <meta name="keywords" content="U-boat, submarine, boats, technology, XXI, VIIC, XIC, II, XIV, XXIII, Uboote, Unterseeboote,  aircraft, escorts, Kriegsmarine, German navy, U-boote, destroyers, corvettes, frigates, battleships, aircraft carriers, trawlers." />    <link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script></head>
+<body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1034416-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+<div id="container">
+	<!-- Wrapper for the outer table -->		
+				
+    <div id="banner">
+    <!-- Header area starts -->
+        <h1 class="ph">uboat.net</h1>
+
+        &nbsp;
+
+		<!-- The main menu -->
+		<div id="navcontainer">
+			<ul id="navlist">
+				<li><a href="/" title="Front page">Home</a></li>
+				
+<li><a href="/boats.htm" title="The Boats">The U-boats</a></li>
+<li><a href="/men/" title="The Men">The Men</a></li>
+<li><a href="/allies/" title="Allied efforts to fight the U-boats">The Allies</a></li>
+<li><a href="/maps/" title="Maps">Maps</a></li>
+<li><a href="/forums/" title="Join our Forums">Forums</a></li>
+<li><a href="/articles/" title="Articles">Articles</a></li>
+<li><a href="/gallery/" title="Galleries">Gallery</a></li>
+<li><a href="/books/" title="Over 2200 books">Books</a></li>
+<li><a href="/special/movies/" title="Naval Warfare Movies">Movies</a></li>
+<li><a href="/wwi/" title="World War One">WWI</a></li>																
+			</ul>
+		</div>
+		<!-- The main menu ends -->
+
+
+            <span id="breadcrumbs">
+                <a href="/">Front page</a> - <a href="/boats.htm">The U-boats</a> - <a href="/maps/"><strong>The War in Maps</strong></a>            </span>
+
+		
+		</div>
+		<!-- End of banner/header area -->
+		
+
+		<div id="sidebar-a">
+				
+
+
+<div id="submenu">
+<h4><a href="/boats.htm">The U-boats</a></h4>
+<ul id="submenulist">
+<li><a href="/boats/">List of all U-boats</a>
+<ul>
+<li><a href="/ops/successful_boats.htm">Most successful</a></li></ul></li>
+<li><a href="/boats/patrols/">U-boat Patrols</a></li>
+<li><a href="/types/">U-boat Types</a></li>
+<li><a href="/ops/">Operations</a>
+<ul>
+<li><a href="/ops/convoys/">Convoy battles</a></li>
+<li><a href="/ops/top_patrols.htm">Successful patrols</a></li>
+<li><a href="/ops/wolfpacks/">Wolfpacks</a></li>
+<li><a href="/maps/">Maps</a></li>
+<li><a href="/ops/combat_strength.html">Combat strength</a></li></ul>
+</li>
+<li><a href="/fates/">U-boat Fates</a><ul>
+<li><a href="/fates/losses/">Losses by year</a></li>
+<li><a href="/fates/scuttled.htm">Scuttled boats</a></li>
+<li><a href="/fates/surrendered.htm">Surrenders</a></li>
+<li><a href="/fates/discovered.html">Discovered boats</a></li>
+<li><a href="/fates/dive/">Dive sites</a></li>
+<li><a href="/fates/revised.html">Revised fates</a></li>
+</ul>
+</li>
+<li><a href="/flotillas/">Flotillas</a><ul>
+<li><a href="/flotillas/bases/">U-boat bases</a></li></ul></li>
+<li><a href="/technical/shipyards/">Shipyards</a></li>
+<li><a href="/technical/">Technologies</a></li>
+<li><a href="/special/emblems/">U-boat Emblems</a></li>
+</ul>
+</div>
+
+<div class="item_box center">
+<h4>Events on this day</h4>
+<p><a href="/today.html">What happened on<br>18 July?</a></p>
+</div>
+
+<div class="item_box center">
+<h4>Commander file</h4><p class="caption"><a href="/men/forstner.htm"><img src="/media/men/commanders/forstner.jpg" class="width80" alt="" /><br>Siegfried Freiherr von Forstner</a><br>(<a href="/boats/u59.htm">U-59</a>, <a href="/boats/u402.htm">U-402</a>)</p><p>- <a href="/men/commanders/">More officers</a></p>
+</div>
+
+<div class="item_box center">
+<h4>U-boat of the day</h4><a href="/boats/u568.htm">U-568</a> - 5 patrols<br>3 ships sunk (7,873 tons)
+</div>
+
+<div class="item_box">
+<h4>U-boat Finder</h4>
+<form action="/boats/finder.php" method="post">
+<input size="8" name="find_boat"  class="search-field" />&nbsp;&nbsp;
+<input type="submit" value="Search" class="input" />
+</form>
+</div><p><br>Follow us on Twitter<br><a href="http://twitter.com/uboatnet" class="noborder"><img src="/media/layout/images/twitter_newbird_18.gif" alt="Twitter" /></a> <a href="http://twitter.com/uboatnet">@uboatnet</a></p>					
+			<br>
+		</div>
+	<!-- End of sidebar -->
+		
+
+	<div id="content">
+	<!-- Beginning of main content DIV -->
+
+    
+
+<div id="ga_contentTop728" align="center">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ContentTop, 728x90, created 11/6/10 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-1101670507446460"
+         data-ad-slot="9674187468"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+
+
+
+
+<div align="center">
+	<p><a href="/maps/"><img src="/media/layout/images/header_maps.gif" width="550" height="70" alt="The U-boat war in Maps" /></a></p>
+	<h1>The Barents Sea</h1>
+</div>
+
+<p>One of the biggest convoy battles happened here in 1942 when <a href="/ops/convoys/pq-17.htm">PQ-17</a> was almost eliminated. The boats operating there were mostly from the <a href="/flotillas/11flo.htm">11th Flotilla</a> in Bergen and the <a href="/flotillas/13flo.htm">13th Flotilla</a> in Trondheim.</p>
+
+<p>This area saw the battles for convoys PQ, QP, RA and JW from 1942 to 1945. The path shown in red on the map is the approximate route for these convoys.</p>
+
+
+
+
+
+<div align="center">
+<h2>U-boats lost in the Barents Sea</h2>
+
+
+<style media="screen" type="text/css">
+        #map {width:600px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map').setView([72.50, 25], 4)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/green_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.48, 17.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u64.htm">U-64</a></strong> (Kptlt. <a href="/men/schulz.htm">Georg-Wilhelm Schulz</a>). Sunk on 13 April 1940 in the Herjangsfjord north-east of Narvik, Norway, in approx. position 68.29N, 17.30E, by a bomb from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (700 Sqn FAA/L9767) carried on the British battleship <a href=\"/allies/warships/ship/4057.html\">HMS Warspite</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/green_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.88, 16.98], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u49.htm">U-49</a></strong> (Kptlt. <a href="/men/commanders/372.html">Kurt von Gossler</a>). Sunk on 15 April 1940 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> north-east of Harstad, in position 68.53N, 16.59E, by depth charges from the British destroyers <a href=\"/allies/warships/ship/4385.html\">HMS Fearless</a> and <a href=\"/allies/warships/ship/4356.html\">HMS Brazen</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.00, 21.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u655.htm">U-655</a></strong> (KrvKpt. <a href="/men/commanders/224.html">Adolf Dumrese</a>). Sunk on 24 March 1942 in the <a href=\"/maps/barents.htm\">Barents Sea</a> south-east of Bear Island, in position 73.00N, 21.00E, by ramming from the British minesweeper <a href=\"/allies/warships/ship/3674.html\">HMS Sharpshooter</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.00, 34.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u585.htm">U-585</a></strong> (Kptlt. <a href="/men/commanders/749.html">Ernst-Bernward Lohse</a>). Sunk on or about 30 March 1942 in the <a href=\"/maps/barents.htm\">Barents Sea</a> north-east of Rybachy Peninsula, in approx. position 70.00N, 34.00E, by a drifting mine from the German barrage <em>Bantos-A</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.07, 4.82], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u88.htm">U-88</a></strong> (Kptlt. <a href="/men/commanders/100.html">Heino Bohmann</a>). Sunk on 12 September 1942 in the <a href=\"/maps/barents.htm\">Arctic Sea</a> south-west of Spitzbergen, in position 75.04N, 04.49E, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4383.html\">HMS Faulknor</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.67, 20.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u589.htm">U-589</a></strong> (KrvKpt. <a href="/men/commanders/516.html">Hans-Joachim Horrer</a>). Sunk on 14 September 1942 in the <a href=\"/maps/barents.htm\">Barents Sea</a> south of Spitzbergen, in position 75.40N, 20.32E, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4482.html\">HMS Onslow</a> and a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (825 Sqn FAA) of the British escort carrier <a href=\"/allies/warships/ship/3247.html\">HMS Avenger</a>. Four Luftwaffe aircrew rescued the day before were lost with the crew of 44.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.08, 43.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u457.htm">U-457</a></strong> (KrvKpt. <a href="/men/commanders/121.html">Karl Brandenburg</a>). Sunk on 16 September 1942 in the <a href=\"/maps/barents.htm\">Barents Sea</a> west of Novaya Zemlya, in position 75.05N, 43.15E, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4416.html\">HMS Impulsive</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.67, 27.33], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u314.htm">U-314</a></strong> (Kptlt. <a href="/men/commanders/47.html">Georg-Wilhelm Basse</a>). Sunk on 30 January 1944 in the <a href=\"/maps/barents.htm\">Barents Sea</a> south-east of Bear Island, in position 73.40N, 27.20E, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4420.html\">HMS Inconstant</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.43, 12.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u601.htm">U-601</a></strong> (Oblt. <a href="/men/commanders/410.html">Otto Hansen</a>). Sunk on 25 February 1944 in the <a href=/maps/barents.htm>Norwegian Sea</a> north-west of Narvik, Norway, in position 70.26N, 12.40E, by depth charges from a British <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (210 Sqn RAF/M).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.08, 26.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u472.htm">U-472</a></strong> (Oblt. <a href="/men/commanders/301.html">Wolfgang-Friedrich Freiherr von Forstner</a>). Sunk on 4 March 1944 in the <a href=\"/maps/barents.htm\">Barents Sea</a> south-east of Bear Island, in position 73.05N, 26.40E, by gunfire and rockets from the British destroyer <a href=\"/allies/warships/ship/4486.html\">HMS Onslaught</a> and a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (816 Sqn FAA/B) of the British escort carrier <a href=\"/allies/warships/ship/3269.html\">HMS Chaser</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.17, 14.75], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u366.htm">U-366</a></strong> (Oblt. (R) <a href="/men/commanders/701.html">Bruno Langenberg</a>). Sunk on 5 March 1944 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> north-west of Hammerfest, in position 72.10N, 14.45E, by rockets from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (816 Sqn FAA/F) of the British escort carrier <a href=\"/allies/warships/ship/3269.html\">HMS Chaser</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.07, 5.80], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u973.htm">U-973</a></strong> (Oblt. <a href="/men/commanders/904.html">Klaus Paepenmöller</a>). Sunk on 6 March 1944 in the Norwegian Sea north-west of Narvik, Norway, in position 70.04N, 05.48E, by rockets from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (816 Sqn FAA/X) of the British escort carrier <a href=\"/allies/warships/ship/3269.html\">HMS Chaser</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.00, 13.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u355.htm">U-355</a></strong> (KrvKpt. <a href="/men/commanders/54.html">Günter La Baume</a>). <a href=\"/fates/missing.htm\">Missing</a> since 1 April 1944 in the Norwegian Sea south-west of Bear Island. There is no explanation for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.47, 13.07], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u360.htm">U-360</a></strong> (Kptlt. <a href="/men/commanders/58.html">Klaus-Helmuth Becker</a>). Sunk on 2 April 1944 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> south-west of Bear Island, in position 73.28N, 13.04E, by depth charges from the British destroyer <a href=\"/allies/warships/ship/4278.html\">HMS Keppel</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.73, 27.20], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u288.htm">U-288</a></strong> (Oblt. (R) <a href="/men/commanders/823.html">Willy Meyer</a>). Sunk on 3 April 1944 in the <a href=\"/maps/barents.htm\">Barents Sea</a> east of Bear Island, in position 73.44N, 27.12E, by depth charges, rockets and strafing from a British <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (819 Sqn FAA/C) of the British escort carrier <a href=\"/allies/warships/ship/3295.html\">HMS Activity</a> and the British <a href=\"/allies/aircraft/avenger.htm\">Avenger</a> & <a href=\"/allies/aircraft/wildcat.htm\">Wildcat</a> aircraft (846 Sqn FAA/G & Y) of the British escort carrier <a href=\"/allies/warships/ship/3262.html\">HMS Tracker</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.40, 15.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u277.htm">U-277</a></strong> (Kptlt. <a href="/men/commanders/758.html">Robert Lübsen</a>). Sunk on 1 May 1944 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> south-west of Bear Island, in position 73.24N, 15.32E, by depth charges from a British <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (842 Sqn FAA/C) from the British escort carrier <a href=\"/allies/warships/ship/3268.html\">HMS Fencer</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.53, 4.62], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u674.htm">U-674</a></strong> (Oblt. <a href="/men/commanders/858.html">Harald Muhs</a>). Sunk on 2 May 1944 in the Norwegian Sea east of Jan Mayen Island, in position 70.32N, 04.37E, by rockets from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (842 Sqn FAA/B) of the British escort carrier <a href=\"/allies/warships/ship/3268.html\">HMS Fencer</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.02, 5.13], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u987.htm">U-987</a></strong> (Oblt. <a href="/men/commanders/1128.html">Hilmar-Karl Schreyer</a>). Sunk on 15 June 1944 in the Norwegian Sea west of Narvik, in position 68.01N, 05.08E, by torpedoes from the British submarine <a href=/allies/warships/ship/3433.html>HMS Satyr</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.60, 8.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u347.htm">U-347</a></strong> (Oblt. <a href="/men/commanders/153.html">Johann de Buhr</a>). Sunk on 17 July 1944 in the Norwegian Sea west of Narvik, Norway, in position 68.36N, 08.33E, by depth charges from a British <a href=\"/allies/aircraft/b24.htm\">Liberator</a> aircraft (86 Sqn RAF/U).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.58, 6.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u361.htm">U-361</a></strong> (Kptlt. <a href="/men/commanders/1186.html">Hans Seidel</a>). Sunk in 17 July 1944 in the Norwegian Sea west of Narvik, Norway, in position 68.35N, 06.00E, by depth charges from a British <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (210 Sqn RAF/Y).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.40, 9.85], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u742.htm">U-742</a></strong> (Kptlt. <a href="/men/commanders/1176.html">Heinz Schwassmann</a>). Sunk on 18 July 1944 in the Norwegian Sea west of Narvik, Norway, in position 68.24N, 09.51E, by depth charges from a British <a href=\"/allies/aircraft/catalina.htm\">Catalina</a> aircraft (210 Sqn RAF/Z).');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([74.90, 15.43], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u344.htm">U-344</a></strong> (Kptlt. <a href="/men/commanders/928.html">Ulrich Pietsch</a>). Sunk on 22 August 1944 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> north-west of Bear Island, in position 74.54N, 15.26E, by depth charges from a British <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (825 Sqn FAA/X) of the British escort carrier <a href=\"/allies/warships/ship/3298.html\">HMS Vindex</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.82, 30.68], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u354.htm">U-354</a></strong> (Oblt. <a href="/men/commanders/1233.html">Hans-Jürgen Sthamer</a>). Sunk on 24 August 1944 in the <a href=\"/maps/barents.htm\">Barents Sea</a> north-east of North Cape, in position 72.49N, 30.41E, by depth charges from the British sloop <a href=\"/allies/warships/ship/3936.html\">HMS Mermaid</a> and the British frigate <a href=\"/allies/warships/ship/234.html\">HMS Loch Dunvegan</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.78, 4.17], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u394.htm">U-394</a></strong> (Kptlt. <a href="/men/commanders/109.html">Wolfgang Borger</a>). Sunk on 2 September 1944 in the Norwegian Sea south-east of Jan Mayen Island, in position 69.47N, 04.10E, by rockets and depth charges from a <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (825 Sqn FAA/V) of the British escort carrier <a href=\"/allies/warships/ship/3298.html\">HMS Vindex</a>, the British destroyers <a href=\"/allies/warships/ship/4278.html\">HMS Keppel</a> and <a href=\"/allies/warships/ship/4277.html\">HMS Whitehall</a> and the British sloops <a href=\"/allies/warships/ship/3936.html\">HMS Mermaid</a> and <a href=\"/allies/warships/ship/3943.html\">HMS Peacock</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([74.75, 13.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u921.htm">U-921</a></strong> (Oblt. (R) <a href="/men/commanders/1338.html">Alfred Werner</a>). <a href=\"/fates/missing.htm\">Missing</a> since 24 September 1944 in the Norwegian Sea west of Bear Island. There is no explanation for its loss.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u957.htm">U-957</a></strong> (Oblt. <a href="/men/schaar.htm">Gerd Schaar</a>). Decommissioned and cannibalized for spare parts on 21 October 1944 at Narvik, after being damaged by pack ice in the Kara Sea on 18 September 1944.<p>Hulk probably scuttled in the Skjömenfjord in May 1945.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.28, 16.47], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u771.htm">U-771</a></strong> (Oblt. (R) <a href="/men/commanders/91.html">Helmut Block</a>). Sunk on 11 November 1944 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> in the Andfjord near Harstad, Norway, in position 69.17N, 16.28E, by torpedoes from the British submarine <a href=\"/allies/warships/ship/3585.html\">HMS Venturer</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.68, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u387.htm">U-387</a></strong> (Kptlt. <a href="/men/commanders/148.html">Rudolf Büchler</a>). Sunk on 9 December 1944 in the <a href=\"/maps/barents.htm\">Barents Sea</a> east of the Rybachy Peninsula, in position 69.41N, 33.12E, by depth charges from the British corvette <a href=\"/allies/warships/ship/67.html\">HMS Bamborough Castle</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.72, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u365.htm">U-365</a></strong> (Oblt. <a href="/men/commanders/1279.html">Diether Todenhagen</a>). Sunk on 13 December 1944 in the <a href=\"/maps/barents.htm\">Norwegian Sea</a> east of Jan Mayen Island, in position 70.43N, 08.07E, by depth charges from two <a href=\"/allies/aircraft/swordfish.htm\">Swordfish</a> aircraft (813 Sqn FAA/L & Q) of the British escort carrier <a href=\"/allies/warships/ship/3296.html\">HMS Campania</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.17, 15.47], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u737.htm">U-737</a></strong> (Oblt. <a href="/men/commanders/385.html">Friedrich-August Greus</a>). Sank at 0018hrs on 19 December 1944 in the Norwegian Sea in the Vestfjord, in position 68.10N, 15.28E, after a collision with the German minesweeping ship <strong>MRS 25</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.65, 35.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u425.htm">U-425</a></strong> (Kptlt. <a href="/men/commanders/71.html">Heinz Bentzien</a>). Sunk on 17 February 1945 in the <a href=\"/maps/barents.htm\">Barents Sea</a> east of Rybachy Peninsula, in position 69.39N, 35.50E, by depth charges from the British sloop <a href=\"/allies/warships/ship/3934.html\">HMS Lark</a> and the British corvette <a href=\"/allies/warships/ship/74.html\">HMS Alnwick Castle</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.40, 33.73], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u307.htm">U-307</a></strong> (Oblt. (R) <a href="/men/commanders/669.html">Erich Krüger</a>). Sunk on 29 April 1945 in the <a href=\"/maps/barents.htm\">Barents Sea</a> off Kola Inlet, in position 69.24N, 33.44E, by depth charges from the British frigate <a href=\"/allies/warships/ship/237.html\">HMS Loch Insh</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.48, 33.62], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u286.htm">U-286</a></strong> (Oblt. <a href="/men/commanders/204.html">Willi Dietrich</a>). Sunk on 29 April 1945 in the <a href=\"/maps/barents.htm\">Barents Sea</a> off Kola Inlet, in position 69.29N, 33.37E, by depth charges from the British frigates <a href=\"/allies/warships/ship/237.html\">HMS Loch Insh</a>, <a href=\"/allies/warships/ship/274.html\">HMS Anguilla</a> and <a href=\"/allies/warships/ship/5652.html\">HMS Cotton</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.72, 16.57], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u711.htm">U-711</a></strong> (Kptlt. <a href="/men/lange.htm">Hans-Günther Lange</a>). Sunk on 4 May 1945 at Kilbotn, near Harstad, Norway, in position 68.43,7N, 16.34,6E, by bombs from Avenger and Wildcat aircraft (846, 853 and 882 Sqn FAA) of the British escort carriers <a href=\"/allies/warships/ship/3263.html\">HMS Searcher</a>, <a href=\"/allies/warships/ship/3277.html\">HMS Trumpeter</a> and <a href=\"/allies/warships/ship/3289.html\">HMS Queen</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u278.htm">U-278</a></strong> (Kptlt. <a href="/men/commanders/312.html">Joachim Franze</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945. <p>Transferred to Loch Eriboll, Scotland, on 19 May 1945 and later to Lisahally.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1165.htm">U-1165</a></strong> (Oblt. (R) <a href="/men/commanders/510.html">Hans Homann</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway (Waller & Niestlé, 2010).<p>Transferred to Loch Eriboll, Scotland on 19 May 1945 and later to Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u294.htm">U-294</a></strong> (Oblt. (R) <a href="/men/commanders/1144.html">Heinz Schütt</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Eriboll, Scotland, on 19 May and later to Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u295.htm">U-295</a></strong> (Kptlt. <a href="/men/commanders/1347.html">Günter Wieboldt</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Eriboll, Scotland, on 19 May and later to Loch Ryan via Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u312.htm">U-312</a></strong> (Oblt. <a href="/men/commanders/340.html">Jürgen von Gaza</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945, later to Lisahally and Loch Ryan.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u313.htm">U-313</a></strong> (Kptlt. <a href="/men/commanders/1179.html">Friedhelm Schweiger</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945, later to Lisahally and to Loch Ryan.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u318.htm">U-318</a></strong> (Oblt. (R) <a href="/men/commanders/1354.html">Josef Will</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Eriboll, Scotland, on 19 May and later to Loch Ryan via Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u363.htm">U-363</a></strong> (Kptlt. <a href="/men/commanders/866.html">Werner Nees</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway (Waller & Niestlé, 2010).<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945 and later to Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u427.htm">U-427</a></strong> (Oblt. <a href="/men/commanders/391.html">Carl-Gabriel Graf von Gudenus</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway (Waller & Niestlé, 2010).<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945, later to Lisahally and Loch Ryan.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u481.htm">U-481</a></strong> (Kptlt. <a href="/men/commanders/13.html">Klaus Andersen</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway (Waller & Niestlé, 2010).<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945 and later to Lisahally and Loch Ryan.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u668.htm">U-668</a></strong> (Kptlt. <a href="/men/commanders/461.html">Fritz Henning</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945 and later to Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u968.htm">U-968</a></strong> (Oblt. <a href="/men/westphalen.htm">Otto Westphalen</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway (Waller & Niestlé, 2010).<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945 and later to Loch Ryan via Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u997.htm">U-997</a></strong> (Oblt. (R) <a href="/men/lehmann_hans.htm">Hans Lehmann</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway (Waller & Niestlé, 2010).<p>Transferred to Loch Eriboll, Scotland, on 19 May and later to Loch Ryan via Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u992.htm">U-992</a></strong> (Oblt. <a href="/men/commanders/268.html">Hans Falke</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> on 9 May 1945 at Narvik, Norway.<p>Transferred to Loch Eriboll, Scotland, on 19 May 1945 and later to Loch Ryan via Lisahally.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.43, 17.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u716.htm">U-716</a></strong> (Oblt. <a href="/men/commanders/1269.html">Jürgen Thimme</a>). <a href=\"/fates/surrendered.htm\">Surrendered</a> at Narvik, Norway on 9 May 1945.<p>Transferred to Loch Ryan, Scotland via Loch Eriboll and Lisahally.</p>');
+
+//route = 'PQ'
+
+//Print out the convoy route
+var routeCoordinates = [
+[57.85, -5.66], // Loch Ewe
+	        [58.51, -5.57],
+	        [63.70, -23.16], // SW Reykjanes
+	        [64.00, -23.16], // NW Reykjanes
+	        [64.19, -22.59],
+	        [64.27, -21.92], // Hvalfjordur
+	        [64.36, -22.45],
+	        [64.70, -24.50],
+	        [65.45, -25.45],
+	        [67.00, -23.11],
+	        [71.45, -9.50],
+	        [75.50, 7.10],
+	        [75.50, 38.25],
+	        [71.00, 42.45],
+	        [67.15, 42.15],
+	        [66.35, 41.40],
+	        [65.50, 39.28],
+	        [64.54, 40.53] // Archangelsk
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+var Murmansk = [
+[71.00, 42.45], // Breakoff
+        		[69.32, 33.60] // Murmansk collection point
+]
+var polyline = L.polyline(Murmansk, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/green_Marker.png"> 1940.
+<img src="/media/maps/googlemarkers/blue_Marker.png"> 1942.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.
+<img src="/media/maps/googlemarkers/yellow_Marker.png"> 1945.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p></div><p><strong>49</strong> German U-boats lost in the Barents Sea during the war.</p><br><h2>Ships hit by U-boats in the Arctic</h2><p>In those frigid waters many convoy battles were fought from 1941. On this map you can see many of the ships from convoy <a href="/ops/convoys/pq-17.htm">PQ-17</a> on the top right line of blue markers.</p>
+
+<div align="center">
+
+<style media="screen" type="text/css">
+        #map_successes {width:600px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map_successes" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map_successes').setView([76, 24.5], 3)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.30, 35.00], {icon: iconFate}).addTo(mymap).bindPopup('6 Aug 1941. The Soviet despatch vessel <a href="/allies/merchants/ship/1054.html">PS-70</a> (558 GRT) sunk by  by <a href="/boats/u652.htm">U-652</a> (<a href="/men/commanders/302.html">Georg-Werner Fraatz</a>) in approximate position 69.18, 35.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.65, 42.12], {icon: iconFate}).addTo(mymap).bindPopup('10 Aug 1941. The Soviet corvette <a href="/allies/merchants/ship/1056.html">Zhemchug (No 27)</a> (550 GRT) sunk by  by <a href="/boats/u451.htm">U-451</a> (<a href="/men/commanders/501.html">Eberhard Hoffmann</a>) in approximate position 68.39, 42.07.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.33, 39.00], {icon: iconFate}).addTo(mymap).bindPopup('25 Aug 1941. The Soviet M/S trawler <a href="/allies/merchants/ship/1072.html">T-898 (No 44)</a> (553 GRT) sunk by  by <a href="/boats/u752.htm">U-752</a> (<a href="/men/commanders/1134.html">Karl-Ernst Schroeter</a>) in approximate position 68.20, 39.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.13, 36.05], {icon: iconFate}).addTo(mymap).bindPopup('26 Aug 1941. The Soviet submarine depot ship <a href="/allies/merchants/ship/1073.html">Marija Uljanova</a> (3,870 GRT) a total loss by  by <a href="/boats/u571.htm">U-571</a> (<a href="/men/moehlmann.htm">Helmut Möhlmann</a>) in approximate position 70.08, 36.03.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.50, 43.00], {icon: iconFate}).addTo(mymap).bindPopup('27 Aug 1941. The Soviet Steam trawler <a href="/allies/merchants/ship/3587.html">RT-8 Seld´</a> (608 GRT) sunk by  by <a href="/boats/u752.htm">U-752</a> (<a href="/men/commanders/1134.html">Karl-Ernst Schroeter</a>) in approximate position 68.30, 43.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([71.15, 29.42], {icon: iconFate}).addTo(mymap).bindPopup('9 Dec 1941. The German steam merchant <a href="/allies/merchants/ship/1216.html">Steinbek</a> (2,185 GRT) sunk by  by <a href="/boats/u134.htm">U-134</a> (<a href="/men/commanders/1075.html">Rudolf Schendel</a>) in approximate position 71.09, 29.25.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([74.15, 19.17], {icon: iconFate}).addTo(mymap).bindPopup('2 Jan 1942. The British steam merchant <a href="/allies/merchants/ship/1238.html">Waziristan</a> (5,135 GRT) sunk by  by <a href="/boats/u134.htm">U-134</a> (<a href="/men/commanders/1075.html">Rudolf Schendel</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-7A">PQ-7A</a> in approximate position 74.09, 19.10.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.15, 32.83], {icon: iconFate}).addTo(mymap).bindPopup('10 Jan 1942. The Soviet submarine <a href="/allies/merchants/ship/1240.html">M-175</a> (206 GRT) sunk by  by <a href="/boats/u584.htm">U-584</a> (<a href="/men/commanders/194.html">Joachim Deecke</a>) in approximate position 70.09, 32.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.68, 38.97], {icon: iconFate}).addTo(mymap).bindPopup('17 Jan 1942. The Soviet steam trawler <a href="/allies/merchants/ship/1255.html">RT-68 Enisej</a> (557 GRT) sunk by  by <a href="/boats/u454.htm">U-454</a> (<a href="/men/commanders/398.html">Burckhard Hackländer</a>) in approximate position 68.41, 38.58.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.27, 36.13], {icon: iconFate}).addTo(mymap).bindPopup('17 Jan 1942. The British steam merchant <a href="/allies/merchants/ship/1261.html">Harmatris</a> (5,395 GRT) damaged by  by <a href="/boats/u454.htm">U-454</a> (<a href="/men/commanders/398.html">Burckhard Hackländer</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-8">PQ-8</a> in approximate position 69.16, 36.08.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.35, 35.45], {icon: iconFate}).addTo(mymap).bindPopup('17 Jan 1942. The British destroyer <a href="/allies/merchants/ship/1257.html">HMS Matabele (G 26)</a> (1,870 GRT) sunk by  by <a href="/boats/u454.htm">U-454</a> (<a href="/men/commanders/398.html">Burckhard Hackländer</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-8">PQ-8</a> in approximate position 69.21, 35.27.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.35, 35.50], {icon: iconFate}).addTo(mymap).bindPopup('1 Mar 1942. The Soviet steam trawler <a href="/allies/merchants/ship/1441.html">RT-19 Komintern</a> (577 GRT) sunk by  by <a href="/boats/u436.htm">U-436</a> (<a href="/men/seibicke.htm">Günther Seibicke</a>) in approximate position 69.21, 35.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.92, 37.30], {icon: iconFate}).addTo(mymap).bindPopup('30 Mar 1942. The British steam merchant <a href="/allies/merchants/ship/1483.html">Induna</a> (5,086 GRT) sunk by  by <a href="/boats/u376.htm">U-376</a> (<a href="/men/commanders/788.html">Friedrich-Karl Marks</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-13">PQ-13</a> in approximate position 70.55, 37.18.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.47, 35.73], {icon: iconFate}).addTo(mymap).bindPopup('30 Mar 1942. The American steam merchant <a href="/allies/merchants/ship/1485.html">Effingham</a> (6,421 GRT) damaged by  by <a href="/boats/u456.htm">U-456</a> (<a href="/men/teichert.htm">Max-Martin Teichert</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-13">PQ-13</a> in approximate position 70.28, 35.44.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.47, 35.73], {icon: iconFate}).addTo(mymap).bindPopup('30 Mar 1942. The American steam merchant <a href="/allies/merchants/ship/1485.html">Effingham</a> (6,421 GRT) sunk by  by <a href="/boats/u435.htm">U-435</a> (<a href="/men/strelow.htm">Siegfried Strelow</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-13">PQ-13</a> in approximate position 70.28, 35.44.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.37, 28.80], {icon: iconFate}).addTo(mymap).bindPopup('13 Apr 1942. The Soviet steam merchant <a href="/allies/merchants/ship/1532.html">Kiev</a> (5,823 GRT) sunk by  by <a href="/boats/u436.htm">U-436</a> (<a href="/men/seibicke.htm">Günther Seibicke</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-10">QP-10</a> in approximate position 73.22, 28.48.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.47, 28.50], {icon: iconFate}).addTo(mymap).bindPopup('13 Apr 1942. The Panamanian steam merchant <a href="/allies/merchants/ship/1533.html">El Occidente</a> (6,008 GRT) sunk by  by <a href="/boats/u435.htm">U-435</a> (<a href="/men/strelow.htm">Siegfried Strelow</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-10">QP-10</a> in approximate position 73.28, 28.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.55, 27.32], {icon: iconFate}).addTo(mymap).bindPopup('13 Apr 1942. The British steam merchant <a href="/allies/merchants/ship/1531.html">Harpalion</a> (5,486 GRT) sunk by  by <a href="/boats/u435.htm">U-435</a> (<a href="/men/strelow.htm">Siegfried Strelow</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-10">QP-10</a> in approximate position 73.33, 27.19.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.80, 21.83], {icon: iconFate}).addTo(mymap).bindPopup('16 Apr 1942. The British steam merchant <a href="/allies/merchants/ship/1544.html">Empire Howard</a> (6,985 GRT) sunk by  by <a href="/boats/u403.htm">U-403</a> (<a href="/men/commanders/167.html">Heinz-Ehlert Clausen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-14">PQ-14</a> in approximate position 73.48, 21.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.15, 32.75], {icon: iconFate}).addTo(mymap).bindPopup('30 Apr 1942. The British light cruiser <a href="/allies/merchants/ship/1579.html">HMS Edinburgh (16)</a> (11,500 GRT) damaged by  by <a href="/boats/u456.htm">U-456</a> (<a href="/men/teichert.htm">Max-Martin Teichert</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-11">QP-11</a> in approximate position 73.09, 32.45.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([71.77, 34.50], {icon: iconFate}).addTo(mymap).bindPopup('1 May 1942. The Soviet motor merchant <a href="/allies/merchants/ship/1582.html">Tsiolkovskij</a> (2,847 GRT) damaged by  by <a href="/boats/u589.htm">U-589</a> (<a href="/men/commanders/516.html">Hans-Joachim Horrer</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-11">QP-11</a> in approximate position 71.46, 34.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.03, 19.77], {icon: iconFate}).addTo(mymap).bindPopup('3 May 1942. The British steam merchant <a href="/allies/merchants/ship/1591.html">Jutland</a> (6,153 GRT) sunk by  by <a href="/boats/u251.htm">U-251</a> (<a href="/men/timm.htm">Heinrich Timm</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-15">PQ-15</a> in approximate position 73.02, 19.46.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.58, 5.50], {icon: iconFate}).addTo(mymap).bindPopup('26 May 1942. The American steam merchant <a href="/allies/merchants/ship/1708.html">Syros</a> (6,191 GRT) sunk by  by <a href="/boats/u703.htm">U-703</a> (<a href="/men/commanders/81.html">Heinz Bielfeld</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-16">PQ-16</a> in approximate position 72.35, 5.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.82, 22.42], {icon: iconFate}).addTo(mymap).bindPopup('4 Jul 1942. The American steam merchant <a href="/allies/merchants/ship/1887.html">Christopher Newport</a> (7,191 GRT) sunk by  by <a href="/boats/u457.htm">U-457</a> (<a href="/men/commanders/121.html">Karl Brandenburg</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 75.49, 22.25.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.95, 27.25], {icon: iconFate}).addTo(mymap).bindPopup('4 Jul 1942. The American steam merchant <a href="/allies/merchants/ship/1886.html">William Hooper</a> (7,177 GRT) sunk by  by <a href="/boats/u334.htm">U-334</a> (<a href="/men/commanders/1195.html">Hilmar Siemon</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 75.57, 27.15.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([76.30, 33.50], {icon: iconFate}).addTo(mymap).bindPopup('5 Jul 1942. The British steam merchant <a href="/allies/merchants/ship/1891.html">Empire Byron</a> (6,645 GRT) sunk by  by <a href="/boats/u703.htm">U-703</a> (<a href="/men/commanders/81.html">Heinz Bielfeld</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 76.18, 33.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.83, 24.58], {icon: iconFate}).addTo(mymap).bindPopup('5 Jul 1942. The American steam merchant <a href="/allies/merchants/ship/1888.html">Carlton</a> (5,127 GRT) sunk by  by <a href="/boats/u88.htm">U-88</a> (<a href="/men/commanders/100.html">Heino Bohmann</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 72.50, 24.35.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.08, 38.00], {icon: iconFate}).addTo(mymap).bindPopup('5 Jul 1942. The American steam merchant <a href="/allies/merchants/ship/1892.html">Honomu</a> (6,977 GRT) sunk by  by <a href="/boats/u456.htm">U-456</a> (<a href="/men/teichert.htm">Max-Martin Teichert</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 75.05, 38.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([74.90, 37.67], {icon: iconFate}).addTo(mymap).bindPopup('5 Jul 1942. The British steam merchant <a href="/allies/merchants/ship/1894.html">Earlston</a> (7,195 GRT) sunk by  by <a href="/boats/u334.htm">U-334</a> (<a href="/men/commanders/1195.html">Hilmar Siemon</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 74.54, 37.40.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.95, 43.00], {icon: iconFate}).addTo(mymap).bindPopup('5 Jul 1942. The British steam merchant <a href="/allies/merchants/ship/1889.html">River Afton</a> (5,479 GRT) sunk by  by <a href="/boats/u703.htm">U-703</a> (<a href="/men/commanders/81.html">Heinz Bielfeld</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 75.57, 43.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.38, 40.83], {icon: iconFate}).addTo(mymap).bindPopup('10 Jul 1942. The Panamanian steam merchant <a href="/allies/merchants/ship/1916.html">El Capitan</a> (5,255 GRT) sunk by  by <a href="/boats/u251.htm">U-251</a> (<a href="/men/timm.htm">Heinrich Timm</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 69.23, 40.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.42, 38.58], {icon: iconFate}).addTo(mymap).bindPopup('10 Jul 1942. The American steam merchant <a href="/allies/merchants/ship/1915.html">Hoosier</a> (5,060 GRT) sunk by  by <a href="/boats/u376.htm">U-376</a> (<a href="/men/commanders/788.html">Friedrich-Karl Marks</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 69.25, 38.35.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.95, 40.17], {icon: iconFate}).addTo(mymap).bindPopup('13 Jul 1942. The Dutch steam merchant <a href="/allies/merchants/ship/1929.html">Paulus Potter</a> (7,168 GRT) sunk by  by <a href="/boats/u255.htm">U-255</a> (<a href="/men/reche.htm">Reinhart Reche</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-17">PQ-17</a> in approximate position 75.57, 40.10.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.87, 7.92], {icon: iconFate}).addTo(mymap).bindPopup('13 Sep 1942. The American steam merchant <a href="/allies/merchants/ship/2164.html">Oliver Ellsworth</a> (7,191 GRT) sunk by  by <a href="/boats/u408.htm">U-408</a> (<a href="/men/commanders/531.html">Reinhard von Hymmen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-18">PQ-18</a> in approximate position 75.52, 7.55.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.87, 7.92], {icon: iconFate}).addTo(mymap).bindPopup('13 Sep 1942. The Soviet steam merchant <a href="/allies/merchants/ship/2159.html">Stalingrad</a> (3,559 GRT) sunk by  by <a href="/boats/u408.htm">U-408</a> (<a href="/men/commanders/531.html">Reinhard von Hymmen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-18">PQ-18</a> in approximate position 75.52, 7.55.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([76.17, 18.00], {icon: iconFate}).addTo(mymap).bindPopup('14 Sep 1942. The British motor tanker <a href="/allies/merchants/ship/2170.html">Atheltemplar</a> (8,939 GRT) sunk by  by <a href="/boats/u408.htm">U-408</a> (<a href="/men/commanders/531.html">Reinhard von Hymmen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-18">PQ-18</a> in approximate position 76.10, 18.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([76.17, 18.00], {icon: iconFate}).addTo(mymap).bindPopup('14 Sep 1942. The British motor tanker <a href="/allies/merchants/ship/2170.html">Atheltemplar</a> (8,939 GRT) damaged by  by <a href="/boats/u457.htm">U-457</a> (<a href="/men/commanders/121.html">Karl Brandenburg</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PQ-18">PQ-18</a> in approximate position 76.10, 18.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([76.50, 5.00], {icon: iconFate}).addTo(mymap).bindPopup('20 Sep 1942. The British fleet minesweeper <a href="/allies/merchants/ship/2188.html">HMS Leda (J 93)</a> (835 GRT) sunk by  by <a href="/boats/u435.htm">U-435</a> (<a href="/men/strelow.htm">Siegfried Strelow</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-14">QP-14</a> in approximate position 76.30, 5.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([76.45, 15.83], {icon: iconFate}).addTo(mymap).bindPopup('6 Nov 1942. The British steam merchant <a href="/allies/merchants/ship/2381.html">Chulmleigh</a> (5,445 GRT) sunk by  by <a href="/boats/u625.htm">U-625</a> (<a href="/men/commanders/68.html">Hans Benker</a>) in approximate position 76.27, 15.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([76.33, 17.50], {icon: iconFate}).addTo(mymap).bindPopup('6 Nov 1942. The British steam merchant <a href="/allies/merchants/ship/2382.html">Empire Sky</a> (7,455 GRT) sunk by  by <a href="/boats/u625.htm">U-625</a> (<a href="/men/commanders/68.html">Hans Benker</a>) in approximate position 76.20, 17.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.83, 15.75], {icon: iconFate}).addTo(mymap).bindPopup('23 Nov 1942. The British steam merchant <a href="/allies/merchants/ship/2461.html">Goolistan</a> (5,851 GRT) sunk by  by <a href="/boats/u625.htm">U-625</a> (<a href="/men/commanders/68.html">Hans Benker</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-15">QP-15</a> in approximate position 75.50, 15.45.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([75.50, 8.00], {icon: iconFate}).addTo(mymap).bindPopup('23 Nov 1942. The Soviet motor merchant <a href="/allies/merchants/ship/2460.html">Kuznets Lesov</a> (3,974 GRT) sunk by  by <a href="/boats/u601.htm">U-601</a> (<a href="/men/commanders/380.html">Peter-Ottmar Grau</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=QP-15">QP-15</a> in approximate position 75.30, 8.00.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.75, 17.50], {icon: iconFate}).addTo(mymap).bindPopup('26 Jan 1943. The Soviet steam merchant <a href="/allies/merchants/ship/3526.html">Krasnyj Partizan</a> (2,418 GRT) sunk by  by <a href="/boats/u255.htm">U-255</a> (<a href="/men/reche.htm">Reinhart Reche</a>) in approximate position 73.45, 17.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.75, 17.83], {icon: iconFate}).addTo(mymap).bindPopup('29 Jan 1943. The Soviet steam merchant <a href="/allies/merchants/ship/2605.html">Ufa</a> (1,892 GRT) sunk by  by <a href="/boats/u255.htm">U-255</a> (<a href="/men/reche.htm">Reinhart Reche</a>) in approximate position 73.45, 17.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.73, 11.45], {icon: iconFate}).addTo(mymap).bindPopup('5 Mar 1943. The American steam merchant <a href="/allies/merchants/ship/3525.html">Executive</a> (4,978 GRT) sunk by  by <a href="/boats/u255.htm">U-255</a> (<a href="/men/reche.htm">Reinhart Reche</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-53">RA-53</a> in approximate position 72.44, 11.27.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.47, 21.50], {icon: iconFate}).addTo(mymap).bindPopup('25 Jan 1944. The British destroyer <a href="/allies/merchants/ship/3167.html">HMS Obdurate (G 39)</a> (1,540 GRT) damaged by  by <a href="/boats/u360.htm">U-360</a> (<a href="/men/commanders/58.html">Klaus-Helmuth Becker</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.28, 21.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.37, 22.50], {icon: iconFate}).addTo(mymap).bindPopup('25 Jan 1944. The American steam merchant <a href="/allies/merchants/ship/3169.html">Penelope Barker</a> (7,177 GRT) sunk by  by <a href="/boats/u278.htm">U-278</a> (<a href="/men/commanders/312.html">Joachim Franze</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.22, 22.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.75, 24.80], {icon: iconFate}).addTo(mymap).bindPopup('26 Jan 1944. The British steam merchant <a href="/allies/merchants/ship/3172.html">Fort Bellingham</a> (7,153 GRT) damaged by  by <a href="/boats/u360.htm">U-360</a> (<a href="/men/commanders/58.html">Klaus-Helmuth Becker</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.45, 24.48.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.37, 24.25], {icon: iconFate}).addTo(mymap).bindPopup('26 Jan 1944. The American steam merchant <a href="/allies/merchants/ship/3174.html">Andrew G. Curtin</a> (7,200 GRT) sunk by  by <a href="/boats/u716.htm">U-716</a> (<a href="/men/commanders/225.html">Hans Dunkelberg</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.22, 24.15.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.37, 24.25], {icon: iconFate}).addTo(mymap).bindPopup('26 Jan 1944. The American patrol torpedo boat <a href="/allies/merchants/ship/3572.html">USS PTC-39</a> (54 GRT) sunk by  by <a href="/boats/u716.htm">U-716</a> (<a href="/men/commanders/225.html">Hans Dunkelberg</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.22, 24.15.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.42, 25.17], {icon: iconFate}).addTo(mymap).bindPopup('26 Jan 1944. The British steam merchant <a href="/allies/merchants/ship/3172.html">Fort Bellingham</a> (7,153 GRT) sunk by  by <a href="/boats/u957.htm">U-957</a> (<a href="/men/schaar.htm">Gerd Schaar</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.25, 25.10.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.37, 24.25], {icon: iconFate}).addTo(mymap).bindPopup('26 Jan 1944. The American patrol torpedo boat <a href="/allies/merchants/ship/3571.html">USS PTC-38</a> (54 GRT) sunk by  by <a href="/boats/u957.htm">U-957</a> (<a href="/men/schaar.htm">Gerd Schaar</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56A">JW-56A</a> in approximate position 73.22, 24.15.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.67, 24.50], {icon: iconFate}).addTo(mymap).bindPopup('30 Jan 1944. The British destroyer <a href="/allies/merchants/ship/3177.html">HMS Hardy (R 08)</a> (1,810 GRT) sunk by  by <a href="/boats/u278.htm">U-278</a> (<a href="/men/commanders/312.html">Joachim Franze</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-56B">JW-56B</a> in approximate position 73.40, 24.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([71.20, 13.50], {icon: iconFate}).addTo(mymap).bindPopup('25 Feb 1944. The British destroyer <a href="/allies/merchants/ship/3201.html">HMS Mahratta (G 23)</a> (1,920 GRT) sunk by  by <a href="/boats/u990.htm">U-990</a> (<a href="/men/commanders/890.html">Hubert Nordheimer</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-57">JW-57</a> in approximate position 71.12, 13.30.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.42, 22.18], {icon: iconFate}).addTo(mymap).bindPopup('4 Mar 1944. The British steam merchant <a href="/allies/merchants/ship/3210.html">Empire Tourist</a> (7,062 GRT) sunk by  by <a href="/boats/u703.htm">U-703</a> (<a href="/men/commanders/141.html">Joachim Brünner</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-57">RA-57</a> in approximate position 73.25, 22.11.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([73.77, 19.17], {icon: iconFate}).addTo(mymap).bindPopup('30 Apr 1944. The American steam merchant <a href="/allies/merchants/ship/3238.html">William S. Thayer</a> (7,176 GRT) sunk by  by <a href="/boats/u307.htm">U-307</a> (<a href="/men/commanders/466.html">Friedrich-Georg Herrle</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-59">RA-59</a> in approximate position 73.46, 19.10.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([77.75, 14.75], {icon: iconFate}).addTo(mymap).bindPopup('18 Aug 1944. The Norwegian motor boat <a href="/allies/merchants/ship/3319.html">Lennox</a> (50 GRT) sunk by  by <a href="/boats/u307.htm">U-307</a> (<a href="/men/commanders/466.html">Friedrich-Georg Herrle</a>) in approximate position 77.45, 14.45.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([71.70, 19.18], {icon: iconFate}).addTo(mymap).bindPopup('22 Aug 1944. The British escort carrier <a href="/allies/merchants/ship/3330.html">HMS Nabob (D 77)</a> (11,420 GRT) a total loss by  by <a href="/boats/u354.htm">U-354</a> (<a href="/men/commanders/1233.html">Hans-Jürgen Sthamer</a>) in approximate position 71.42, 19.11.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([71.70, 19.18], {icon: iconFate}).addTo(mymap).bindPopup('22 Aug 1944. The British frigate <a href="/allies/merchants/ship/3329.html">HMS Bickerton (K 466)</a> (1,300 GRT) sunk by  by <a href="/boats/u354.htm">U-354</a> (<a href="/men/commanders/1233.html">Hans-Jürgen Sthamer</a>) in approximate position 71.42, 19.11.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.98, 24.43], {icon: iconFate}).addTo(mymap).bindPopup('29 Sep 1944. The American steam merchant <a href="/allies/merchants/ship/3356.html">Edward H. Crockett</a> (7,176 GRT) sunk by  by <a href="/boats/u310.htm">U-310</a> (<a href="/men/commanders/729.html">Wolfgang Ley</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-60">RA-60</a> in approximate position 72.59, 24.26.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([72.97, 23.98], {icon: iconFate}).addTo(mymap).bindPopup('29 Sep 1944. The British steam merchant <a href="/allies/merchants/ship/3357.html">Samsuva</a> (7,219 GRT) sunk by  by <a href="/boats/u310.htm">U-310</a> (<a href="/men/commanders/729.html">Wolfgang Ley</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-60">RA-60</a> in approximate position 72.58, 23.59.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.33, 36.73], {icon: iconFate}).addTo(mymap).bindPopup('2 Nov 1944. The British frigate <a href="/allies/merchants/ship/3370.html">HMS Mounsey (K 569)</a> (1,150 GRT) damaged by  by <a href="/boats/u295.htm">U-295</a> (<a href="/men/commanders/1347.html">Günter Wieboldt</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-61">RA-61</a> in approximate position 69.20, 36.44.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.73, 37.82], {icon: iconFate}).addTo(mymap).bindPopup('3 Dec 1944. The Soviet steam merchant <a href="/allies/merchants/ship/3381.html">Revoljucija</a> (433 GRT) sunk by  by <a href="/boats/u1163.htm">U-1163</a> (<a href="/men/commanders/31.html">Ernst-Ludwig Balduhn</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=KB-35">KB-35</a> in approximate position 68.44, 37.49.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.95, 32.88], {icon: iconFate}).addTo(mymap).bindPopup('5 Dec 1944. The Soviet steam merchant <a href="/allies/merchants/ship/3384.html">Proletarij</a> (1,123 GRT) sunk by  by <a href="/boats/u995.htm">U-995</a> (<a href="/men/hess.htm">Hans-Georg Hess</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PK-20">PK-20</a> in approximate position 69.57, 32.53.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.48, 35.20], {icon: iconFate}).addTo(mymap).bindPopup('5 Dec 1944. The Soviet Patrol Craft (A/S) <a href="/allies/merchants/ship/3383.html">BO-230</a> (105 GRT) sunk by  by <a href="/boats/u365.htm">U-365</a> (<a href="/men/commanders/1279.html">Diether Todenhagen</a>) in approximate position 69.29, 35.12.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.47, 34.32], {icon: iconFate}).addTo(mymap).bindPopup('7 Dec 1944. The Soviet Patrol Craft (A/S) <a href="/allies/merchants/ship/3386.html">BO-229</a> (105 GRT) sunk by  by <a href="/boats/u997.htm">U-997</a> (<a href="/men/lehmann_hans.htm">Hans Lehmann</a>) in approximate position 69.28, 34.19.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([71.95, 32.07], {icon: iconFate}).addTo(mymap).bindPopup('11 Dec 1944. The British destroyer <a href="/allies/merchants/ship/3389.html">HMS Cassandra (R 62)</a> (1,710 GRT) damaged by  by <a href="/boats/u365.htm">U-365</a> (<a href="/men/commanders/1279.html">Diether Todenhagen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-62">RA-62</a> in approximate position 71.57, 32.04.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.45, 38.62], {icon: iconFate}).addTo(mymap).bindPopup('21 Dec 1944. The Soviet motor boat <a href="/allies/merchants/ship/3528.html">Reshitel’nyj</a> (20 GRT) sunk by  by <a href="/boats/u995.htm">U-995</a> (<a href="/men/hess.htm">Hans-Georg Hess</a>) in approximate position 68.27, 38.37.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.65, 40.33], {icon: iconFate}).addTo(mymap).bindPopup('26 Dec 1944. The Soviet Motor fishing vessel <a href="/allies/merchants/ship/3574.html">RT-52 Som</a> (417 GRT) sunk by  by <a href="/boats/u995.htm">U-995</a> (<a href="/men/hess.htm">Hans-Georg Hess</a>) in approximate position 68.39, 40.20.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.15, 40.37], {icon: iconFate}).addTo(mymap).bindPopup('29 Dec 1944. The Soviet M/S trawler <a href="/allies/merchants/ship/3404.html">T-883 (No 37)</a> (633 GRT) sunk by  by <a href="/boats/u995.htm">U-995</a> (<a href="/men/hess.htm">Hans-Georg Hess</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=KB-37">KB-37</a> in approximate position 68.09, 40.22.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.93, 32.48], {icon: iconFate}).addTo(mymap).bindPopup('30 Dec 1944. The Soviet steam merchant <a href="/allies/merchants/ship/3407.html">Tbilisi</a> (7,176 GRT) a total loss by  by <a href="/boats/u956.htm">U-956</a> (<a href="/men/commanders/837.html">Hans-Dieter Mohs</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=KP-24">KP-24</a> in approximate position 69.56, 32.29.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.07, 36.17], {icon: iconFate}).addTo(mymap).bindPopup('16 Jan 1945. The Soviet destroyer <a href="/allies/merchants/ship/3519.html">Dejatelnyj</a> (1,190 GRT) sunk by  by <a href="/boats/u956.htm">U-956</a> (<a href="/men/commanders/837.html">Hans-Dieter Mohs</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=KB-1">KB-1</a> in approximate position 69.04, 36.10.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.00, 32.17], {icon: iconFate}).addTo(mymap).bindPopup('20 Jan 1945. The Soviet destroyer <a href="/allies/merchants/ship/3426.html">Razjarennyj</a> (1,658 GRT) damaged by  by <a href="/boats/u293.htm">U-293</a> (<a href="/men/commanders/613.html">Leonhard Klingspor</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=KP-1">KP-1</a> in approximate position 70.00, 32.10.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.33, 33.55], {icon: iconFate}).addTo(mymap).bindPopup('13 Feb 1945. The British corvette <a href="/allies/merchants/ship/3438.html">HMS Denbigh Castle (K 696)</a> (1,060 GRT) a total loss by  by <a href="/boats/u992.htm">U-992</a> (<a href="/men/commanders/268.html">Hans Falke</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-64">JW-64</a> in approximate position 69.20, 33.33.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.37, 33.83], {icon: iconFate}).addTo(mymap).bindPopup('14 Feb 1945. The Norwegian steam tanker <a href="/allies/merchants/ship/3440.html">Norfjell</a> (8,129 GRT) damaged by  by <a href="/boats/u968.htm">U-968</a> (<a href="/men/westphalen.htm">Otto Westphalen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=BK-3">BK-3</a> in approximate position 69.22, 33.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.35, 33.72], {icon: iconFate}).addTo(mymap).bindPopup('14 Feb 1945. The American steam merchant <a href="/allies/merchants/ship/3439.html">Horace Gray</a> (7,200 GRT) a total loss by  by <a href="/boats/u968.htm">U-968</a> (<a href="/men/westphalen.htm">Otto Westphalen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=BK-3">BK-3</a> in approximate position 69.21, 33.43.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.50, 34.55], {icon: iconFate}).addTo(mymap).bindPopup('17 Feb 1945. The British sloop <a href="/allies/merchants/ship/3443.html">HMS Lark (U 11)</a> (1,350 GRT) a total loss by  by <a href="/boats/u968.htm">U-968</a> (<a href="/men/westphalen.htm">Otto Westphalen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-64">RA-64</a> in approximate position 69.30, 34.33.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.50, 34.70], {icon: iconFate}).addTo(mymap).bindPopup('17 Feb 1945. The American steam merchant <a href="/allies/merchants/ship/3444.html">Thomas Scott</a> (7,176 GRT) sunk by  by <a href="/boats/u968.htm">U-968</a> (<a href="/men/westphalen.htm">Otto Westphalen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-64">RA-64</a> in approximate position 69.30, 34.42.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.60, 35.48], {icon: iconFate}).addTo(mymap).bindPopup('17 Feb 1945. The British corvette <a href="/allies/merchants/ship/3442.html">HMS Bluebell (K 80)</a> (925 GRT) sunk by  by <a href="/boats/u711.htm">U-711</a> (<a href="/men/lange.htm">Hans-Günther Lange</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-64">RA-64</a> in approximate position 69.36, 35.29.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.35, 33.63], {icon: iconFate}).addTo(mymap).bindPopup('2 Mar 1945. The Soviet Patrol Craft (A/S) <a href="/allies/merchants/ship/3461.html">BO-224</a> (105 GRT) sunk by  by <a href="/boats/u995.htm">U-995</a> (<a href="/men/hess.htm">Hans-Georg Hess</a>) in approximate position 69.21, 33.38.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.38, 35.28], {icon: iconFate}).addTo(mymap).bindPopup('20 Mar 1945. The American steam merchant <a href="/allies/merchants/ship/3474.html">Horace Bushnell</a> (7,176 GRT) a total loss by  by <a href="/boats/u995.htm">U-995</a> (<a href="/men/hess.htm">Hans-Georg Hess</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-65">JW-65</a> in approximate position 69.23, 35.17.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.43, 33.73], {icon: iconFate}).addTo(mymap).bindPopup('20 Mar 1945. The American steam merchant <a href="/allies/merchants/ship/3475.html">Thomas Donaldson</a> (7,210 GRT) sunk by  by <a href="/boats/u968.htm">U-968</a> (<a href="/men/westphalen.htm">Otto Westphalen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-65">JW-65</a> in approximate position 69.26, 33.44.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.43, 33.73], {icon: iconFate}).addTo(mymap).bindPopup('20 Mar 1945. The British Sloop <a href="/allies/merchants/ship/3473.html">HMS Lapwing (U 62)</a> (1,350 GRT) sunk by  by <a href="/boats/u968.htm">U-968</a> (<a href="/men/westphalen.htm">Otto Westphalen</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=JW-65">JW-65</a> in approximate position 69.26, 33.44.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.25, 34.83], {icon: iconFate}).addTo(mymap).bindPopup('22 Mar 1945. The Soviet Despatch vessel <a href="/allies/merchants/ship/3479.html">VPS-5</a> (20 GRT) damaged by  by <a href="/boats/u711.htm">U-711</a> (<a href="/men/lange.htm">Hans-Günther Lange</a>) in approximate position 69.15, 34.50.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 33.23], {icon: iconFate}).addTo(mymap).bindPopup('22 Apr 1945. The Norwegian steam merchant <a href="/allies/merchants/ship/3499.html">Idefjord</a> (4,287 GRT) damaged by  by <a href="/boats/u997.htm">U-997</a> (<a href="/men/lehmann_hans.htm">Hans Lehmann</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PK-9">PK-9</a> in approximate position 69.40, 33.14.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 33.30], {icon: iconFate}).addTo(mymap).bindPopup('22 Apr 1945. The Soviet steam merchant <a href="/allies/merchants/ship/3498.html">Onega</a> (1,603 GRT) sunk by  by <a href="/boats/u997.htm">U-997</a> (<a href="/men/lehmann_hans.htm">Hans Lehmann</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=PK-9">PK-9</a> in approximate position 69.40, 33.18.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.42, 33.63], {icon: iconFate}).addTo(mymap).bindPopup('29 Apr 1945. The British frigate <a href="/allies/merchants/ship/3506.html">HMS Goodall (K 479)</a> (1,150 GRT) sunk by  by <a href="/boats/u286.htm">U-286</a> (<a href="/men/commanders/204.html">Willi Dietrich</a>) from convoy <a href="/ops/convoys/convoys.php?convoy=RA-66">RA-66</a> in approximate position 69.25, 33.38.');
+
+//route = 'PQ'
+
+//Print out the convoy route
+var routeCoordinates = [
+[57.85, -5.66], // Loch Ewe
+	        [58.51, -5.57],
+	        [63.70, -23.16], // SW Reykjanes
+	        [64.00, -23.16], // NW Reykjanes
+	        [64.19, -22.59],
+	        [64.27, -21.92], // Hvalfjordur
+	        [64.36, -22.45],
+	        [64.70, -24.50],
+	        [65.45, -25.45],
+	        [67.00, -23.11],
+	        [71.45, -9.50],
+	        [75.50, 7.10],
+	        [75.50, 38.25],
+	        [71.00, 42.45],
+	        [67.15, 42.15],
+	        [66.35, 41.40],
+	        [65.50, 39.28],
+	        [64.54, 40.53] // Archangelsk
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+var Murmansk = [
+[71.00, 42.45], // Breakoff
+        		[69.32, 33.60] // Murmansk collection point
+]
+var polyline = L.polyline(Murmansk, {color: 'red'}).addTo(mymap);
+</script>
+
+<div class="caption">
+<p>87 ships hit in the area, 67 ships sunk (255,659 GRT) and 20 ships damaged (100,001 GRT).
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/red_Marker.png"> 1941.
+<img src="/media/maps/googlemarkers/blue_Marker.png"> 1942.
+<img src="/media/maps/googlemarkers/orange_Marker.png"> 1943.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.
+<img src="/media/maps/googlemarkers/yellow_Marker.png"> 1945.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p></div>
+
+
+
+<div align="center"><h3>Selected media links</h3><table><tr><td class="width130" align="center"><p><a href="/books/item/2365"><img src="/media/books/covers/english/1848840519.jpg"  width="100" alt="" /><br>Arctic Convoy PQ8</a><br>Michael Wadsworth (2010)</p><div class="left"><br> <img src="/media/images/flags/small/flag_usa-s.gif" alt="" /> <a href="/about/scripts/amazon_com.php?book=1848840519&path=/maps/barents.htm">amazon.com</a> <br>($ 25.67)</div><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1848840519&path=/maps/barents.htm">amazon.co.uk</a> <br>(£ 19.99)</div></td><td class="width130" align="center"><p><a href="/books/item/2471"><img src="/media/books/covers/english/1781552924.jpg"  width="100" alt="" /><br>Swastikas in the Arctic</a><br>Jak P Mallmann Showell (2014)</p><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1781552924&path=/maps/barents.htm">amazon.co.uk</a> <br>(£ 20.00)</div></td><td class="width130" align="center"><p><a href="/books/item/1926"><img src="/media/books/covers/english/red-sky-in-the-morning.jpg"  width="100" alt="" /><br>Red Sky in the Morning</a><br>Pearson, Michael (2002)</p></td><td class="width130" align="center"><p><a href="/books/item/451"><img src="/media/books/covers/english/convoy-drama-in-arctic-waters.jpg"  width="100" alt="" /><br>Convoy!</a><br>Kemp, Paul (2000)</p></td><td class="width130" align="center"><p><a href="/books/item/1921"><img src="/media/books/covers/english/road-to-russia.jpg"  width="100" alt="" /><br>The  Road to Russia</a><br>Edwards, Bernard (2002)</p></td></tr></table></div>
+
+<br>
+<div align="center">
+	<h3><a href="/maps/">The Maps</a></h3>
+</div>
+
+
+
+
+<!--<p>
+	<br>
+</p>-->
+
+<p><br></p>
+
+</div>
+<!-- This closes the main content DIV (text area of pages) -->
+
+
+		<div id="footer">
+		
+            <div id="footer_navcontainer">
+                <ul id="footer_navlist">
+                    <li><a href="/" title="Front page">Front page</a></li>
+                    <li><a href="/about/" title="About uboat.net">About</a></li>
+                    <li><a href="/about/contact.htm" title="Contact us">Contact us</a></li>
+                    <li><a href="/special/faq.htm" title="Frequently Asked Questions">FAQ</a></li>
+                    <li><a href="/glossary.htm" title="Glossary pages">Glossary</a></li>
+                    <li><a href="/new.htm" title="What's new at uboat.net">What's new</a></li>
+                </ul>
+            </div>
+
+            <div id="footer_copyright">
+                &nbsp;&copy; 1995 - 2020 Gu&eth;mundur Helgason            </div>
+
+		</div>
+		<!-- End of footer -->
+
+</div>
+<!-- End of container DIV -->
+
+</body></html>
+

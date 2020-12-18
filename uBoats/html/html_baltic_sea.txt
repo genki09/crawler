@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<title>The Baltic - The U-boat War in Maps - uboat.net</title>
+	<link rel="stylesheet" href="/media/layout/2014_06/main2017-10.css" type="text/css" />
+	<link rel="stylesheet" href="/media/layout/2014_06/print.css" type="text/css" media="print" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="The U-boat War in World War Two (Kriegsmarine, 1939-1945) and World War One (Kaiserliche Marine, 1914-1918) and the Allied efforts to counter the threat. Over 40.000 pages on the officers, the boats, technology and the Allied efforts to counter the U-boat threat." />
+    <meta name="keywords" content="U-boat, submarine, boats, technology, XXI, VIIC, XIC, II, XIV, XXIII, Uboote, Unterseeboote,  aircraft, escorts, Kriegsmarine, German navy, U-boote, destroyers, corvettes, frigates, battleships, aircraft carriers, trawlers." />    <link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script></head>
+<body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1034416-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+<div id="container">
+	<!-- Wrapper for the outer table -->		
+				
+    <div id="banner">
+    <!-- Header area starts -->
+        <h1 class="ph">uboat.net</h1>
+
+        &nbsp;
+
+		<!-- The main menu -->
+		<div id="navcontainer">
+			<ul id="navlist">
+				<li><a href="/" title="Front page">Home</a></li>
+				
+<li><a href="/boats.htm" title="The Boats">The U-boats</a></li>
+<li><a href="/men/" title="The Men">The Men</a></li>
+<li><a href="/allies/" title="Allied efforts to fight the U-boats">The Allies</a></li>
+<li><a href="/maps/" title="Maps">Maps</a></li>
+<li><a href="/forums/" title="Join our Forums">Forums</a></li>
+<li><a href="/articles/" title="Articles">Articles</a></li>
+<li><a href="/gallery/" title="Galleries">Gallery</a></li>
+<li><a href="/books/" title="Over 2200 books">Books</a></li>
+<li><a href="/special/movies/" title="Naval Warfare Movies">Movies</a></li>
+<li><a href="/wwi/" title="World War One">WWI</a></li>																
+			</ul>
+		</div>
+		<!-- The main menu ends -->
+
+
+            <span id="breadcrumbs">
+                <a href="/">Front page</a> - <a href="/boats.htm">The U-boats</a> - <a href="/maps/"><strong>The War in Maps</strong></a>            </span>
+
+		
+		</div>
+		<!-- End of banner/header area -->
+		
+
+		<div id="sidebar-a">
+				
+
+
+<div id="submenu">
+<h4><a href="/boats.htm">The U-boats</a></h4>
+<ul id="submenulist">
+<li><a href="/boats/">List of all U-boats</a>
+<ul>
+<li><a href="/ops/successful_boats.htm">Most successful</a></li></ul></li>
+<li><a href="/boats/patrols/">U-boat Patrols</a></li>
+<li><a href="/types/">U-boat Types</a></li>
+<li><a href="/ops/">Operations</a>
+<ul>
+<li><a href="/ops/convoys/">Convoy battles</a></li>
+<li><a href="/ops/top_patrols.htm">Successful patrols</a></li>
+<li><a href="/ops/wolfpacks/">Wolfpacks</a></li>
+<li><a href="/maps/">Maps</a></li>
+<li><a href="/ops/combat_strength.html">Combat strength</a></li></ul>
+</li>
+<li><a href="/fates/">U-boat Fates</a><ul>
+<li><a href="/fates/losses/">Losses by year</a></li>
+<li><a href="/fates/scuttled.htm">Scuttled boats</a></li>
+<li><a href="/fates/surrendered.htm">Surrenders</a></li>
+<li><a href="/fates/discovered.html">Discovered boats</a></li>
+<li><a href="/fates/dive/">Dive sites</a></li>
+<li><a href="/fates/revised.html">Revised fates</a></li>
+</ul>
+</li>
+<li><a href="/flotillas/">Flotillas</a><ul>
+<li><a href="/flotillas/bases/">U-boat bases</a></li></ul></li>
+<li><a href="/technical/shipyards/">Shipyards</a></li>
+<li><a href="/technical/">Technologies</a></li>
+<li><a href="/special/emblems/">U-boat Emblems</a></li>
+</ul>
+</div>
+
+<div class="item_box center">
+<h4>Events on this day</h4>
+<p><a href="/today.html">What happened on<br>18 July?</a></p>
+</div>
+
+<div class="item_box center">
+<h4>Commander file</h4><p class="caption"><a href="/men/commanders/228.html"><img src="/media/men/commanders/eberlein_otto.jpg" class="width80" alt="" /><br>Otto Eberlein</a><br>(<a href="/boats/u1020.htm">U-1020</a>)</p><p>- <a href="/men/commanders/">More officers</a></p>
+</div>
+
+<div class="item_box center">
+<h4>U-boat of the day</h4><a href="/boats/u568.htm">U-568</a> - 5 patrols<br>3 ships sunk (7,873 tons)
+</div>
+
+<div class="item_box">
+<h4>U-boat Finder</h4>
+<form action="/boats/finder.php" method="post">
+<input size="8" name="find_boat"  class="search-field" />&nbsp;&nbsp;
+<input type="submit" value="Search" class="input" />
+</form>
+</div><p><br>Follow us on Twitter<br><a href="http://twitter.com/uboatnet" class="noborder"><img src="/media/layout/images/twitter_newbird_18.gif" alt="Twitter" /></a> <a href="http://twitter.com/uboatnet">@uboatnet</a></p>					
+			<br>
+		</div>
+	<!-- End of sidebar -->
+		
+
+	<div id="content">
+	<!-- Beginning of main content DIV -->
+
+    
+
+<div id="ga_contentTop728" align="center">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ContentTop, 728x90, created 11/6/10 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-1101670507446460"
+         data-ad-slot="9674187468"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+
+
+
+
+<div align="center">
+	<p><a href="/maps/"><img src="/media/layout/images/header_maps.gif" width="550" height="70" alt="The U-boat war in Maps"></a><p>
+	<h1>The Baltic</h1>
+</div>
+
+<p>The losses around the Bay of Danzig (Gdansk) were mostly due to very heavy mining operations by the British in 1944.
+    This helped delay the deployment of the <a href="/types/xxi.htm">XXI boats</a> in late 1944.</p>
+
+<p>This map does not include the more than 200 U-boats <a href="/fates/scuttled.htm">scuttled</a> there in May 1945.</p>
+
+
+
+
+
+<div align="center">
+<h2>U-boats lost in the Baltic</h2>
+
+
+<style media="screen" type="text/css">
+        #map {width:600px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map').setView([57.50, 21.0], 5)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 21.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u144.htm">U-144</a></strong> (Kptlt. <a href="/men/commanders/828.html">Gert von Mittelstaedt</a>). Sunk on 10 August 1941 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Dagö, in position 58.58N, 21.24,5E, by torpedo from the Soviet submarine <a href=\"/allies/warships/ship/5054.html\">ShCh-307</a>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.67, 20.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u580.htm">U-580</a></strong> (Oblt. <a href="/men/commanders/676.html">Hans-Günther Kuhlmann</a>). Sank on 11 November 1941 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Memel, in position 55.45N, 20.40E, after a collision with the German target ship <strong>Angelburg</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.30, 16.88], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u583.htm">U-583</a></strong> (Kptlt. <a href="/men/commanders/975.html">Heinrich Ratsch</a>). Sank at 2148hrs on 15 November 1941 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Stolpmünde, in position 55.18,5N, 16.53,5E, after a collision with U-153. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.05, 18.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u612.htm">U-612</a></strong> (Kptlt. <a href="/men/commanders/1194.html">Paul Siegmann</a>). Sank on 6 August 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Leba, in position 55.03N, 18.05E, after a collision with U-444.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.42, 19.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u222.htm">U-222</a></strong> (Kptlt. <a href="/men/commanders/556.html">Ralf von Jessen</a>). Sank on 2 September 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 54.25N, 19.30E, after a collision with U-626.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.45, 18.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u446.htm">U-446</a></strong> (Oblt. <a href="/men/commanders/1000.html">Hellmuth-Bert Richard</a>). Sunk on 21 September 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Kahlberg in the Danzig Bay, in position 54.27N, 18.55E, by an air-laid mine in the British field <em>Privet II</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.75, 18.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u272.htm">U-272</a></strong> (Oblt. <a href="/men/commanders/462.html">Horst Hepp</a>). Sank on 12 November 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Hela, in position 54.45N, 18.50E, after a collision with U-634.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.25, 17.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u649.htm">U-649</a></strong> (Oblt. <a href="/men/commanders/1274.html">Raimund Tiesler</a>). Sank on 24 February 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Leba, in position 55.15N, 17.15E, after a collision with U-232.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.67, 19.75], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u5.htm">U-5</a></strong> (Oblt. <a href="/men/commanders/968.html">Hermann Rahn</a>). Sank 19 March 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 54.40N, 19.45E, in a diving accident.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u733.htm">U-733</a></strong> (Oblt. <a href="/men/von_trotha.htm">Wilhelm von Trotha</a>). Sank on 8 April 1943 in the harbor entrance of Gotenhafen after a collision with the German patrol vessel <strong>VP 313</strong>. No casualties. Raised on 16 April 1943, repaired at the Schichau-Werft in Königsberg and returned to service on 15 December 1943.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.72, 21.10], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u34.htm">U-34</a></strong> (Ltn. <a href="/men/commanders/23.html">Eduard Aust</a>). Sank at 2155hrs on 5 August 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> at Memel, in position 55.43,7N, 21.06,5E after a collision with the  U-boat tender <strong>Lech</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.83, 19.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u670.htm">U-670</a></strong> (Oblt. <a href="/men/commanders/532.html">Guido Hyronimus</a>). Sank at 2330hrs on 20 August 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Hela, in position 54.50N, 19.15E, after a collision with the German target ship <strong>Bolkoburg</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.93, 17.23], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u983.htm">U-983</a></strong> (<a href="/men/commanders/990.html">Hans Reimers</a>). Sank on 8 September 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Leba, in position 54.56N, 17.14E, after a collision with U-988.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.62, 18.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u346.htm">U-346</a></strong> (Oblt. <a href="/men/commanders/719.html">Arno Leisten</a>). Sunk on 20 September 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Hela, in position 54.37N, 18.50E, in a diving accident.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.35, 15.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u718.htm">U-718</a></strong> (Oblt. <a href="/men/commanders/1349.html">Helmut Wieduwilt</a>). Sank on 18 November 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Bornholm, in position 55.21N, 15.24E, after a collision with U-476.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.43, 19.13], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u768.htm">U-768</a></strong> (Oblt. <a href="/men/commanders/159.html">Johann Buttjer</a>). Sank on 20 November 1943 in the <a href=\"/maps/baltic_sea.htm\">Gulf of Danzig</a>, in position 54.25,7N, 19.08E, after a collision with U-745.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.03, 14.27], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u854.htm">U-854</a></strong> (Kptlt. <a href="/men/commanders/1326.html">Horst Weiher</a>). Sunk at 1157hrs on 4 February 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Swinemünde, in position 54.01,8N, 14.16,3E, by an air-laid mine in the British minefield <em>Geranium</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.60], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u738.htm">U-738</a></strong> (Oblt. <a href="/men/commanders/502.html">Erich-Michael Hoffmann</a>). Sank on 14 February 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Gotenhafen, in position 54.32N, 18.36E, after a collision with the German steam merchant <strong>Erna</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.87, 19.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u7.htm">U-7</a></strong> (Oblt. <a href="/men/commanders/743.html">Günther Loeschcke</a>). Sank 18 February 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 54.52N, 19.29,8E, in a diving accident.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.35, 13.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1013.htm">U-1013</a></strong> (Oblt. <a href="/men/commanders/734.html">Gerhard Linck</a>). Sank on 17 March 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> east of Rügen, in position 54.21,2N, 13.55,2E, after a collision with U-286.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.65, 19.90], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1102.htm">U-1102</a></strong> (Oblt. (R) <a href="/men/commanders/1170.html">Bernhard Schwarting</a>). Sank on 24 March 1944 at U-boat base quay in Pillau by accident.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.80, 19.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u2.htm">U-2</a></strong> (Oblt. <a href="/men/commanders/1175.html">Wolfgang Schwarzkopf</a>). Sank 8 April 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Pillau, in position 54.48N, 19.55E, after a collision with the German steam trawler <strong>Helmi Söhle</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.43, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u108.htm">U-108</a></strong> (Oblt. <a href="/men/commanders/139.html">Matthias Brünig</a>). Sunk on 11 April 1944 in pontoon dock at the U-boat base in Stettin by bombs during US air raid (8th AF). Raised and decommissioned on 17 July 1944.<p>Scuttled on 24 April 1945 in the Oder River near Swinemünde. Wreck raised by Soviets in summer 1946 and probably scrapped at Stettin.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.12, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u803.htm">U-803</a></strong> (Kptlt. <a href="/men/commanders/1086.html">Karl Schimpf</a>). Sunk on 27 April 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Swinemünde, in position 54.06,7N, 14.35,5E, by an air-laid mine in the British minefield <em>Geranium</em>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.15, 19.18], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1015.htm">U-1015</a></strong> (Oblt. (R) <a href="/men/commanders/103.html">Hans-Heinz Boos</a>). Sank on 19 May 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 55.09,6N, 19.11,6E, after collision with U-1014.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.47, 28.42], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u250.htm">U-250</a></strong> (Kptlt. <a href="/men/commanders/1098.html">Werner-Karl Schmidt</a>). Sunk at 1925hrs on 30 July 1944 in the <a href=\"/maps/baltic_sea.htm\">Gulf of Finland</a> in the Koiviso Strait, in position 60.27,9N, 28.24,9E, by depth charges from the Soviet submarine chaser <strong>MO-103</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u4.htm">U-4</a></strong> (). Decommissioned 31 July 1944 in Gotenhafen (today Gdynia, Poland) and cannibalized for spare parts. In early 1945 hulk was towed west to Stolpmünde (today Ustka, Poland) and captured there by Soviet forces on 9 March 1945.<p>Scuttled in late 1945 in Stolpmünde harbor by Russians after being inspected by the Tripartite Naval Commission (TNC) on 28 August 1945. Raised by the Polish harbor authority in 1950 and broken up in 1951.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u10.htm">U-10</a></strong> (). Decommissioned 1 August 1944 in Gotenhafen (today Gdynia, Poland) and cannibalized for spare parts. In early 1945 hulk was towed west to Stolpmünde (today Utska, Poland) and captured by Soviet forces on 9 March 1945.<p>Scuttled in late 1945 in Stolpmünde harbor by Russians after being inspected by the Tripartite Naval Commission (TNC) on 28 August 1945. Raised by the Polish harbor authority in 1950 and broken up in 1951.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.65, 19.90], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u21.htm">U-21</a></strong> (Oblt. <a href="/men/commanders/1175.html">Wolfgang Schwarzkopf</a>). Decommissioned on 5 August 1944 at Pillau and cannibalized for spare parts. The hulk was captured by Soviet forces in Pillau on 25 April 1945 and probably broken up.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.53], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u6.htm">U-6</a></strong> (). Decommissioned 7 August 1944 in Gotenhafen (today Gdynia, Poland) and cannibalized for spare parts. In early 1945 hulk was towed west to Stolpmünde (today Utska, Poland) and captured by Soviet forces on 9 March 1945.<p>Scuttled in late 1945 in Stolpmünde harbor by Russians after being inspected by the Tripartite Naval Commission (TNC) on 28 August 1945. Raised by the Polish harbor authority in 1950 and broken up in 1951.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.70, 20.45], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1000.htm">U-1000</a></strong> (Oblt. (R) <a href="/men/commanders/847.html">Willi Müller</a>). Decommissioned on 29 September 1944 at Königsberg, after being badly damaged in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Pillau by a air-laid mine in the British minefield <em>Tangerine</em> on 31 August 1944.<p>Cannibalized for spare parts at Schichau-Werft in Königsberg after 1 October 1944. Hulk towed to Neustadt on 25 January 1945, but stranded off Rixhöft, in position 50.40N, 18.20E, on 28 January and was blown up in March 1945. Wreck broken up.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.00, 18.00], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u2331.htm">U-2331</a></strong> (Oblt. <a href="/men/commanders/905.html">Hans-Walter Pahl</a>). Sank on 10 Oct 1944 near Hela, in approximate position 54.00N, 18.00E, in an accident. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.33, 23.17], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u479.htm">U-479</a></strong> (Oblt. (R) <a href="/men/commanders/1204.html">Friedrich-Wilhelm Sons</a>). Sunk on or after 27 November 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-west of Odensholm, in position 59.20N, 23.10E, by a Soviet mine.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.67, 19.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u80.htm">U-80</a></strong> (Kptlt. <a href="/men/commanders/587.html">Hans Keerl</a>). Sank on 28 November 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 54.40N, 19.30E, in a diving accident.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.97, 19.72], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u416.htm">U-416</a></strong> (Oblt. <a href="/men/commanders/1004.html">Eberhard Rieger</a>). Decommissioned on 8 April 1943 at Stettin after being badly damaged west of Bornholm, in position 54.51N, 14.35E, by a mine in the British field <em>Pollock</em> on 30 March 1943.<p>Repaired in the Schichau-Werft at Königsberg and returned to service on 4 October 1943.</p><p>Sank on 12 December 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-west of Pillau, in position 54.58N, 19.43E, after a collision with the German minesweeper <strong>M 203</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.02, 14.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u2342.htm">U-2342</a></strong> (Oblt. (R) <a href="/men/commanders/1058.html">Berthold Schad von Mittelbiberach</a>). Sunk at 2240hrs on 26 Dec 1944 in the <a href=/maps/baltic_sea.htm>Baltic Sea</a> north of Swinemünde, in position 54.01.8N, 14.15.20E, by a mine.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.43, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u547.htm">U-547</a></strong> (Oblt. <a href="/men/commanders/880.html">Heinrich Niemeyer</a>). Decommissioned on 31 December 1944 at Stettin, after being badly damaged by air-laid mines in the British minefield <em>Deodar</em> in the Gironde near Pauillac on 11 August 1944.<p>Hulk captured by Soviet forces at Stettin in April 1945 and later broken up.</p>');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.50, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u679.htm">U-679</a></strong> (Oblt. <a href="/men/commanders/23.html">Eduard Aust</a>). Sunk on or about 9 January 1945 in the <a href=\"/maps/baltic_sea.htm\">Gulf of Finland</a> off Odensholm, by a Soviet mine.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.70, 20.45], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u763.htm">U-763</a></strong> (Oblt. <a href="/men/commanders/1136.html">Karl-Heinz Schröter</a>). Scuttled on 29 January 1945 in the Schichau shipyard at Königsberg because the unseaworthy boat could not be evacuated after being damaged by bombs during a Soviet air raid on 24 January.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.63, 23.17], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u745.htm">U-745</a></strong> (Kptlt. <a href="/men/von_trotha.htm">Wilhelm von Trotha</a>). Sunk on 31 January 1945 in the <a href=\"/maps/baltic_sea.htm\">Gulf of Finland</a> south of Hanko, in approx. position 59.30N, 23.00E, by a mine in the barrage <em>Vantaa 3</em> laid by the Finnish minelayers <a href=\"/allies/merchants/3577.html\"><strong>Louhi</strong></a> and <strong>Routsinsalmi</strong> on 12 January 1945.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.62, 23.20], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u676.htm">U-676</a></strong> (Kptlt. <a href="/men/commanders/1050.html">Werner Sass</a>). Sunk after 12 February 1945 in the <a href=\"/maps/baltic_sea.htm\">Gulf of Finland</a> south of Hanko, in approx. position 59.30N, 23.00E, by a mine in the barrage <em>Vantaa 3</em> laid by the Finnish minelayers <a href=\"/allies/merchants/3577.html\"><strong>Louhi</strong></a> and <strong>Routsinsalmi</strong> on 12 January 1945.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.60, 18.87], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u367.htm">U-367</a></strong> (Oblt. <a href="/men/commanders/1218.html">Hasso Stegemann</a>). Sunk on 15 March 1945 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Hela, in position 54.36N, 18.52E, by a mine laid by the Soviet submarine <a href=\"/allies/warships/ship/4890.html\">L-21</a> two days earlier.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/yellow_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.63, 19.90], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u78.htm">U-78</a></strong> (Oblt. <a href="/men/commanders/520.html">Horst Dieter Hübsch</a>). Sunk at 2150hrs on 16 April 1945 at the ferry quay in Pillau by artillery fire from the Soviet Army, while being used as electricity generation plant.');
+
+//route = ''
+
+//Print out the convoy route
+
+var routeCoordinates = [
+	        [40.45, -73.50],
+	        [40.30, -71.51],
+	        [43.00, -64.04],
+	        [44.39, -63.34],
+	        [44.39, -58.00],
+	        [45.00, -52.00],
+	        [47.00, -49.00],
+	        [54.00, -45.34],
+	        [59.00, -40.00],
+	        [61.00, -30.00],
+	        [60.00, -15.00],
+	        [58.00, -10.00],
+	        [55.53, -6.59],
+	        [55.18, -5.59],
+	        [54.56, -5.18],
+	        [54.00, -5.07],
+	        [53.46, -3.13] // Liverpool
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/red_Marker.png"> 1941.
+<img src="/media/maps/googlemarkers/blue_Marker.png"> 1942.
+<img src="/media/maps/googlemarkers/orange_Marker.png"> 1943.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.
+<img src="/media/maps/googlemarkers/yellow_Marker.png"> 1945.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p>
+</div>
+
+<p><br><strong>45</strong> German U-boats lost in the Baltic, almost half of them lost through accidents, see the map below.
+
+  
+  See the losses in the <a href="kattegat.htm">Kattegat area</a>.
+
+
+<div align="center">
+<h2>Accidental U-boat losses in the Baltic</h2>
+
+
+<style media="screen" type="text/css">
+        #map_collision {width:700px; height: 400px; margin-bottom: 20px; margin-top: 20px;}
+    </style>
+
+<div id="map_collision" align="center"></div>
+
+<script type="text/javascript" charset="utf-8">
+
+var mymap = L.map('map_collision').setView([18.4, 55.20], 6)
+L.tileLayer('https://maps.uboat.net/{z}/{x}/{y}.png', {
+attribution: 'uboat.net',
+maxZoom: 10,
+}).addTo(mymap);
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.67, 20.67], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u580.htm">U-580</a></strong> (Oblt. <a href="/men/commanders/676.html">Hans-Günther Kuhlmann</a>). Sank on 11 November 1941 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Memel, in position 55.45N, 20.40E, after a collision with the German target ship <strong>Angelburg</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/red_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.30, 16.88], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u583.htm">U-583</a></strong> (Kptlt. <a href="/men/commanders/975.html">Heinrich Ratsch</a>). Sank at 2148hrs on 15 November 1941 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Stolpmünde, in position 55.18,5N, 16.53,5E, after a collision with U-153. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.05, 18.08], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u612.htm">U-612</a></strong> (Kptlt. <a href="/men/commanders/1194.html">Paul Siegmann</a>). Sank on 6 August 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Leba, in position 55.03N, 18.05E, after a collision with U-444.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.42, 19.50], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u222.htm">U-222</a></strong> (Kptlt. <a href="/men/commanders/556.html">Ralf von Jessen</a>). Sank on 2 September 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 54.25N, 19.30E, after a collision with U-626.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/blue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.75, 18.83], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u272.htm">U-272</a></strong> (Oblt. <a href="/men/commanders/462.html">Horst Hepp</a>). Sank on 12 November 1942 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Hela, in position 54.45N, 18.50E, after a collision with U-634.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.25, 17.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u649.htm">U-649</a></strong> (Oblt. <a href="/men/commanders/1274.html">Raimund Tiesler</a>). Sank on 24 February 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Leba, in position 55.15N, 17.15E, after a collision with U-232.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.55], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u733.htm">U-733</a></strong> (Oblt. <a href="/men/von_trotha.htm">Wilhelm von Trotha</a>). Sank on 8 April 1943 in the harbor entrance of Gotenhafen after a collision with the German patrol vessel <strong>VP 313</strong>. No casualties. Raised on 16 April 1943, repaired at the Schichau-Werft in Königsberg and returned to service on 15 December 1943.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.72, 21.10], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u34.htm">U-34</a></strong> (Ltn. <a href="/men/commanders/23.html">Eduard Aust</a>). Sank at 2155hrs on 5 August 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> at Memel, in position 55.43,7N, 21.06,5E after a collision with the  U-boat tender <strong>Lech</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.83, 19.25], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u670.htm">U-670</a></strong> (Oblt. <a href="/men/commanders/532.html">Guido Hyronimus</a>). Sank at 2330hrs on 20 August 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Hela, in position 54.50N, 19.15E, after a collision with the German target ship <strong>Bolkoburg</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.93, 17.23], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u983.htm">U-983</a></strong> (<a href="/men/commanders/990.html">Hans Reimers</a>). Sank on 8 September 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Leba, in position 54.56N, 17.14E, after a collision with U-988.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.35, 15.40], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u718.htm">U-718</a></strong> (Oblt. <a href="/men/commanders/1349.html">Helmut Wieduwilt</a>). Sank on 18 November 1943 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-east of Bornholm, in position 55.21N, 15.24E, after a collision with U-476.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/orange_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.43, 19.13], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u768.htm">U-768</a></strong> (Oblt. <a href="/men/commanders/159.html">Johann Buttjer</a>). Sank on 20 November 1943 in the <a href=\"/maps/baltic_sea.htm\">Gulf of Danzig</a>, in position 54.25,7N, 19.08E, after a collision with U-745.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.53, 18.60], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u738.htm">U-738</a></strong> (Oblt. <a href="/men/commanders/502.html">Erich-Michael Hoffmann</a>). Sank on 14 February 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> off Gotenhafen, in position 54.32N, 18.36E, after a collision with the German steam merchant <strong>Erna</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.35, 13.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1013.htm">U-1013</a></strong> (Oblt. <a href="/men/commanders/734.html">Gerhard Linck</a>). Sank on 17 March 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> east of Rügen, in position 54.21,2N, 13.55,2E, after a collision with U-286.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.80, 19.92], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u2.htm">U-2</a></strong> (Oblt. <a href="/men/commanders/1175.html">Wolfgang Schwarzkopf</a>). Sank 8 April 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north of Pillau, in position 54.48N, 19.55E, after a collision with the German steam trawler <strong>Helmi Söhle</strong>.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.15, 19.18], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u1015.htm">U-1015</a></strong> (Oblt. (R) <a href="/men/commanders/103.html">Hans-Heinz Boos</a>). Sank on 19 May 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> west of Pillau, in position 55.09,6N, 19.11,6E, after collision with U-1014.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/paleblue_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.97, 19.72], {icon: iconFate}).addTo(mymap).bindPopup('<a href="/boats/u416.htm">U-416</a></strong> (Oblt. <a href="/men/commanders/1004.html">Eberhard Rieger</a>). Decommissioned on 8 April 1943 at Stettin after being badly damaged west of Bornholm, in position 54.51N, 14.35E, by a mine in the British field <em>Pollock</em> on 30 March 1943.<p>Repaired in the Schichau-Werft at Königsberg and returned to service on 4 October 1943.</p><p>Sank on 12 December 1944 in the <a href=\"/maps/baltic_sea.htm\">Baltic Sea</a> north-west of Pillau, in position 54.58N, 19.43E, after a collision with the German minesweeper <strong>M 203</strong>.');
+
+//route = ''
+
+//Print out the convoy route
+
+var routeCoordinates = [
+	        [40.45, -73.50],
+	        [40.30, -71.51],
+	        [43.00, -64.04],
+	        [44.39, -63.34],
+	        [44.39, -58.00],
+	        [45.00, -52.00],
+	        [47.00, -49.00],
+	        [54.00, -45.34],
+	        [59.00, -40.00],
+	        [61.00, -30.00],
+	        [60.00, -15.00],
+	        [58.00, -10.00],
+	        [55.53, -6.59],
+	        [55.18, -5.59],
+	        [54.56, -5.18],
+	        [54.00, -5.07],
+	        [53.46, -3.13] // Liverpool
+];
+var polyline = L.polyline(routeCoordinates, {color: 'red'}).addTo(mymap);
+
+// WWII locations
+// Reference date: 1945-05-01
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.52, 8.12], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Wilhelmshaven, Germany</strong>. Home of the 2nd U-boat flotilla from Sep 1936 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([60.33, 5.33], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Bergen, Norway</strong>. Home of the 11th U-boat flotilla from May 1942.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.75, -3.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Lorient, France</strong>. Home of the 2nd and 10th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([47.28, -2.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>St. Nazaire, France</strong>. Home of the 6th and 7th U-boat flotillas.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([53.42, -3.00], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Liverpool, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([63.45, 10.38], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Trondheim, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([69.67, 18.93], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Tromsö, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.85, -76.28], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Norfolk, VA, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([54.32, 10.13], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Kiel, Germany</strong>. Home of the 1st U-boat flotilla from Sept 1935 to May 1941. 3rd flotilla (Oct 1937 to Sept 1941), 6th flotilla from Oct 1938 to Dec 1939. 7th flotilla frmom June 1948 to May 1941.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([59.42, 10.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Horten, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([46.17, -1.25], {icon: iconFate}).addTo(mymap).bindPopup('<strong>La Rochelle, France</strong>. Home of the 3rd U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.47, 17.43], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Narvik, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([70.65, 23.68], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Hammerfest, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([64.52, 40.67], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Arkhangelsk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([68.83, 33.20], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Murmansk, Russia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.65, -63.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Halifax, Nova Scotia, Canada</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([40.78, -73.97], {icon: iconFate}).addTo(mymap).bindPopup('<strong>New York, USA</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([35.83, 14.58], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Malta, </strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([29.92, 30.35], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Alexandria, Egypt</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([36.18, -5.57], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Gibraltar, UK</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([37.88, 23.50], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Salamis, Greece</strong>. Home of the 23rd (May 1941 to May 1942) and 29th U-boat flotilla.');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([44.87, 13.88], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pula, Croatia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([5.42, 100.27], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Penang, Malaysia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([58.97, 5.75], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Stavanger, Norway</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/brown_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([-6.20, 106.80], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Jakarta, Indonesia</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([50.78, -1.17], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Portsmouth, England</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([55.95, -4.82], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Clyde, Scotland</strong>. ');
+
+var iconFate = L.icon({
+			    iconUrl: '/media/maps/googlemarkers/darkgreen_Marker.png',
+			    iconSize: [20, 34],
+    			iconAnchor: [10, 34],
+			});
+var marker = L.marker([21.35, -157.95], {icon: iconFate}).addTo(mymap).bindPopup('<strong>Pearl Harbor, Hawaii, USA</strong>. ');
+</script>
+<p><strong>Legend</strong></p>
+<p>
+<img src="/media/maps/googlemarkers/red_Marker.png"> 1941.
+<img src="/media/maps/googlemarkers/blue_Marker.png"> 1942.
+<img src="/media/maps/googlemarkers/orange_Marker.png"> 1943.
+<img src="/media/maps/googlemarkers/paleblue_Marker.png"> 1944.</p><p>Click on any marker to see the boat's number. Left double-click to zoom-in. Right double-click to zoom-out.</p>
+</div>
+  <p><br><strong>Training accidents</strong><br>Interesting fact about this area is the number of U-boats lost to accidental collisions with other U-boats and vessels. Since this was the main training area for the massive U-boat force build-up during the war accidents can be expected.</p> <p><strong>17</strong> German U-boat lost through accidents in the Baltic.</p>  
+
+
+<div align="center"><h3>Selected media links</h3><table><tr><td class="width130" align="center"><p><a href="/books/item/2461"><img src="/media/books/covers/english/1784381926.jpg"  width="100" alt="" /><br>Otto Kretschmer</a><br>Lawrence Patterson (2018)</p><div class="left"><br> <img src="/media/images/flags/small/flag-uk_s.gif" alt="" /> <a href="/about/scripts/amazon_co_uk.php?book=1784381926&path=/maps/baltic_sea.htm">amazon.co.uk</a> <br>(£ 25.00)</div></td><td class="width130" align="center"><p><a href="/books/item/134"><img src="/media/books/covers/polish/polskie-okrety-podwodne-rudzki.jpg"  width="100" alt="" /><br>Polskie Okrety Podwodne 1926-1969</a><br>Rudzki, Czeslaw (1985)</p></td><td class="width130" align="center"><p><a href="/books/item/1925"><img src="/media/books/covers/swedish/ofredens.jpg"  width="100" alt="" /><br>Ofredens hav - Östersjön 1939 - 1992</a><br>Linder, Jan and Lundberg, Lennart (2002)</p></td><td class="width130" align="center"><p><a href="/books/item/2093"><img src="/media/books/covers/swedish/dodenshav.jpg"  width="100" alt="" /><br>Dödens Hav - Östersjön 1945</a><br>Wetterholm, Claes-Göran (2002)</p></td><td class="width130" align="center"><p><a href="/books/item/2185"><img src="/media/books/covers/english/baltic_assignment.jpg"  width="100" alt="" /><br>Baltic Assignment</a><br>Wilson, Michael (1985)</p></td></tr></table></div>
+
+<br>
+<div align="center">
+	<h3><a href="/maps/">The Maps</a></h3>
+</div>
+
+
+
+<!--<p>
+	<br>
+</p>-->
+
+<p><br></p>
+
+</div>
+<!-- This closes the main content DIV (text area of pages) -->
+
+
+		<div id="footer">
+		
+            <div id="footer_navcontainer">
+                <ul id="footer_navlist">
+                    <li><a href="/" title="Front page">Front page</a></li>
+                    <li><a href="/about/" title="About uboat.net">About</a></li>
+                    <li><a href="/about/contact.htm" title="Contact us">Contact us</a></li>
+                    <li><a href="/special/faq.htm" title="Frequently Asked Questions">FAQ</a></li>
+                    <li><a href="/glossary.htm" title="Glossary pages">Glossary</a></li>
+                    <li><a href="/new.htm" title="What's new at uboat.net">What's new</a></li>
+                </ul>
+            </div>
+
+            <div id="footer_copyright">
+                &nbsp;&copy; 1995 - 2020 Gu&eth;mundur Helgason            </div>
+
+		</div>
+		<!-- End of footer -->
+
+</div>
+<!-- End of container DIV -->
+
+</body></html>
+
