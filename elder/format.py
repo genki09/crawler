@@ -51,7 +51,7 @@ def decode_geo():
             con += 1
     print(fin_list)
 
-
+# bilibili1024程序员节中一道题需要猜一个数字的工具函数，与elder项目无关
 def bilibili1024():
     for i in range(1, 100000):
         url = 'http://45.113.201.36/api/ctf/5?uid={}'.format(i+100336889)
