@@ -20,7 +20,7 @@ def get_name_pm_form_meizu(cityid):
 
 
 def get_citypinyin_from_gaode(lat, lon):
-    url = 'http://restapi.amap.com/v3/geocode/regeo?key=59467ad3e84fc90798d24f0b0c534868&location={:.4f},{:.4f}&poitype=&radius=&extensions=base&batch=false&roadlevel=0'.format(lon, lat)
+    url = 'http://restapi.amap.com/v3/geocode/regeo?key=～高德Web服务api～&location={:.4f},{:.4f}&poitype=&radius=&extensions=base&batch=false&roadlevel=0'.format(lon, lat)
     r = requests.get(url).text
     rt = json.loads(r)
     # print('经纬度信息为：{:.4f}, {:.4f}'.format(lon, lat))
