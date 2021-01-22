@@ -36,7 +36,7 @@ def decode_geo():
     fin_list = []
     con = 1
     for pages in range(1, 26):
-        url = 'https://restapi.amap.com/v3/place/text?key=59467ad3e84fc90798d24f0b0c534868&keywords=学院&types=&city=徐州' \
+        url = 'https://restapi.amap.com/v3/place/text?key=～高德Web服务api～&keywords=学院&types=&city=徐州' \
               + '&children=1&offset=&page=' + str(pages) + '&extensions=all'
         r = req.get(url, headers=header).text
         rt = json.loads(r)
