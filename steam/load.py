@@ -237,7 +237,7 @@ if __name__ == '__main__':
 
     url_person = get_personal_url()
 
-    # url_person = 'https://steamcommunity.com/id/yqjiejie/'
+
 
     game_dict = get_game_list(url_person)
 
