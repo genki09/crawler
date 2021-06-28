@@ -27,7 +27,7 @@ def get_lines(cityE, city):
 
 
 def get_dt(city, line):
-    url = 'https://restapi.amap.com/v3/bus/linename?s=rsv3&extensions=all&key=b61d59a306da2b4620e583d129da82fa&output=ison&city={}&offset=1&keywords={}&platform=JS'.format(
+    url = 'https://restapi.amap.com/v3/bus/linename?s=rsv3&extensions=all&key={}&output=ison&city={}&offset=1&keywords={}&platform=JS'.format(
         city, line
     )
     r = requests.get(url).text
@@ -235,6 +235,3 @@ if __name__ == "__main__":
 
     t2 = time.time()
     print('耗时{}秒'.format(float('%.6f' % (t2 - t1))))
-
-# b61d59a306da2b4620e583d129da82fa
-# 81462cd792233fa4e494f7b4e58a1321
