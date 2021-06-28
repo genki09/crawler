@@ -12,7 +12,7 @@ t = int(time.time() * 1000)
 # 创建菜单及对应编号一览字典
 dic = {}
 # 定义用户名与密码
-username = '07172336'
+username = ''
 password = 'lll;;;'
 
 
